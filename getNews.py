@@ -40,7 +40,7 @@ removals_by_category = {
 chosen_categories = ["General"]
 chosen_keywords = []
 chosen_politics = "Center"
-chosen_time_interval = "14 days"
+chosen_time_interval = "3 days"
 interval_map = {
     "1 day": 2,
     "3 days": 3,

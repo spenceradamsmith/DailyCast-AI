@@ -2,9 +2,9 @@ Categories: ['General']
 Keywords: []
 Politics: Center
 Sources: ['fox-news', 'usa-today', 'cnn']
-Start Date: 2025-07-04
+Start Date: 2025-07-15
 End Date: 2025-07-18
-Total Results: 2651
+Total Results: 639
 [
   {
     "source": "USA Today",
