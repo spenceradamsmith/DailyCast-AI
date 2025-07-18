@@ -106,20 +106,3 @@ with open("podsmith_output.txt", "w", encoding = "utf-8") as out:
     print("End Date:", end_date, file = out)
     print("Total Results:", data.get("totalResults"), file = out)
     print(json.dumps(filtered_data, indent = 2), file = out)
-
-
-# fetch all English‑language, U.S.‑based sources
-response = requests.get(
-    "https://newsapi.org/v2/sources",
-    params={
-        "apiKey": NEWSAPI_KEY,
-        "language": "en",
-        "country": "us",
-        "category": "general",
-    }
-)
-sources = response.json().get("sources", [])
-
-# print out each source’s ID and name
-for src in sources:
-    print(f"{src['id']}\t– {src['name']}")
