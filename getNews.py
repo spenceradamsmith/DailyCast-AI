@@ -10,8 +10,8 @@ OPENAI_KEY = os.getenv("OPENAI_KEY")
 
 # Mapping categories to source names
 categories = {
-    "General": ["fox-news", "national-review", "reuters", "the-washington-post", "cnn"],
-    "Politics": ["fox-news", "the-washington-times", "the-hill", "politico", "cnn"],
+    "General": ["breitbart-news", "fox-news", "usa-today", "cnn", "associated-press"],
+    "Politics": ["breitbart-news", "fox-news", "the-hill", "cnn", "msnbc"],
     "Business": ["financial-post", "business-insider", "fortune", "bloomberg", "the-wall-street-journal"],
     "Technology": ["techcrunch", "wired", "the-verge", "engadget", "ars-technica"],
     "Science": ["national-geographic", "new-scientist", "next-big-future"],
@@ -21,26 +21,26 @@ categories = {
 }
 removals_by_category = {
     "General": {
-        "Left":   {"fox-news", "national-review", "reuters"},
-        "Center-Left": {"fox-news", "national-review", "cnn"},
-        "Center": {"fox-news", "cnn"},
-        "Center-Right": {"fox-news", "the-washington-post", "cnn"},
-        "Right":  {"reuters", "the-washington-post", "cnn"},
+        "Left":   {"breitbart-news", "fox-news", "usa-today"},
+        "Center-Left": {"breitbart-news", "fox-news", "associated-press"},
+        "Center": {"breitbart-news", "associated-press"},
+        "Center-Right": {"breitbart-news", "cnn", "associated-press"},
+        "Right":  {"usa-today", "cnn", "associated-press"},
     },
     "Politics": {
-        "Left":   {"fox-news", "the-washington-times", "the-hill"},
-        "Center-Left": {"fox-news", "the-washington-times", "cnn"},
-        "Center": {"fox-news", "cnn"},
-        "Center-Right": {"fox-news", "politico", "cnn"},
-        "Right":  {"the-hill", "politico", "cnn"},
+        "Left":   {"breitbart-news", "fox-news", "the-hill"},
+        "Center-Left": {"breitbart-news", "fox-news", "msnbc"},
+        "Center": {"breitbart-news", "msnbc"},
+        "Center-Right": {"breitbart-news", "cnn", "msnbc"},
+        "Right":  {"the-hill", "cnn", "msnbc"},
     }
 }
 
 # Choose options
-chosen_categories = ["General", "Technology"]
+chosen_categories = ["General"]
 chosen_keywords = []
 chosen_politics = "Center"
-chosen_time_interval = "3 days"
+chosen_time_interval = "14 days"
 interval_map = {
     "1 day": 2,
     "3 days": 3,
@@ -106,3 +106,20 @@ with open("podsmith_output.txt", "w", encoding = "utf-8") as out:
     print("End Date:", end_date, file = out)
     print("Total Results:", data.get("totalResults"), file = out)
     print(json.dumps(filtered_data, indent = 2), file = out)
+
+
+# fetch all English‑language, U.S.‑based sources
+response = requests.get(
+    "https://newsapi.org/v2/sources",
+    params={
+        "apiKey": NEWSAPI_KEY,
+        "language": "en",
+        "country": "us",
+        "category": "general",
+    }
+)
+sources = response.json().get("sources", [])
+
+# print out each source’s ID and name
+for src in sources:
+    print(f"{src['id']}\t– {src['name']}")

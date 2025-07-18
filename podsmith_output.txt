@@ -1,585 +1,809 @@
-Categories: ['General', 'Technology']
+Categories: ['General']
 Keywords: []
 Politics: Center
-Sources: ['national-review', 'reuters', 'the-washington-post', 'techcrunch', 'wired', 'the-verge', 'engadget', 'ars-technica']
-Start Date: 2025-07-15
+Sources: ['fox-news', 'usa-today', 'cnn']
+Start Date: 2025-07-04
 End Date: 2025-07-18
-Total Results: 224
+Total Results: 2651
 [
   {
-    "source": "TechCrunch",
-    "title": "Hackers are trying to steal passwords and sensitive data from users of Signal clone | TechCrunch",
-    "description": "The bug in the modified messaging app can expose users' \u201cplaintext usernames, passwords, and other sensitive data,\u201d per GreyNoise.",
-    "content": "Hackers are targeting a previously reported bug in the Signal clone app TeleMessage in an effort to steal users private data, according to security researchers and a U.S. government agency.\r\nTeleMess\u2026 [+2667 chars]",
-    "url": "https://techcrunch.com/2025/07/17/hackers-are-trying-to-steal-passwords-and-sensitive-data-from-users-of-signal-clone/",
+    "source": "USA Today",
+    "title": "NFL insider pumps up Patriots and WR Terry McLaurin trade talk",
+    "description": "NFL insider Albert Breer believes the New England Patriots would be \"very interested\" in Washington Commanders' star wide receiver Terry McLaurin.",
+    "content": "NFL insider Albert Breer doesn't expect the Washington Commanders to botch their pending contract extension with All-Pro wide receiver Terry McLaurin. However, if the situation remains unresolved and\u2026 [+2110 chars]",
+    "url": "https://patriotswire.usatoday.com/story/sports/nfl/patriots/2025/07/17/nfl-insider-pumps-up-patriots-terry-mclaurin-trade-talk/85257015007/",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Netflix\u2019s Assassin\u2019s Creed series is finally coming together",
-    "description": "It has been five years since Netflix first announced that it was working with Ubisoft to develop a live-action Assassin\u2019s Creed show inspired by the hit games series. For a long time, it seemed like the project might be dead in the water given how little news\u2026",
-    "content": "After years of being stuck in development hell, the live-action Assassins Creed project now has a pair of showrunners.\r\nIt has been five years since Netflix first announced that it was working with U\u2026 [+2441 chars]",
-    "url": "https://www.theverge.com/netflix/708989/netflix-assassins-creed-roberto-patino",
+    "source": "USA Today",
+    "title": "Popular podcaster criticizes JD Vance over past Epstein comments: 'What changed?'",
+    "description": "Theo Von's comments join a growing chorus of online MAGA figures pushing back against the Trump administration over the alleged Jeffrey Epstein \"client list....",
+    "content": "A popular podcast host and comedian who interviewed Donald Trump on the 2024 presidential campaign and attended his inauguration is criticizing Vice President JD Vance over the Jeffrey Epstein case.\r\u2026 [+3933 chars]",
+    "url": "https://www.usatoday.com/story/news/politics/2025/07/17/theo-von-jd-vance-epstein-files/85255043007/",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Boulevard raises $80M to power self-care boom driven by Botox and GLP-1 surge | TechCrunch",
-    "description": "Boulevard raises $80M to power self-care boom driven by Botox and GLP-1 surge | TechCrunchtechcrunch.com",
-    "content": "The beauty industry has seen an explosion of offerings recently. Customers can now access treatments far beyond basic hair and nail care, from wrinkle-smoothing Botox and fillers to permanent laser h\u2026 [+3161 chars]",
-    "url": "https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/",
+    "source": "Fox News",
+    "title": "Trump's immigration crackdown in LA ignites 'same emotional notes' for Dems, top local GOP leader says",
+    "description": "LA County Republican Chair Roxanne Hoge calls federal immigration operations \"political irony\" as ICE conducts sweeps amid opposition from Mayor Karen Bass and Gov. Gavin Newsom.",
+    "content": "The federal immigration operations in Los Angeles have created a sense of \"political irony\" in the Golden State, according to Los Angeles County Republican Party Chair Roxanne Hoge.\r\nThe region conti\u2026 [+5245 chars]",
+    "url": "https://www.foxnews.com/politics/trumps-immigration-crackdown-la-ignites-same-emotional-notes-dems-local-gop-leader-says",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Zuckerberg and Meta investors reach settlement in $8B privacy case",
-    "description": "The shareholders' lawsuit alleges Facebook execs intentionally violated an FTC agreement by sharing user data with third-party apps without user consent.",
-    "content": "Mark Zuckerberg and other current and former Meta executives have settled a lawsuit filed by a group of shareholders. They were seeking $8 billion for the damage the executives caused the company by \u2026 [+711 chars]",
-    "url": "https://techcrunch.com/2025/07/17/zuckerberg-and-meta-investors-reach-settlement-in-8b-privacy-case/",
+    "source": "Fox News",
+    "title": "Liberty coach Sandy Brondello eager to work with Caitlin Clark as injury threatens All-Star appearance",
+    "description": "New York Liberty coach Sandy Brondello expressed her hopes of coaching Caitlin Clark at the All-Star Game on Saturday, but another injury for the Fever star could threaten that.",
+    "content": "NEW YORK New York Liberty\r\n head coach Sandy Brondello is looking forward to the opportunity of coaching Caitlin Clark in the WNBA All-Star Game on Saturday, but the Indiana Fever stars latest injury\u2026 [+2170 chars]",
+    "url": "https://www.foxnews.com/sports/liberty-coach-sandy-brondello-eager-work-caitlin-clark-injury-threatens-all-star-appearance",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Mistral's Le Chat chatbot gets a productivity push with new \u2018deep research' mode | TechCrunch",
-    "description": "French AI lab Mistral introduced a range of new features to its Le Chat chatbot on Thursday that bring it closer to the capabilities of rivals like OpenAI and Google. The new update includes a new \u201cdeep research\u201d mode, native multilingual reasoning, and advan\u2026",
-    "content": "French AI lab Mistral introduced a range of new features to its Le Chat chatbot on Thursday that bring it closer to the capabilities of rivals like OpenAI and Google. The new update includes a new de\u2026 [+3635 chars]",
-    "url": "https://techcrunch.com/2025/07/17/mistrals-le-chat-chatbot-gets-a-productivity-push-with-new-deep-research-mode/",
+    "source": "Fox News",
+    "title": "Spying camera vest deters attackers by recording them in action",
+    "description": "The new Urban Eyes safety vest features dual cameras, reflective panels and a wireless remote to deter harassers and provide peace of mind for outdoor workouts.",
+    "content": "When you're out walking, jogging or running, you should feel empowered, not unsafe. Yet a recent survey found that 92% of women in the U.S. reported feeling concerned for their safety while running, \u2026 [+4562 chars]",
+    "url": "https://www.foxnews.com/tech/spying-camera-vest-deters-attackers-recording-them-action",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "AMD\u2019s new 96-core Threadripper CPU will set you back $11,699",
-    "description": "AMD\u2019s latest Zen 5-based Ryzen Threadripper Pro 9000 WX-Series of CPUs go on sale later this month, and the top option will be priced at $11,699. The 9000 WX-Series chips are designed for workstations, with the $11,699 Threadripper Pro 9995WX shipping on July\u2026",
-    "content": "The Threadripper Pro 9000 WX-Series starts at $1,649 and ships on July 23rd.\r\nAMDs latest Zen 5-based Ryzen Threadripper Pro 9000 WX-Series of CPUs go on sale later this month, and the top option wil\u2026 [+1215 chars]",
-    "url": "https://www.theverge.com/news/709005/amd-threadripper-9000-pro-wx-series-pricing-availability",
+    "source": "Fox News",
+    "title": "French pop band cancels North American tour over 'very worrying' US political climate",
+    "description": "French band Yelle canceled their North American tour due to worries about U.S. immigration policies and freedom of speech, adding to a trend of artists reconsidering American tours.",
+    "content": "French electro-pop band Yelle announced on Wednesday that they are canceling their North American tour slated for the fall due to the \"very worrying\" political climate in the United States.\r\nThe band\u2026 [+2208 chars]",
+    "url": "https://www.foxnews.com/media/french-pop-band-cancels-north-american-tour-over-very-worrying-us-political-climate",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Lenovo Legion Go S review part two: you were the chosen one!",
-    "description": "Valve's Steam Deck has dominated the handheld gaming PC space since its 2022 debut. But even as more powerful Windows handhelds arrived to keep up with more demanding games, none have beaten the Steam Deck's combination of ease-of-use, ergonomics, power, and \u2026",
-    "content": "Valves Steam Deck has dominated the handheld gaming PC space since its 2022 debut. But even as more powerful Windows handhelds arrived to keep up with more demanding games, none have beaten the Steam\u2026 [+16963 chars]",
-    "url": "https://www.theverge.com/reviews/704903/lenovo-legion-go-s-steam-os-review-z2-go-z1-extreme",
+    "source": "Fox News",
+    "title": "Bryan Kohberger prosecutors announce reversal on gag order after Idaho killer's confession",
+    "description": "Idaho prosecutors withdraw support for the gag order in Bryan Kohberger's quadruple murder case following his guilty pleas, stating his right to a fair trial is 'no longer at issue'",
+    "content": "Idaho prosecutors have dropped their support for the ongoing gag order in the Bryan Kohberger quadruple murder case.\r\nLatah County Prosecuting Attorney notified the court in a filing dated Monday. It\u2026 [+2318 chars]",
+    "url": "https://www.foxnews.com/us/bryan-kohberger-prosecutors-announce-reversal-gag-order-after-idaho-killers-confession",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Elgato brightens up its Stream Deck and mics with four new colors",
-    "description": "Elgato has released four new color options for its Stream Deck and other streaming accessories as part of a new Dreamscape collection designed to better match the aesthetic of a studio or gaming room. The devices and accessories have previously typically only\u2026",
-    "content": "The new Dreamscape collection includes green, pink, lavender, and blue versions of Elgatos streaming gear.\r\nThe new Dreamscape collection includes green, pink, lavender, and blue versions of Elgatos \u2026 [+1585 chars]",
-    "url": "https://www.theverge.com/news/709011/elgato-stream-deck-wave-microphone-dreamscape-colors",
+    "source": "Fox News",
+    "title": "Bipartisan House resolution aims to condemn phrase that's created firestorm for Zohran Mamdani",
+    "description": "Democratic and Republican lawmakers are teaming up on resolution declaring 'globalize the intifada' threatens Jewish safety, citing recent violent incidents.",
+    "content": "FIRST ON FOX: A bipartisan House duo is teaming up for a resolution to urge elected leaders in the U.S. to condemn the phrase \"globalize the intifada.\"\r\nThe legislation, being led by Reps. Josh Gotth\u2026 [+3595 chars]",
+    "url": "https://www.foxnews.com/politics/bipartisan-house-resolution-aims-condemn-phrase-thats-created-firestorm-zohran-mamdani",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Confident Security, \u2018the Signal for AI,\u2019 comes out of stealth with $4.2M | TechCrunch",
-    "description": "San Francisco-based startup Confident Security wants to be \u201cthe Signal for AI.\" The company just came out of stealth with $4.2 million and a tool that wraps around AI models to guarantee data stays private.",
-    "content": "As consumers, businesses, and governments flock to the promise of cheap, fast, and seemingly magical AI tools, one question keeps getting in the way: How do I keep my data private?\r\nTech giants like \u2026 [+3319 chars]",
-    "url": "https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/",
+    "source": "Fox News",
+    "title": "Ex-ESPN star criticizes company's direction after fan complaint",
+    "description": "Former ESPN broadcaster Trey Wingo lamented the company's direction in recent years as one social media user complained about Stephen A. Smith and Pat McAfee.",
+    "content": "Trey Wingo, a former ESPN staple on \"SportsCenter\" and \"NFL Live,\" appeared to lament the direction of his former employer earlier this week in a post on social media.\r\nWingo responded to another use\u2026 [+1602 chars]",
+    "url": "https://www.foxnews.com/sports/ex-espn-star-criticizes-companys-direction-after-fan-complaint",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Waymo responds to Tesla\u2019s dick joke with a bigger Austin robotaxi map",
-    "description": "Earlier this week, Elon Musk posted an image of Tesla\u2019s robotaxi service area in Austin, Texas, that was in the shape of a penis. Hilarious, I know, but more importantly: it appeared that Tesla\u2019s map was slightly larger than Waymo\u2019s service area, which covers\u2026",
-    "content": "I guess were measuring robotaxi service areas now?\r\nEarlier this week, Elon Musk posted an image of Teslas robotaxi service area in Austin, Texas, that was in the shape of a penis. Hilarious, I know,\u2026 [+2931 chars]",
-    "url": "https://www.theverge.com/news/708885/waymo-austin-map-expand-tesla-robotaxi",
+    "source": "Fox News",
+    "title": "Karine Jean-Pierre, more top Biden aides to appear in House cover-up probe",
+    "description": "Committee Chairman James Comer, R-Ky., is investigating allegations that\u00a0Biden's former top White House aides\u00a0covered up signs of his mental and physical decline while in office.",
+    "content": "Former White House press secretary Karine Jean-Pierre is expected to sit down with House Oversight Committee investigators behind closed doors in September, Fox News Digital has learned.\r\nA House Ove\u2026 [+952 chars]",
+    "url": "https://www.foxnews.com/politics/karine-jean-pierre-more-top-biden-aides-appear-house-cover-up-probe",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "North Korean hackers blamed for record spike in crypto thefts in 2025 | TechCrunch",
-    "description": "Chainalysis said crypto thefts during the first half of 2025 were at record levels, thanks in large part to a single breach at a major crypto exchange.",
-    "content": "Hackers have stolen more than $2 billion in crypto during the first half of 2025, according to new data from crypto analysis firm Chainalysis, marking the worst year-to-date on record for crypto thef\u2026 [+1430 chars]",
-    "url": "https://techcrunch.com/2025/07/17/north-korean-hackers-blamed-for-record-spike-in-crypto-thefts-in-2025/",
+    "source": "Fox News",
+    "title": "American tourist confirmed dead after Turks and Caicos vacation disappearance",
+    "description": "Police in the Turks and Caicos are insisting there was no foul play after finding the body of Brian Tarrence, an American from New York.",
+    "content": "A body found in Turks and Caicos over a week ago has been identified as a missing American man who vanished while vacationing in the tropical paradise.\u00a0\r\nBrian Tarrence, 51, of Monroe, New York\r\n, we\u2026 [+2400 chars]",
+    "url": "https://www.foxnews.com/us/american-tourist-confirmed-dead-after-turks-caicos-vacation-disappearance",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Apple launches new emoji word game to take on Wordle and the NYT",
-    "description": "Ever since the New York Times acquired Wordle and went all-in on games, there's been something of a slow-brewing arms race in the space. The Times continues to release new games, and it's now up against intriguing competitors like Puzzmo, Netflix, The Atlanti\u2026",
-    "content": "Daily puzzle games continue to be a competitive space, and Apple News Plus just expanded its offerings.\r\nEver since the New York Times acquired Wordle and went all-in on games, theres been something \u2026 [+2610 chars]",
-    "url": "https://www.theverge.com/games/708935/apple-news-plus-emoji-game-wordle",
+    "source": "USA Today",
+    "title": "Ketel Marte's home burglarized while Diamondbacks star was at MLB All-Star Game",
+    "description": "The home of the Arizona Diamondbacks' Ketel Marte was burglarized while he was away at the MLB All-Star Game in Atlanta.",
+    "content": "Ketel Marte, second baseman for the Arizona Diamondbacks, was the victim of a burglary at his Scottsdale home while he was participating in the 2025 MLB All-Star Game on Tuesday in Atlanta.\r\nAccordin\u2026 [+1006 chars]",
+    "url": "https://www.usatoday.com/story/sports/mlb/2025/07/17/ketel-marte-home-burglarized-mlb-all-star-game/85257029007/",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Wacom\u2019s new MovinkPad drawing tablet doesn\u2019t need a PC",
-    "description": "Wacom has announced the MovinkPad 11, an all-in-one Android-powered tablet for digital illustrators who want to draw on the go. Unlike other display drawing tablets in Wacom\u2019s lineup, the $449 MovinkPad doesn\u2019t need to be connected to a laptop or PC, placing \u2026",
-    "content": "Wacom is tempting iPad illustrators with its first Android-powered portable drawing tablet.\r\nWacom has announced the MovinkPad 11, an all-in-one Android-powered tablet for digital illustrators who wa\u2026 [+3273 chars]",
-    "url": "https://www.theverge.com/news/708951/wacom-movinkpad-11-android-drawing-tablet-launch-price",
+    "source": "CNN",
+    "title": "Exclusive: Brazil\u2019s president hits back at Trump\u2019s threat of 50% tariffs: He \u2018was elected not to be emperor of the world\u2019",
+    "description": "Brazilian President Luiz In\u00e1cio Lula da Silva tells CNN\u2019s Christiane Amanpour in an exclusive interview it was \u201ca surprise\u201d to see President Donald Trump\u2019s...",
+    "content": "Brazilian President Luiz In\u00e1cio Lula da Silva tells CNNs Christiane Amanpour in an exclusive interview it was a surprise to see President Donald Trumps letter posted to Truth Social, threatening Braz\u2026 [+115 chars]",
+    "url": "https://www.cnn.com/2025/07/17/world/video/brazil-president-lula-amanpour-digvid?cid=external-feeds_iluminar_yahoo",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Spotify expands audiobook access to family plan members for the first time",
-    "description": "Spotify is expanding access to audiobooks with two new plans, one of which offers access to family members.",
-    "content": "Spotify on Thursday announced an expansion of its premium audiobooks service, with two new plans that offer additional listening hours to subscribers, and allow other family members to access the ser\u2026 [+2518 chars]",
-    "url": "https://techcrunch.com/2025/07/17/spotify-expands-audiobook-access-to-family-plan-members-for-the-first-time/",
+    "source": "CNN",
+    "title": "Eswatini: Outrage over arrival of foreign US deportees in tiny African nation",
+    "description": "Across Africa, and in the tiny nation of Eswatini, fury has erupted over the arrival of foreign deportees from the United States, after its government confirmed that migrants described by a Department of Homeland security spokesperson as \u201cdepraved monsters\u201d h\u2026",
+    "content": "Across Africa, and in the tiny nation of Eswatini, fury has erupted over the arrival of foreign deportees from the United States, after its government confirmed that migrants described by a Departmen\u2026 [+6886 chars]",
+    "url": "https://www.cnn.com/2025/07/17/africa/africa-eswatini-trump-us-deportees-intl",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "Wired",
-    "title": "3 Best Hall Effect Keyboards for Gamers and Serious Typists (2025)",
-    "description": "Ascend from your mechanical keyboard to magnetically powered Hall effect switches. These are the best Hall effect keyboards for gamers and keyboard enthusiasts.",
-    "content": "Polling rate is likely one of the most prominently displayed details on any Hall effect keyboard, purely because the large numbers emphasize one of the most important aspects of these keyboards: Spee\u2026 [+2325 chars]",
-    "url": "https://www.wired.com/gallery/best-hall-effect-keyboards/",
+    "source": "Fox News",
+    "title": "Man takes his tip back after 'humiliation' by waitress, plus medieval monastery grabs spotlight",
+    "description": "The Fox News Lifestyle Newsletter brings you trending stories on family, travel, food, neighbors helping neighbors, pets, autos, military veterans, heroes, faith and American values.",
+    "content": "TOP 3:\r\nTABLES TURNED: After receiving poor service at a restaurant, a customer faced criticism from his waitress over his tip, leading to a controversial decision.\r\nMOATED MAJESTY: A property with r\u2026 [+735 chars]",
+    "url": "https://www.foxnews.com/lifestyle/man-takes-his-tip-back-after-humiliation-waitress-plus-medieval-monastery-grabs-spotlight",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Perplexity\u2019s CEO on why the browser is AI\u2019s killer app",
-    "description": "Hello, and welcome to Decoder! I\u2019m Alex Heath, deputy editor at The Verge and author of the Command Line newsletter. I\u2019m hosting our Thursday episodes while Nilay is out on parental leave. Today, we\u2019re talking about how AI is changing the way we use the web. \u2026",
-    "content": "Perplexitys CEO on why the browser is AIs killer app\r\nAravind Srinivas on Perplexitys new Comet web browser, the AI talent frenzy, and a future IPO.\r\nPerplexitys CEO on why the browser is AIs killer \u2026 [+43091 chars]",
-    "url": "https://www.theverge.com/decoder-podcast-with-nilay-patel/708256/perplexity-ceo-decoder-aravind-srinivas-comet-browser-ai-search",
+    "source": "USA Today",
+    "title": "More than 67,000 cases of Power Stick deodorant recalled nationwide",
+    "description": "More than 67,000 cases of Power Stick deodorants were recalled for deviating from Food and Drug Administration standards.",
+    "content": "More than 67,000 cases of Power Stick deodorants have been recalled for not meeting quality and safety standards.\r\nA.P. Deauville, a health and beauty product manufacturer in Pennsylvania, issued a r\u2026 [+1194 chars]",
+    "url": "https://www.usatoday.com/story/money/2025/07/17/power-stick-deodorant-recall/85256147007/",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "UAE's deal to buy Nvidia AI chips reportedly on hold | TechCrunch",
-    "description": "The U.S. is reportedly holding up the deal due to concerns that AI chips could be smuggled to China from the UAE.",
-    "content": "The massive AI deal between the U.S. and the United Arab Emirates (UAE) is reportedly on hold before it can be finalized due to national security reasons.\r\nThe deal, which gives the green light to th\u2026 [+750 chars]",
-    "url": "https://techcrunch.com/2025/07/17/uaes-deal-to-buy-nvidia-ai-chips-reportedly-on-hold/",
+    "source": "Fox News",
+    "title": "Russia threatens West with \u2018preemptive strikes\u2019 as NATO looks to deliver Patriots 'as quickly as possible'",
+    "description": "Former Russian President Medvedev calls for preemptive strikes while Trump gives Putin a 50-day ultimatum to reach peace with Ukraine or face sanctions.",
+    "content": "Top security official and former president of Russia, Dmitry Medvedev, said Moscow should consider launching \"preemptive strikes\" against the West as the U.S. and its NATO allies ratchet up defensive\u2026 [+4563 chars]",
+    "url": "https://www.foxnews.com/world/russia-threatens-west-preemptive-strikes-nato-looks-deliver-patriots-as-quickly-possible",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Sony is still stubborn about the size of its cameras",
-    "description": "Sony's new RX1R III camera looks awesome. Hardcore photo enthusiasts have wanted an updated version of its full-frame compact camera, the RX1, for nearly a decade. I'm not surprised it costs a whopping $5,100 (cameras and lenses have been trending more expens\u2026",
-    "content": "The Sony RX1R III traded away a key feature to maintain the compact dimensions of its previous model.\r\nSonys new RX1R III camera looks awesome. Hardcore photo enthusiasts have wanted an updated versi\u2026 [+3873 chars]",
-    "url": "https://www.theverge.com/cameras/708846/sony-rx1riii-full-frame-camera-size-issue-articulating-screen",
+    "source": "USA Today",
+    "title": "Commanders LB Bobby Wagner lands on NFL Top 100 list: Where is he ranked?",
+    "description": "No surprise. Washington Commanders linebacker Bobby Wagner is one of the NFL's top 100 players.",
+    "content": "This shouldn't come as a surprise, but Washington Commanders linebacker Bobby Wagner is one of the NFL's top 100 players.\r\nOn Thursday, the NFL revealed the latest players on its countdown of top 100\u2026 [+958 chars]",
+    "url": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2025/07/17/commanders-bobby-wagner-ranked-nfl-top-100-players-list/85256642007/",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "A gritty Pac-Man reboot makes for surprisingly solid Metroid-style action",
-    "description": "Shadow Labyrinth didn't make the best first impression, though I'm not talking about the game itself. The concept of a gritty reboot of Pac-Man first reared its strange head in Secret Level, an anthology that turned notable video games into animated shorts th\u2026",
-    "content": "Shadow Labyrinth isnt the most original game, but it has some interesting ideas thanks to its Pac-Man twist.\r\nShadow Labyrinth didnt make the best first impression, though Im not talking about the ga\u2026 [+3785 chars]",
-    "url": "https://www.theverge.com/games-review/708833/shadow-labyrinth-review-gritty-pac-man",
+    "source": "Fox News",
+    "title": "Airline passenger sparks heated debate about bringing 'fragrant food' on planes",
+    "description": "Passenger's Reddit post about smelly food on planes divides commenters, with some condemning the practice while others defend the need to eat during travel regardless of food aroma.",
+    "content": "A flight passenger is asking fellow flyers for thoughts about a hot issue among travelers: Should people be \"bringing fragrant food on the plane\" while they're sitting in economy seating?\r\nPosting in\u2026 [+2480 chars]",
+    "url": "https://www.foxnews.com/food-drink/airline-passenger-sparks-heated-debate-about-bringing-fragrant-food-planes",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Adobe\u2019s new AI tool turns silly noises into realistic audio effects",
-    "description": "Adobe is launching new generative AI filmmaking tools that provide fun ways to create sound effects and control generated video outputs. Alongside the familiar text prompts that typically allow you to describe what Adobe\u2019s Firefly AI models should make or edi\u2026",
-    "content": "In this example, you\u2019d record yourself mimicking the sound of a rocket taking off. Have at it.\r\n\n\nAdobe is launching new generative AI filmmaking tools that provide fun ways to create sound effects a\u2026 [+2553 chars]",
-    "url": "https://www.theverge.com/news/708798/adobe-firefly-ai-generate-sound-effects-video-composition",
+    "source": "Fox News",
+    "title": "ICE director blasts Chicago mayor over 'disgusting' militarization claims as officers face rising violence",
+    "description": "Acting ICE Director Todd Lyons criticizes Chicago Mayor Brandon Johnson's 'disgusting' claim that Trump is militarizing ICE, pointing to sanctuary policies that harbor criminal aliens.",
+    "content": "Acting ICE Director Todd Lyons scorched Chicago Democratic Mayor Brandon Johnson on Thursday, slamming his \"disgusting\" claim that President Donald Trump is using ICE as a \"militarized force\" to \"eng\u2026 [+2576 chars]",
+    "url": "https://www.foxnews.com/media/ice-director-blasts-chicago-mayor-over-disgusting-militarization-claims-amid-rising-threats-against-officers",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Dyson\u2019s $500 headphones come in even more colors",
-    "description": "Dyson is expanding the range of ear caps and cushions it offers for its customizable OnTrac headphones, with two new colors launching today for each. That doesn\u2019t change the four default designs you\u2019re able to pick from when buying the $499.99 OnTracs, but it\u2026",
-    "content": "This pink is one of the two new colors coming to OnTrac outer caps.\r\n\n\nDyson is expanding the range of ear caps and cushions it offers for its customizable OnTrac headphones, with two new colors laun\u2026 [+952 chars]",
-    "url": "https://www.theverge.com/news/708819/dyson-ontrac-headphones-new-colors-sky-blue-oyster-pink-caramel-chalk-white",
+    "source": "Fox News",
+    "title": "New questions raised about whether Camp Mystic director saw flood warning alert",
+    "description": "A spokesperson for Camp Mystic and its owner's family cannot confirm whether flash flood emergency alerts reached personnel on July 4.",
+    "content": "As authorities try to piece together what happened during the deadly flooding at Camp Mystic in Hunt, Texas, new questions are emerging about how the camp owner tracked the storm and whether he saw t\u2026 [+2381 chars]",
+    "url": "https://www.foxnews.com/us/new-questions-raised-about-whether-camp-mystic-director-saw-flood-warning-alert",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Uber partners with Nuro, invests $300M into Lucid to launch upscale robotaxi service | TechCrunch",
-    "description": "Uber is investing hundreds of millions of dollars into Lucid and autonomous vehicle technology startup Nuro in a bid to launch its own robotaxi service.",
-    "content": "Uber is investing hundreds of millions of dollars into EV maker Lucid and autonomous vehicle technology startup Nuro in a bid to launch its own premium robotaxi service.\r\nUnder the deal announced Thu\u2026 [+2138 chars]",
-    "url": "https://techcrunch.com/2025/07/17/uber-makes-multi-million-dollar-investment-in-lucid-nuro-to-build-robotaxi-service/",
+    "source": "Fox News",
+    "title": "Triple murder suspect dad seen in police footage days before daughters found dead",
+    "description": "Travis Decker, accused of murdering his three young daughters after a custody visit, appears in newly released police footage from days before the children were found asphyxiated.",
+    "content": "Newly released police dashcam footage shows the military-trained Washington father accused of murdering his three daughters just days before the girls bodies were discovered.\u00a0\u00a0\r\nTravis Decker is want\u2026 [+3064 chars]",
+    "url": "https://www.foxnews.com/us/triple-murder-suspect-dad-seen-police-footage-days-before-daughters-found-dead",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Lovable becomes a unicorn with $200M Series A just 8 months after launch | TechCrunch",
-    "description": "Only eight months after its launch, Sweden's Lovable has raised a $200 million Series A round led by Accel at a $1.8 billion valuation.",
-    "content": "Fast-growing Swedish AI vibe coding startup Lovable has become Europes latest unicorn. Only eight months since its launch, the startup has raised a $200 million Series A round led by Accel at a $1.8 \u2026 [+2588 chars]",
-    "url": "https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/",
+    "source": "Fox News",
+    "title": "Tim Walz questions why Democrats come off like they're against people being successful",
+    "description": "Gov. Tim Walz said during a podcast interview that the Democratic Party comes off as anti-success and argued the party should embrace being pro-business.",
+    "content": "Former Democratic vice presidential candidate Tim Walz wondered why the Democratic Party comes off like it's against people being successful, during a podcast interview on Thursday.\r\nWalz said that P\u2026 [+2760 chars]",
+    "url": "https://www.foxnews.com/media/tim-walz-questions-why-democrats-come-off-like-theyre-against-people-being-successful",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "Wired",
-    "title": "Shark Steam Pickup 3-in-1 Hard Floor Cleaner Review: A Do-It-All Cleaning Gadget",
-    "description": "Want a do-it-all hard floor cleaner? Give this gadget a try.",
-    "content": "To me, mopping is like filing my taxes or changing my oil. A necessary evil that I dread, a task that I procrastinate until I have no other choice. Luckily, I've been testing steam mops, which means \u2026 [+3368 chars]",
-    "url": "https://www.wired.com/review/shark-steam-pickup-3-in-1-hard-floor-cleaner-sd201/",
+    "source": "Fox News",
+    "title": "Senate panel advances Trump's former defense attorney Emil Bove to federal appeals court position",
+    "description": "Trump's former defense attorney Emil Bove faces opposition from former judges and Democrats as his nomination for the Third Circuit Court of Appeals faces first test.",
+    "content": "Members of the Senate Judiciary Committee on Thursday voted to advance President\u00a0Donald \r\nTrump\r\n's former defense attorney Emil Bove to serve as a judge on the U.S. Court of Appeals for the Third Ci\u2026 [+6183 chars]",
+    "url": "https://www.foxnews.com/politics/senate-judiciary-committee-votes-confirm-trumps-pick-emil-bove-amid-controversy",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Slack says its AI can make sense of your company\u2019s jargon",
-    "description": "Slack is using AI to help business users quickly understand confusing company language and concentrate on their most important tasks. The communication platform announced that it will \u201csoon\u201d be adding a feature that explains workplace jargon, and an AI writin\u2026",
-    "content": "A writing assistant for canvases and a feature that explains the context of messages are both coming soon.\r\nSlack is using AI to help business users quickly understand confusing company language and \u2026 [+2025 chars]",
-    "url": "https://www.theverge.com/news/708820/slack-ai-message-context-canvas-writing-assistant",
+    "source": "Fox News",
+    "title": "Banish blackouts with the best deals on generators and power stations",
+    "description": "Generator brands like Honda, Anker, Yamaha and Champion are currently on sale.",
+    "content": "Power outages are a huge pain, and can seriously disrupt your life. Stop worrying about what will happen to all the food in your fridge or your pipes in the winter should you lose power and invest in\u2026 [+11695 chars]",
+    "url": "https://www.foxnews.com/deals/best-deals-generators-power-stations",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Slack bolsters search with AI, adds transcriptions and summaries for huddles",
-    "description": "Slack is bolstering search on its app with AI features, adding transcription and summaries for huddles, and a way to see recaps of channels and threads.",
-    "content": "As the race to bake in AI features into productivity apps intensifies, Slack is bolstering search on its app with AI features, adding transcription and summaries for huddles, and a way to see recaps \u2026 [+1447 chars]",
-    "url": "https://techcrunch.com/2025/07/17/slack-bolsters-search-with-ai-adds-transcriptions-and-summaries-for-huddles/",
+    "source": "CNN",
+    "title": "Trump victory over PBS and NPR will be 'devastating' for rural areas, station leaders say...",
+    "description": "Public TV stations will be \u201cforced to make hard decisions in the weeks and months ahead,\u201d PBS CEO Paula Kerger said Thursday, after the Senate approved a bill canceling all the federal funding for the network.",
+    "content": "Public television stations will be forced to make hard decisions in the weeks and months ahead, PBS CEO Paula Kerger said Thursday, after the Senate voted in the middle of the night to approve a bill\u2026 [+4267 chars]",
+    "url": "https://www.cnn.com/2025/07/17/media/pbs-npr-trump-rescission-devastating-public-media",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "Wired",
-    "title": "Hackers Are Finding New Ways to Hide Malware in DNS Records",
-    "description": "Newly published research shows that the domain name system\u2014a fundamental part of the web\u2014can be exploited to hide malicious code and prompt injection attacks against chatbots.",
-    "content": "Hackers are stashing malware in a place thats largely out of the reach of most defensesinside domain name system (DNS) records that map domain names to their corresponding numerical IP addresses.\r\nTh\u2026 [+4208 chars]",
-    "url": "https://www.wired.com/story/dns-records-hidden-malicious-code/",
+    "source": "Fox News",
+    "title": "Matt Fitzpatrick dunks in spectacular chip shot for birdie at The Open",
+    "description": "Matt Fitzpatrick dunked in a spectacular chip shot for birdie at the 16th hole during the first round of The Open on Thursday at Royal Portrush.",
+    "content": "Matt Fitzpatrick made a miraculous birdie on the 16th hole during the first round of The Open Championship at Royal Portrush on Thursday.\u00a0\r\nFitzpatrick, 30, hit a wayward iron shot that left him 13 y\u2026 [+1572 chars]",
+    "url": "https://www.foxnews.com/sports/matt-fitzpatrick-dunks-spectacular-chip-shot-birdie-open",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Uber to invest in Lucid and Nuro in massive robotaxi deal",
-    "description": "Uber plans to make \u201cmulti-hundred-million dollar investments\u201d in both Nuro and Lucid as part of a massive new robotaxi deal that was just announced. The three companies are linking up to deploy \u201c20,000 or more\u201d robotaxis in the US over the next six years. The\u2026",
-    "content": "The companies plan to launch 20,000 robotaxis in the US over the next six years, starting with the first city in 2026.\r\nUber plans to make multi-hundred-million dollar investments in both Nuro and Lu\u2026 [+5514 chars]",
-    "url": "https://www.theverge.com/news/708479/uber-lucid-nuro-robotaxi-deal-investment",
+    "source": "Fox News",
+    "title": "Timeline of 'scam artist' Adam Schiff's mortgage fraud allegations stretching back years",
+    "description": "Longtime Trump political foe, Sen. Adam Schiff, was referred to the Department of Justice to face criminal prosecution over alleged mortgage fraud that reportedly stretches back years.",
+    "content": "Longtime President Donald Trump political foe Democrat California Sen. Adam Schiff was referred to the Department of Justice to face criminal prosecution over alleged mortgage fraud that reportedly s\u2026 [+7308 chars]",
+    "url": "https://www.foxnews.com/politics/timeline-scam-artist-adam-schiffs-mortgage-fraud-allegations-stretching-back-years",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Roblox introduces new safeguards for teens, including age estimation tech",
-    "description": "The move comes as Roblox has come under fire in recent years over child safety concerns.",
-    "content": "Roblox announced Thursday that it\u2019s launching new safeguards for people who are between the ages of 13 and 18. The company is introducing \u201cTrusted Connections\u201d to allows these users to connect more f\u2026 [+3128 chars]",
-    "url": "https://techcrunch.com/2025/07/17/roblox-introduces-new-safeguards-for-teens-including-age-estimation-tech/",
+    "source": "USA Today",
+    "title": "Democrats storm out over Republican vote to advance Trump court pick Emil Bove",
+    "description": "Democrats stormed out of a Senate committee meeting after Republicans pushed Trump judicial pick Emil Bove forward for a federal appeals court seat.",
+    "content": "Democrats stormed out of a Senate committee meeting as Republicans voted to advance controversial Trump judicial pick Emil Bove for a lifetime federal appeals court seat.\r\nThe vote of approval by the\u2026 [+1104 chars]",
+    "url": "https://www.usatoday.com/story/news/politics/2025/07/17/emil-bove-donald-trump-senate-judiciary-committee-vote/85253337007/",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "Wired",
-    "title": "DOGE Put Free Tax Filing Tool on Chopping Block After One Meeting With Lobbyists",
-    "description": "A key operative from DOGE initiated plans to potentially kill Direct File, the free tax filing tool developed by the IRS, after offering assurances it would be spared from cuts.",
-    "content": "When the so-called Department of Government Efficiency (DOGE) arrived at the Internal Revenue Service earlier this year, leaders of the group reassured workers that the agencys free tax filing tool, \u2026 [+2908 chars]",
-    "url": "https://www.wired.com/story/doge-direct-file-chopping-block/",
+    "source": "Fox News",
+    "title": "Johnny Manziel admits he thought about NFL comeback attempt",
+    "description": "Former NFL quarterback Johnny Manziel explained he thought about a pro football comeback but didn't want to go through the spring leagues.",
+    "content": "Johnny Manziel may go down as one of the biggest \"what-ifs\" in NFL history as the electric Heisman Trophy-winning quarterback flamed out in the pros after the Cleveland Browns selected him in the fir\u2026 [+1617 chars]",
+    "url": "https://www.foxnews.com/sports/johnny-manziel-admits-he-thought-about-nfl-comeback-attempt",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "Wired",
-    "title": "Bring On the MAGA Revolt",
-    "description": "Donald Trump\u2019s own strategists and advisers aren\u2019t sure the president\u2019s base will survive Jeffrey Epstein\u2019s ghost.",
-    "content": "Honestly, I'm done talking about Epstein for the time being, Kirk said on his podcast days later. I'm gonna trust my friends in the administration, I'm gonna trust my friends in the government to do \u2026 [+3668 chars]",
-    "url": "https://www.wired.com/story/trump-epstein-maga-revolt/",
+    "source": "Fox News",
+    "title": "'Dear God': Democrats storm out of vote on controversial Trump nominee",
+    "description": "Democrats left the room before the panel voted to confirm the judicial nomination of Trump's former personal attorney, Emil Bove.",
+    "content": "Democrats on the Senate Judiciary Committee stormed out of an executive committee meeting Thursday moments before the panel voted to advance President Donald Trump's judicial nominee, Emil Bove, to t\u2026 [+2113 chars]",
+    "url": "https://www.foxnews.com/politics/dear-god-democrats-storm-out-vote-controversial-trump-nominee",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "Wired",
-    "title": "Where Are All the AI Drugs?",
-    "description": "In an industry where 90 percent of drug candidates fail before reaching the market, a handful of startups are betting everything on AI to beat the odds.",
-    "content": "A new drug usually starts with a tragedy.\r\nPeter Ray knows that. Born in what is now Zimbabwe, the child of a mechanic and a radiology technician, Ray fled with his family to South Africa during the \u2026 [+3435 chars]",
-    "url": "https://www.wired.com/story/artificial-intelligence-drug-discovery/",
+    "source": "Fox News",
+    "title": "Army secretary vows 'grievous error' targeting pro-life groups will never happen again",
+    "description": "Army Secretary Dan Driscoll called it \"deeply inappropriate\" that military training slides wrongly categorizing pro-life organizations as extremist groups.",
+    "content": "FIRST ON FOX:Army Secretary Dan Driscoll called a set of training slides that deemed pro-life groups as terrorist organizations a \"grievous error\" that he'll work to ensure doesn't happen again, in a\u2026 [+2590 chars]",
+    "url": "https://www.foxnews.com/politics/army-secretary-vows-grievous-error-targeting-pro-life-groups-never-happen-again",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "TikTok lures songwriters with new promotional features",
-    "description": "TikTok is adding a new label to its app, allowing songwriters to highlight their profiles",
-    "content": "TikTok is adding new features to its app to let songwriters highlight their works. These features, rolling out in beta, include a \u201cSongwriter\u201d label and a new tab on their profile to show off their m\u2026 [+2013 chars]",
-    "url": "https://techcrunch.com/2025/07/17/tiktok-lures-songwriters-promotional-features/",
+    "source": "Fox News",
+    "title": "CBS News reporter says he got 'PTSD' from Trump assassination attempt because of crowd anger at media",
+    "description": "CBS News Capitol Hill correspondent Scott MacFarlane told Chuck Todd he feared for his life when Trump supporters turned on the media following the assassination attempt.",
+    "content": "CBS News Capitol Hill correspondent Scott MacFarlane told podcaster Chuck Todd on Wednesday about how traumatized he was by Trump rallygoers blaming the media for the assassination attempt against Pr\u2026 [+2007 chars]",
+    "url": "https://www.foxnews.com/media/cbs-news-reporter-says-he-got-ptsd-from-trump-assassination-attempt-because-crowd-anger-media",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "TikTok is adding features for songwriters to its app",
-    "description": "TikTok is adding a new label to its app, allowing songwriters to highlight their profiles",
-    "content": "TikTok is adding new features to its app to let songwriters highlight their works. These features, rolling out in beta, include a \u201cSongwriter\u201d label and a new tab on their profile to show off their m\u2026 [+2004 chars]",
-    "url": "https://techcrunch.com/2025/07/17/tiktok-is-adding-features-for-songwriters-to-its-app/",
+    "source": "CNN",
+    "title": "Super Bowl-winning linebacker Bryan Braman dies aged 38 after battle with \u2018very rare form of cancer\u2019",
+    "description": "Super Bowl-winning linebacker Bryan Braman, who played for two teams across seven seasons in the NFL, has died aged 38 after a battle with a \u201cvery rare form of cancer,\u201d his agent confirmed to CNN Sports on Thursday.",
+    "content": "Super Bowl-winning linebacker Bryan Braman, who played for two teams across seven seasons in the NFL, has died aged 38 after a battle with a very rare form of cancer, his agent confirmed to CNN Sport\u2026 [+2232 chars]",
+    "url": "https://www.cnn.com/2025/07/17/sport/bryan-braman-death-texans-eagles-nfl-spt",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Jack Dorsey pumps $10 million into a nonprofit focused on open-source social media",
-    "description": "Jack Dorsey backs nonprofit 'and Other Stuff' with $10M to build open social technology.",
-    "content": "Twitter co-founder and Block CEO Jack Dorsey isn\u2019t just vibe-coding new social apps, like Bitchat and Sun Day, he has invested $10 million in an effort to fund experimental open source projects and o\u2026 [+5782 chars]",
-    "url": "https://techcrunch.com/2025/07/16/jack-dorsey-backs-nonprofit-and-other-stuff-experimenting-with-open-social-tools-like-nostr/",
+    "source": "Fox News",
+    "title": "Grand juror charged with leaking confidential information in Karen Read case",
+    "description": "A grand juror in a federal proceeding connected to the Karen Read case faces charges for disclosing confidential information about closed-door hearings.",
+    "content": "A grand juror in a federal proceeding related to the Karen Read case in suburban Boston has been charged with leaking confidential information about closed-door hearings.\r\nJessica Leslie has already \u2026 [+2395 chars]",
+    "url": "https://www.foxnews.com/us/grand-juror-charged-leaking-confidential-information-massachusetts-karen-read-case",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Jack Dorsey pumps $10M into a nonprofit focused on open source social media",
-    "description": "Jack Dorsey backs nonprofit 'and Other Stuff' with $10M to build open social technology.",
-    "content": "Twitter co-founder and Block CEO Jack Dorsey isn\u2019t just vibe coding new social apps, like Bitchat and Sun Day; he has also invested $10 million in an effort to fund experimental open source projects \u2026 [+5787 chars]",
-    "url": "https://techcrunch.com/2025/07/16/jack-dorsey-pumps-10m-into-a-nonprofit-focused-on-open-source-social-media/",
+    "source": "USA Today",
+    "title": "'One Big Beautiful Bill' offers Americans lots of tax benefits. Here are a few to plan for",
+    "description": "It's not tax season, but now that Trump's spending bill is final, it's a great time to plan, experts say. Don't overlook these new benefits.",
+    "content": "Tax season isnt close to opening yet, but now is the time to start planning to take advantage of new provisions in the massive tax and spending bill that became law earlier in July, experts say.\r\nNo \u2026 [+5232 chars]",
+    "url": "https://www.usatoday.com/story/money/personalfinance/2025/07/17/trump-one-big-beautiful-bill-tax-benefits/85193287007/",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Apple News+ adds a new game that uses emoji and Genmoji to solve puzzles",
-    "description": "Released to coincide with World Emoji Day, the new Emoji Game is part logic, part word game that's inspired by how we use emojis to communicate.",
-    "content": "Apple is introducing a new reason to upgrade to its subscription news offering, Apple News+: more games. On Thursday, the company announced the addition of the Emoji Game, an original title that will\u2026 [+2697 chars]",
-    "url": "https://techcrunch.com/2025/07/16/apple-news-adds-a-new-game-that-uses-emoji-and-genmoji-to-solve-puzzles/",
+    "source": "USA Today",
+    "title": "Joey Aguilar 'trying to step in and be a leader' during time at Tennessee",
+    "description": "Transfer quarterback Joey Aguilar is trying to step in and be a leader during time at Tennessee.",
+    "content": "Tennessee will open fall training camp July 30 in preparation for its 2025 football season.\r\nTraining camp will feature a quarterback competition between senior transfer\u00a0Joey Aguilar, redshirt freshm\u2026 [+1134 chars]",
+    "url": "https://volswire.usatoday.com/story/sports/college/volunteers/football/2025/07/17/transfer-quarterback-joey-aguilar-trying-to-step-in-be-a-leader-at-tennessee-vols-football/85255524007/",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Apple News+ adds a new game that uses emoji and Genmoji to sovle puzzles",
-    "description": "Released to coincide with World Emoji Day, the new Emoji Game is part logic, part word game that's inspired by how we use emojis to communicate.",
-    "content": "Apple is introducing a new reason to upgrade to its subscription news offering, Apple News+: more games. On Thursday, the company announced the addition of the Emoji Game, an original title that will\u2026 [+2655 chars]",
-    "url": "https://techcrunch.com/2025/07/16/apple-news-adds-a-new-game-that-uses-emoji-and-genmoji-to-sovle-puzzles/",
+    "source": "Fox News",
+    "title": "Former Georgia police officer dead after saving 5 in beach rip current",
+    "description": "A former police officer and ex-professional baseball player is being hailed as a hero after he drowned while saving swimmers from a rip current off the coast of South Carolina.",
+    "content": "A decorated former police officer and ex-Baltimore Orioles minor league player tragically died while rescuing swimmers from a rip current off the coast of South Carolina.\r\nChase Childers, 38, is bein\u2026 [+2334 chars]",
+    "url": "https://www.foxnews.com/us/former-georgia-police-officer-dead-after-saving-5-beach-rip-current",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Roblox will require a facial scan or government ID to have unfiltered chats",
-    "description": "Roblox is introducing a way to let trusted friends chat more freely among themselves, but it will require that they use a new age estimation tool to verify that they\u2019re over 13. The platform is renaming Friends to Connections, and people can only use unfilter\u2026",
-    "content": "Teens will have to prove they are older than 13 to make Trusted Connections they can chat more freely with.\r\nRoblox is introducing a way to let trusted friends chat more freely among themselves, but \u2026 [+2985 chars]",
-    "url": "https://www.theverge.com/news/708670/roblox-trusted-connections-age-estimation-privacy",
+    "source": "Fox News",
+    "title": "Civil rights group declares 'state of emergency,' pointing at Trump admin",
+    "description": "The National Urban League issued a report that takes aim at President Donald Trump's administration, suggesting the nation faces a \"state of emergency.\"",
+    "content": "The National Urban League is sounding the alarm, asserting that there is a \"state of emergency\" in the country.\r\nThe organization's \"State of Black America\" report for 2025 titled \"State of Emergency\u2026 [+2929 chars]",
+    "url": "https://www.foxnews.com/politics/civil-rights-group-declares-state-emergency-pointing-trump-admin",
     "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Subnautica 2\u2019s creators sue their publisher for \u2018severely\u2019 damaging the game\u2019s release",
-    "description": "The battle between Subnautica 2 publisher Krafton and the three former executives at its developer Unknown Worlds continues. Ted Gill, Charlie Cleveland, and Max McGuire \u2014 the three executives who Krafton terminated earlier this year \u2014 have filed a lawsuit de\u2026",
-    "content": "And did so allegedly with the express purpose of avoiding a $250 million bonus payout.\r\nThe battle between Subnautica 2 publisher Krafton and the three former executives at its developer Unknown Worl\u2026 [+3988 chars]",
-    "url": "https://www.theverge.com/entertainment/708676/subnautica-2-former-ceo-lawsuit-krafton-sabotage",
-    "publishedAt": "2025-07-16"
+    "source": "CNN",
+    "title": "Justice Department says former officer convicted in Breonna Taylor raid should get one day in jail | CNN Politics",
+    "description": "The Justice Department is asking that a former police officer found guilty of violating the civil rights of Breonna Taylor in 2020 \u2013 when she was shot and killed by police in her Louisville home \u2013 be sentenced to one day in jail.",
+    "content": "The Justice Department is asking that a former police officer found guilty of violating the civil rights of Breonna Taylor in 2020 when she was shot and killed by police in her Louisville home be sen\u2026 [+3150 chars]",
+    "url": "https://www.cnn.com/2025/07/17/politics/breonna-taylor-justice-department-sentencing-recommendation",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "TikTok is putting the spotlight on songwriters",
-    "description": "TikTok will now let songwriters highlight tracks they\u2019ve written or co-written directly on their profiles. The list of songs will live within the \u201cMusic\u201d tab on their profile, similar to the one TikTok already offers for artists on the platform. Users who reg\u2026",
-    "content": "Along with a new Songwriter label, TikTok will let songwriters and producers highlight songs theyve written or co-written.\r\nTikTok will now let songwriters highlight tracks theyve written or co-writt\u2026 [+1335 chars]",
-    "url": "https://www.theverge.com/news/708611/tiktok-songwriter-features-music-tab",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Trump Jr. rips 'communist' Mamdani with dire prediction about NYC if he wins mayoral race",
+    "description": "Fox News Digital spoke to Donald Trump Jr. about the prospect of socialist mayoral candidate Zohran Mamdani becoming the next mayor of New York City.",
+    "content": "NEW YORK, NY - Donald Trump, Jr., born and raised in New York City and heavily involved in the real estate market there, spoke to Fox News Digital about the prospects of the nations largest and most \u2026 [+3091 chars]",
+    "url": "https://www.foxnews.com/politics/trump-jr-rips-communist-mamdani-dire-prediction-about-nyc-if-he-wins-mayoral-race",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Beeper\u2019s all-in-one messaging app relaunches with an on-device model and premium upgrades",
-    "description": "Beeper relaunches its all-in-one messaging app with premium features and an on-device model.",
-    "content": "Multi-service messaging app Beeper, which allows people to connect to all their chat apps from one interface, is relaunching its app on Wednesday to offer a more secure version that no longer require\u2026 [+5414 chars]",
-    "url": "https://techcrunch.com/2025/07/16/beepers-all-in-one-messaging-app-relaunches-with-an-on-device-model-and-premium-upgrades/",
-    "publishedAt": "2025-07-16"
+    "source": "USA Today",
+    "title": "30 most important Bills players of 2025: No. 23 Elijah Moore",
+    "description": "The countdown of the 30 most important Bills of 2025 continues with wide receiver Elijah Moore coming in at number 23.",
+    "content": "As the Buffalo Bills prepare for the 2025 NFL season, we'll take a look at the most important contributors on their roster. They have a ton of cornerstone players who will be returning for another sh\u2026 [+2375 chars]",
+    "url": "https://billswire.usatoday.com/story/sports/nfl/bills/2025/07/17/30-most-important-buffalo-bills-player-2025-no-23-elijah-moore-josh-allen-nfl/85192110007/",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "India eyes global quantum computer push \u2014 and QpiAI is its chosen vehicle | TechCrunch",
-    "description": "QpiAI, an Indian startup that integrates AI and quantum computing for enterprise use cases, has raised $32 million in a new funding round co-led by the Indian government.",
-    "content": "QpiAI, an Indian startup that claims to integrate AI and quantum computing for enterprise use cases, has raised $32 million in a new funding round co-led by the Indian government as the company aims \u2026 [+4610 chars]",
-    "url": "https://techcrunch.com/2025/07/16/india-eyes-global-quantum-computer-push-and-qpiai-is-its-chosen-vehicle/",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Democrats hit rock bottom as American voters turn away in record numbers from liberal agenda: poll",
+    "description": "Congressional approval ratings reveal Democrats at historic 19% low while Republicans at 33%, as President Trump's approval stands at 40% in latest Quinnipiac survey",
+    "content": "Just 19% of voters questioned in a new national poll give Democrats in Congress a thumbs up on how they're handling their duties, with 72% disapproving.\r\nThat's an all-time low since Quinnipiac Unive\u2026 [+2695 chars]",
+    "url": "https://www.foxnews.com/politics/democrats-hit-rock-bottom-american-voters-turn-away-record-numbers-from-liberal-agenda-poll",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Eddington gets the pandemic right but still isn\u2019t a great movie",
-    "description": "A24 is known for its prestige arthouse films, but in its early days as a distributor, it made most of its money from elevated horror films like Ari Aster's Hereditary and Midsommar. Over a decade in, the ambitions of A24 and Aster have expanded beyond genre f\u2026",
-    "content": "Eddington gets the pandemic right but still isnt a great movie\r\nThe film hilariously and diligently evokes 2020 but has learned nothing from it.\r\nEddington gets the pandemic right but still isnt a gr\u2026 [+5011 chars]",
-    "url": "https://www.theverge.com/film/708542/eddington-review-ari-aster-joaquin-phoenix-pandemic",
-    "publishedAt": "2025-07-16"
+    "source": "USA Today",
+    "title": "Key Buccaneers players to watch on defense during training camp in 2025",
+    "description": "We break down one key player from each offensive position group ahead of 2025 training camp for the Bucs.",
+    "content": "The Tampa Bay Buccaneers are ushering in a youth movement on the defensive side of the ball. While veterans like Lavonte David and Vita Vea continue to anchor the unit, the rest of the depth chart is\u2026 [+2809 chars]",
+    "url": "https://bucswire.usatoday.com/story/sports/nfl/buccaneers/2025/07/17/key-bucs-players-to-watch-on-defense-during-training-camp-in-2025/85252366007/",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Google is raising the price of Nest Aware subscriptions again",
-    "description": "Google is raising the price of its Nest Aware and Nest Aware Plus subscriptions starting in August 2025. According to emails sent out to subscribers today, the cost of the entry-level Nest Aware service is increasing from $8 per month or $80 per year to $10 p\u2026",
-    "content": "The price increases for both Nest Aware and Nest Aware Plus will go into effect starting in mid-August.\r\nThe price increases for both Nest Aware and Nest Aware Plus will go into effect starting in mi\u2026 [+2163 chars]",
-    "url": "https://www.theverge.com/news/708538/google-nest-aware-plus-price-increase-subscription",
-    "publishedAt": "2025-07-16"
+    "source": "USA Today",
+    "title": "Key Buccaneers players to watch on offense during training camp in 2025",
+    "description": "We break down one key player from each offensive position group ahead of 2025 training camp for the Bucs.",
+    "content": "As the Tampa Bay Buccaneers kick off training camp ahead of the 2025 NFL season, competition and development are at the forefront. The spotlight during camp often shines on players looking to prove t\u2026 [+2624 chars]",
+    "url": "https://bucswire.usatoday.com/story/sports/nfl/buccaneers/2025/07/17/key-bucs-players-to-watch-on-offense-during-training-camp-in-2025/85252113007/",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Elon Musk teases AI anime boyfriend based on Edward Cullen",
-    "description": "Days after introducing an AI 'waifu' companion for Grok, Elon Musk is now officially teasing a male version for the ladies. So far we can tell it is broody and dark-haired, and according to Musk, \"his personality is inspired by Edward Cullen from Twilight and\u2026",
-    "content": "Look, Grok is for the ladies too.\r\nDays after introducing an AI waifu companion for Grok, Elon Musk is now officially teasing a male version for the ladies. So far we can tell it is broody and dark-h\u2026 [+1375 chars]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/708536/elon-musk-grok-xai-ai-boyfriend",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Connie Francis, 'Pretty Little Baby' singer, dead at 87",
+    "description": "Connie Francis, known for musical hits such as \u201cWho's Sorry Now?\" and \u201cEverybody\u2019s Somebody\u2019s Fool,\" has died. She was 87.",
+    "content": "Connie Francis, known for musical hits such as \"Everybodys Somebodys Fool\" and \"Pretty Little Baby,\" has died. She was 87.\u00a0\r\nRon Roberts, the president of Francis' record label Concetta Records, firs\u2026 [+2944 chars]",
+    "url": "https://www.foxnews.com/entertainment/connie-francis-pretty-little-baby-singer-dead-87",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Scale AI lays off 14% of staff, largely in data labeling business | TechCrunch",
-    "description": "Scale AI is cutting 14% of the company just weeks after Meta invested $14.3 billion in the startup and hired away its CEO.",
-    "content": "Data-labeling startup Scale AI is laying off 200 employees, roughly 14% of its staff, and cutting ties with 500 of its global contractors, Bloomberg reported on Wednesday. The cuts come just a month \u2026 [+650 chars]",
-    "url": "https://techcrunch.com/2025/07/16/scale-ai-lays-off-14-of-staff-largely-in-data-labeling-business/",
-    "publishedAt": "2025-07-16"
+    "source": "USA Today",
+    "title": "Former Eagles LB Bryan Braman passes away at age 38",
+    "description": "The NFL community is mourning the loss of former Texans and Eagles linebacker Bryan Braman, who passed away from a rare form of cancer.",
+    "content": "Former Houston Texans and Philadelphia Eagles linebacker Bryan Braman passed away on Thursday after seeking treatment this year for a rare, aggressive form of cancer, according to his agent. He was 3\u2026 [+1160 chars]",
+    "url": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2025/07/17/bryan-braman-dies-age-38/85255103007/",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Mercedes-Benz will let you use an in-car camera in Microsoft Teams while driving",
-    "description": "I like to drive without the distractions of my work life interrupting me, but if you\u2019re eager to stay connected then Mercedes-Benz is ready. You\u2019ll soon be able to join a Microsoft Teams call in some Mercedes\u2011Benz vehicles and use the in-car camera to chat wi\u2026",
-    "content": "Youll be able to let everyone at work know youre working really hard while driving along.\r\nI like to drive without the distractions of my work life interrupting me, but if youre eager to stay connect\u2026 [+1990 chars]",
-    "url": "https://www.theverge.com/news/708481/microsoft-teams-mercedes-benz-integration-in-car-camera-support",
-    "publishedAt": "2025-07-16"
+    "source": "USA Today",
+    "title": "Buccaneers 2025 training camp preview: Defensive Line",
+    "description": "Tampa Bay's defensive line is a land of opportunity for its young players heading into training camp.",
+    "content": "Tampa Bays defensive line enters 2025 at a crossroads.\r\nVita Vea remains the gravitational center of the defense but is orbited by uncertainty. Most of the defensive line is composed of players on th\u2026 [+3291 chars]",
+    "url": "https://bucswire.usatoday.com/story/sports/nfl/buccaneers/2025/07/17/bucs-2025-training-camp-preview-defensive-line/85239921007/",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "Wired",
-    "title": "Can US Measles Outbreaks Be Stopped?",
-    "description": "The US almost lost its measles elimination status once. Lessons from that episode suggest it will be more difficult to avoid doing so now.",
-    "content": "Health officials also worked to combat misinformation. A Jewish anti-vaccine group called Parents Teaching and Advocating for Childrens Health, or PEACH, distributed a 40-page anti-vaccination bookle\u2026 [+3281 chars]",
-    "url": "https://www.wired.com/story/can-us-measles-outbreaks-be-stopped/",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Sports pundit Sarah Spain slams Shane Gillis over 'hacky' jokes about female athletes",
+    "description": "Sports media personality Sarah Spain took issue with comedian Shane Gillis' jokes at the ESPY Awards, specifically the ones aimed toward female athletes.",
+    "content": "Sarah Spain, a sports media personality, took issue with Shane Gillis cracking jokes about female athletes during the ESPY Awards on Wednesday night.\r\nGillis jokes included a crack about Caitlin Clar\u2026 [+1500 chars]",
+    "url": "https://www.foxnews.com/sports/sports-pundit-sarah-spain-slams-shane-gillis-over-hacky-jokes-about-female-athletes",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Zelda\u2019s new live-action stars could be around for a long time",
-    "description": "Nintendo just announced the two leads of its live-action Legend of Zelda film, and unlike the celebrity-packed Mario movie cast, Zelda will star two young, lesser-known actors: Bo Bragason as Zelda and Benjamin Evan Ainsworth as Link. You may not have heard o\u2026",
-    "content": "The Zelda film could be Nintendos next big movie franchise, meaning we might see the leads in more than one film.\r\nNintendo just announced the two leads of its live-action Legend of Zelda film, and u\u2026 [+2750 chars]",
-    "url": "https://www.theverge.com/nintendo/708494/nintendo-the-legend-of-zelda-movie-leads-stars-long-time",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "SCOOP: House fiscal hawks warily accept Senate's $9B Trump spending cuts package",
+    "description": "The House of Representatives is poised to consider a $9 billion spending cuts package approved by the White House.",
+    "content": "FIRST ON FOX: Some House fiscal hawks are cautiously readying to accept the $9 billion spending cuts package passed by the Senate overnight.\r\nThe House of Representatives must pass the bill, called a\u2026 [+2859 chars]",
+    "url": "https://www.foxnews.com/politics/scoop-house-fiscal-hawks-warily-accept-senates-9b-trump-spending-cuts-package",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "I spent 24 hours flirting with Elon Musk\u2019s AI girlfriend",
-    "description": "Earlier this week, xAI added what can only be described as an AI anime girlfriend named Ani to its Grok chatbot. Which is how I ended up on a virtual starry beach as an AI waifu avatar tried to give me a \"spicy\" kiss. You've probably seen screenshots, videos,\u2026",
-    "content": "I spent 24 hours flirting with Elon Musks AI girlfriend\r\nNow Im going to bleach my soul and get myself to a nunnery. \r\nI spent 24 hours flirting with Elon Musks AI girlfriend\r\nNow Im going to bleach \u2026 [+5411 chars]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/708482/i-spent-24-hours-flirting-with-elon-musks-ai-girlfriend",
-    "publishedAt": "2025-07-16"
+    "source": "USA Today",
+    "title": "Boston Celtics jersey history No. 27 - Bill Dinwiddie (1969-71)",
+    "description": "During his time suiting up for the Celtics. Dinwiddie wore only jersey No. 27 and put up 4.9 points and 3.4 rebounds per game.",
+    "content": "The\u00a0Boston Celtics\u00a0have had players suiting up in a total of 68 different jersey numbers (and have three others not part of any numerical series) since their founding at the dawn of the Basketball As\u2026 [+1121 chars]",
+    "url": "https://celticswire.usatoday.com/story/sports/nba/celtics/2025/07/17/celtics-jersey-history-no-27-bill-dinwiddie-1969-71/84513920007/",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI | TechCrunch",
-    "description": "OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI | TechCrunchtechcrunch.com",
-    "content": "AI safety researchers from OpenAI, Anthropic, and other organizations are speaking out publicly against the \u201creckless\u201d and \u201ccompletely irresponsible\u201d safety culture at xAI, the billion-dollar AI star\u2026 [+6952 chars]",
-    "url": "https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Trump's NATO deal to arm Ukraine wins over GOP skeptics",
+    "description": "Former Ukraine aid critics now back Trump's strategy requiring European funding for weapons to Kyiv after the president pivoted his frustration from Zelenskyy to Putin.",
+    "content": "Lawmakers long opposed to providing aid to Ukraine are now on board, if cautiously.\u00a0President Donald Trumps plan to assist the war effort comes with a twist because Washington wont pay for the weapon\u2026 [+5131 chars]",
+    "url": "https://www.foxnews.com/politics/trumps-nato-deal-arm-ukraine-wins-over-gop-skeptics",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "Wired",
-    "title": "ElliQ Review: An AI Companion Bot for Lonely Elders",
-    "description": "The AI-powered ElliQ robot and smart display aim to improve life for older folks living alone.",
-    "content": "For the past few weeks, the AI-powered ElliQ companion robot has perched on the end of my desk. Designed by Intuition Robotics for seniors living alone, this proactive animatronic chats to me through\u2026 [+3336 chars]",
-    "url": "https://www.wired.com/review/elliq-ai-companion-robot/",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Trump-signed fentanyl law will end \u2018cat and mouse\u2019 with traffickers, state attorneys general say",
+    "description": "More than two dozen Republican attorneys general urged Congress to pass the bill, calling it \"vital\" to addressing the opioid epidemic",
+    "content": "President Donald Trump signed a bill into law on Wednesday that classifies fentanyl-related drugs as more dangerous substances as part of the presidents broader crackdown on the countrys opioid epide\u2026 [+4782 chars]",
+    "url": "https://www.foxnews.com/politics/trump-signed-fentanyl-law-end-cat-mouse-traffickers-state-attorneys-general-say",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "Wired",
-    "title": "DHS Faces New Pressure Over DNA Taken From Immigrant Children",
-    "description": "The US government has added the DNA of approximately 133,000 migrant children and teens to a criminal database, which critics say could mean police treat them like suspects \u201cindefinitely.\u201d",
-    "content": "United States Senator Ron Wyden is pressing the United States departments of Homeland Security and Justice to explain how and why they are collecting DNA from immigrants, including children, on a mas\u2026 [+3008 chars]",
-    "url": "https://www.wired.com/story/dhs-and-doj-face-new-pressure-over-collecting-childrens-dna/",
-    "publishedAt": "2025-07-16"
+    "source": "USA Today",
+    "title": "CBS Sports' All-Quarter Century Team snubs Saints leaders Cameron Jordan, Demario Davis",
+    "description": "New Orleans Saints DE Cameron Jordan didn't make the cut for CBS Sports' NFL All-Quarter Century Defense, but did get listed as an honorable mention.",
+    "content": "Shortly after being left out of the CBS Sports All-Quarter Century Offensive Team, the New Orleans Saints' defensive legends met the same fate. CBS Sports' Bryan DeArdo recently released the defensiv\u2026 [+1332 chars]",
+    "url": "https://saintswire.usatoday.com/story/sports/nfl/saints/2025/07/17/cbs-sports-nfl-quarter-century-team-saints-cameron-jordan-demario-davis/85127301007/",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunch",
-    "description": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunchtechcrunch.com",
-    "content": "Sales of Tesla\u2019s Cybertruck have plummeted from their peak last year, to the point that the hulking (and expensive) GMC Hummer EV outsold the polarizing steel-clad curiosity in the second quarter.\r\nT\u2026 [+1756 chars]",
-    "url": "https://techcrunch.com/2025/07/16/gmc-hummer-ev-outsold-the-tesla-cybertruck-last-quarter/",
-    "publishedAt": "2025-07-16"
+    "source": "USA Today",
+    "title": "Brent Venables, Oklahoma Sooners won't shy away from expectations in 2025",
+    "description": "Brent Venables owns the expectations of being the head coach of the Oklahoma Sooners and believes in the changes they've made this year.",
+    "content": "The Oklahoma Sooners attended SEC Media Days on Wednesday, which meant fourth-year head coach Brent Venables was at the podium to talk about his 2025 team heading into the program's second season in \u2026 [+6149 chars]",
+    "url": "https://soonerswire.usatoday.com/story/sports/college/sooners/football/2025/07/17/oklahoma-sooners-football-sec-media-days-brent-venables/85251247007/",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Scale AI lays off 200 employees, \u2018We ramped up our GenAI capacity too quickly\u2019",
-    "description": "Scale AI, the AI industry\u2019s chief data dealer, will lay off 14 percent of the company, or about 200 employees, just one month after Meta took a multibillion-dollar stake in the company and hired its CEO and other staff. The layoffs also include 500 of its glo\u2026",
-    "content": "CEO Jason Droege announced the restructuring just a month after Metas multibillion-dollar investment.\r\nScale AI, the AI industrys chief data dealer, will lay off 14 percent of the company, or about 2\u2026 [+2961 chars]",
-    "url": "https://www.theverge.com/news/708377/scale-ai-layoffs-14-percent",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "These trending stackable jewelry organizers are the ultimate storage solution",
+    "description": "These trending jewelry organizers are designed to stack on top of each other to safely and compactly store all of your accessories.",
+    "content": "Leave tangled necklaces and mismatched earrings in the past. Stackers (aka stackable jewelry boxes) are the ultimate jewelry storage solution. These trays transform cluttered collections into curated\u2026 [+3757 chars]",
+    "url": "https://www.foxnews.com/deals/stackers-jewelry-organizers",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Nvidia's resumption of H20 chip sales related to rare earth element trade talks | TechCrunch",
-    "description": "U.S. Commerce Secretary said Nvidia's plans to start selling its H20 chips are tied to ongoing trade discussions with China regarding REEs.",
-    "content": "Rare earth elements appear to be behind Nvidia\u2019s stance on China.\u00a0\r\nAfter announcing in June plans to essentially withdraw from the Chinese market, the semiconductor chip and AI giant reversed course\u2026 [+2003 chars]",
-    "url": "https://techcrunch.com/2025/07/16/nvidias-resumption-of-h20-chip-sales-related-to-rare-earth-element-trade-talks/",
-    "publishedAt": "2025-07-16"
+    "source": "CNN",
+    "title": "Nationwide protests planned against Trump\u2019s immigration crackdown and health care cuts | CNN",
+    "description": "Protests and events against President Donald Trump\u2019s controversial policies that include mass deportations and cuts to Medicaid and other safety nets for poor people are planned Thursday at more than 1,600 locations around the country.",
+    "content": "Protests and events against President Donald Trumps controversial policies that include mass deportations and cuts to Medicaid and other safety nets for poor people are planned Thursday at more than \u2026 [+2957 chars]",
+    "url": "https://www.cnn.com/2025/07/17/us/good-trouble-john-lewis-protests-trump-hnk",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "GM and Redwood teaming up to make batteries for energy storage",
-    "description": "General Motors and Redwood Materials are joining forces yet again, this time with the intent to build energy storage units made out of recycled EV batteries. The two companies signed a non-binding memorandum of understanding to build energy storage out of US-\u2026",
-    "content": "Redwood Materials\u2019 energy storage system in California. | Image: Redwood Materials\r\n\n\nGeneral Motors and Redwood Materials are joining forces yet again, this time with the intent to build energy stor\u2026 [+2452 chars]",
-    "url": "https://www.theverge.com/news/708236/gm-redwood-battery-energy-storage-ev",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Popular snack brand makes big change to favorite product amid 'natural source' ingredients push",
+    "description": "Welch's Fruit Snacks commits to eliminating artificial dyes linked to hyperactivity in children, with a complete portfolio transition to natural colors planned by early 2026.",
+    "content": "A food and beverage company will be making a major ingredient change to one of its most beloved snacks.\u00a0\r\nAnd the fix comes just ahead of this year's back-to-school season.\r\nWelch's, headquartered in\u2026 [+1990 chars]",
+    "url": "https://www.foxnews.com/food-drink/popular-snack-brand-makes-big-change-favorite-product-amid-natural-source-ingredients-push",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "The 13-inch M2 MacBook Air is a great back-to-school deal at just $699",
-    "description": "It\u2019s almost back to school season, and we\u2019re starting to see some great laptop deals trickle in as a result. Walmart continues to sell the M1-powered MacBook Air for $599, but if you want more power and a sleeker design, the 13-inch M2-powered MacBook Air sta\u2026",
-    "content": "The M2-powered MacBook remains an excellent productivity machine.\r\n\n\nIt\u2019s almost back to school season, and we\u2019re starting to see some great laptop deals trickle in as a result. Walmart continues to \u2026 [+3404 chars]",
-    "url": "https://www.theverge.com/tech/708267/apple-macbook-air-m2-one-plus-buds-4-deal-sale",
-    "publishedAt": "2025-07-16"
+    "source": "CNN",
+    "title": "Connie Francis, \u2018Pretty Little Baby\u2019 singer and actress, dead at 87 | CNN",
+    "description": "Connie Francis, a pop singer and actress whose hits such as \u201cLipstick on Your Collar\u201d and \u201cWho\u2019s Sorry Now?\u201d became a soundtrack for a generation of teens in the 1960s, has died, according to a post from her publicist and friend, Ron Roberts.",
+    "content": "Connie Francis, a pop singer and actress whose hits such as Lipstick on Your Collar and Whos Sorry Now? became a soundtrack for a generation of teens in the 1960s, has died, according to a post from \u2026 [+3834 chars]",
+    "url": "https://www.cnn.com/2025/07/17/entertainment/connie-francis-singer-dead",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "Wired",
-    "title": "Dyneema\u2019s New Fiber Composite Is Lighter, Stronger, and More Durable Than Ever",
-    "description": "Hyperlite Mountain Gear and Dyneema collaborate on lighter, more durable hiking backpacks, which lets you put even more Dyneema on your Dyneema.",
-    "content": "If you went back in time 150 years and told people that in the future they will carry everything they need to live for a week on their backs, you'd get run out of town. Carrying gear is the job of ho\u2026 [+2228 chars]",
-    "url": "https://www.wired.com/story/dyneema-hyperlite-mountain-gear-new-ultralight-fabric/",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Noem teases 'next big announcement' that may change airport security rule",
+    "description": "Homeland Security Secretary Kristi Noem said the agency is evaluating changes its liquid restrictions rule for airline carry-ons \u2014 a policy that\u2019s a symbol of post 9/11 travel.",
+    "content": "Homeland Security Secretary Kristi Noem said the agency is evaluating changes to its liquid restrictions rule for airline carry-ons a potential major shift in the Transportation and Security Administ\u2026 [+2831 chars]",
+    "url": "https://www.foxnews.com/us/noem-teases-next-big-announcement-may-change-airport-security-rule",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Cyberpunk 2077\u2019s next update adds \u2018AutoDrive\u2019 and VRR for consoles",
-    "description": "Cyberpunk 2077\u2019s Update 2.3, set to launch on Thursday for Mac, PC, PlayStation 5, and Xbox Series X / S, will add a bunch of new features focused around vehicles and proper VRR support on consoles. The new AutoDrive feature, available in all cars and motorcy\u2026",
-    "content": "The update is launching on Mac, PC, PlayStation 5, and Xbox Series X / S on Thursday.\r\nCyberpunk 2077sUpdate 2.3, set to launch on Thursday for Mac, PC, PlayStation 5, and Xbox Series X / S, will add\u2026 [+1616 chars]",
-    "url": "https://www.theverge.com/news/708381/cyberpunk-2077-update-2-3-autodrive-vrr-consoles-patch",
-    "publishedAt": "2025-07-16"
+    "source": "USA Today",
+    "title": "Rams TE Terrance Ferguson could inch closer to signing his deal thanks to 49ers rookie",
+    "description": "The second-round standoff, which involves Rams TE Terrance Ferguson, could be coming to an end after the 49ers signed Alfred Collins.",
+    "content": "The next big domino in the second round has fallen: 49ers second-round pick Alfred Collins, the No. 43rd overall selection, reached agreement tonight on a four-year, $10.3 million deal that includes \u2026 [+2142 chars]",
+    "url": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/07/17/49ers-alfred-collins-rams-terrance-ferguson-draft-pick-contract/85254424007/",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Google\u2019s announces Pixel 10 launch event date",
-    "description": "Google officially has a date for its Pixel launch event: August 20th, 2025. In an invite sent on Wednesday, Google says the event will take place in New York City at 1PM ET, where the company will show off \u201cthe latest on our Pixel phones, watches, buds, and m\u2026",
-    "content": "This years Made by Google event will take place on August 20th.\r\nGoogle officially has a date for its Pixel launch event: August 20th, 2025. In an invite sent on Wednesday, Google says the event will\u2026 [+818 chars]",
-    "url": "https://www.theverge.com/news/708363/google-pixel-10-made-by-google-event-date",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Big government, big problems: Public corruption highest in places with large bureaucracies, report says",
+    "description": "A new analysis links government size to public corruption rates, with Washington, D.C., topping the list, according to a Libertarian thinktank.",
+    "content": "A new think tank analysis finds that public corruption is a significant problem in the U.S., and is most prevalent in state and local governments that have larger bureaucracies and higher regulations\u2026 [+1773 chars]",
+    "url": "https://www.foxnews.com/politics/big-government-big-problems-public-corruption-highest-places-large-bureaucracies-report-says",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "Wired",
-    "title": "Adoption Agency Data Exposure Revealed Information About Children and Parents",
-    "description": "A trove of 1.1 million records left accessible on the open web shows how much sensitive information can be created\u2014and made vulnerable\u2014during the adoption process.",
-    "content": "The adoption process is inherently sensitive, involving deeply personal information about children, birth parents, adoptive parents, and other caregivers. So when longtime data-breach hunter and secu\u2026 [+2951 chars]",
-    "url": "https://www.wired.com/story/adoption-agency-data-exposure-revealed-information-about-children-and-parents/",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Hamas losing iron grip on Gaza as US-backed group gets aid to Palestinians in need",
+    "description": "While the international community criticizes the Gaza Humanitarian Foundation, a middle east expert says the U.S.- and Israel-backed organization is taking the power away from Hamas.",
+    "content": "The humanitarian situation in Gaza has been a central focus of international debate since Hamas war with Israel began in 2023. Longstanding aid organizations and new ones have rushed to provide Pales\u2026 [+3715 chars]",
+    "url": "https://www.foxnews.com/world/hamas-losing-iron-grip-gaza-us-backed-group-gets-aid-palestinians-need",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "Wired",
-    "title": "Trump and the Energy Industry Are Eager to Power AI With Fossil Fuels",
-    "description": "At a Pittsburgh summit, the Trump administration, energy executives, and tech barons joined as one to promote AI as the future of fossil fuels.",
-    "content": "The industry is finding a willing partner in the Trump administration. Since taking office, Trump has used AI as a lever to open up opportunities for fossil fuels, including a well-publicized effort \u2026 [+2859 chars]",
-    "url": "https://www.wired.com/story/trump-energy-industry-ai-fossil-fuels-pittsburgh-summit/",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Biden does rare interview with NY Times to quell autopen controversy, but critics rage over media framing",
+    "description": "Media watchdogs criticized Joe Biden's rare New York Times interview about autopen signatures on clemency documents, questioning the timing and placement of key admissions in the report.",
+    "content": "The New York Times is facing tense scrutiny over how it framed its interview with former President Joe Biden over his White House's controversial use of the autopen.\u00a0\r\nAfter dodging Times journalists\u2026 [+5980 chars]",
+    "url": "https://www.foxnews.com/media/biden-does-rare-interview-ny-times-quell-autopen-controversy-critics-rage-over-media-framing",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Insta360 now offers lens filters and a larger battery for its 360-degree action cam",
-    "description": "It\u2019s been less than three months since Insta360 released its X5 360-degree action camera, but the company is already introducing new accessories and a major firmware update. Improvements include a new AdaptiveTone feature delivering \u201cbetter color and detail i\u2026",
-    "content": "Insta360\u2019s first major firmware update for its new 360-degree action camera delivers a lot of improvements. | Image: Insta360\r\n\n\nIt\u2019s been less than three months since Insta360 released its X5 360-de\u2026 [+2328 chars]",
-    "url": "https://www.theverge.com/news/708272/insta360-x5-action-camera-lens-filters-firmware-update",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Ukraine's Zelenskyy names new prime minister for first time since Russia's war began",
+    "description": "Yuliia Svyrydenko becomes Ukraine's new prime minister amid President Volodymyr Zelenskyy's executive branch shake with Russian war in fourth year.",
+    "content": "Ukrainian President Volodymyr Zelenskyy named a new prime minister for the first time since Russia invaded the eastern European nation more than three years ago.\u00a0\r\nUkrainian lawmakers announced on so\u2026 [+4310 chars]",
+    "url": "https://www.foxnews.com/world/ukraines-zelenskyy-names-new-prime-minister-first-time-since-russias-war-began",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "xAI is hiring an engineer to make anime girls | TechCrunch",
-    "description": "The company is hiring for the role of \"Fullstack Engineer - Waifus,\" or, creating AI-powered anime girls for people to fall in love with.",
-    "content": "Elon Musk\u2019s xAI just released its AI companions, which include the goth waifu Ani and the homicidal red panda Bad Rudy. If you want to get in on that, you\u2019re in luck: The company is hiring for the ro\u2026 [+643 chars]",
-    "url": "https://techcrunch.com/2025/07/16/xai-is-hiring-an-engineer-to-make-anime-girls/",
-    "publishedAt": "2025-07-16"
+    "source": "USA Today",
+    "title": "Double-ACL injury or not, this Cowboy is sleeper at the TE position for 2025",
+    "description": "While everyone's talking about Brevyn Spann-Ford's breakout or Jake Ferguson's bounce back, it's John Stephens, Jr. who's the Cowboys sleeper at TE",
+    "content": "The Dallas Cowboys are pretty set at the tight end position in 2025. Their top three spots are essentially written in ink with Jake Ferguson, Luke Schoonmaker and Brevyn Spann-Ford all but certain to\u2026 [+2301 chars]",
+    "url": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2025/07/17/dallas-cowboys-sleeper-tight-end-position-john-stephens-2025/85217164007/",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Google rolls out AI-powered business calling feature, brings Gemini 2.5 Pro to AI Mode",
-    "description": "The new business calling feature uses AI to call local businesses on your behalf, for information about availability and pricing.",
-    "content": "Google is rolling out an agentic AI-powered business calling feature to all users in the United States, the company announced on Wednesday. The tech giant is also enhancing Google Search\u2019s AI Mode by\u2026 [+2961 chars]",
-    "url": "https://techcrunch.com/2025/07/16/google-rolls-out-ai-powered-business-calling-feature-brings-gemini-2-5-pro-to-ai-mode/",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Super Bowl champion Bryan Braman dead at 38 after cancer battle",
+    "description": "Former NFL linebacker Bryan Braman died after battling an aggressive and \"rare form\" of cancer, his agent said on Thursday. He won a Super Bowl with the Philadelphia Eagles.",
+    "content": "Bryan Braman, a former NFL linebacker who played for the Philadelphia Eagles and Houston Texans, has died after battling a \"very rare\" form of cancer, his agent said.\u00a0\r\nHe was 38.\r\nBramans agent, Sea\u2026 [+1649 chars]",
+    "url": "https://www.foxnews.com/sports/super-bowl-champion-bryan-braman-dead-38-after-cancer-battle",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "Wired",
-    "title": "Autocomplete Interview - Jackson Wang Answers More of The Web's Most Searched Questions",
-    "description": "Jackson Wang visits WIRED to offer up more answers to a new batch of his most searched for questions on Google.\n\nDirector: Jackie Phillips\nDirector of Photography: Grant Bell\nEditor: Samantha DiVito\nTalent: Jackson Wang \nLine Producer: Jamie Rasmussen\nAssocia\u2026",
-    "content": "Hey, this is Jackson Wang\r\nand this is the Wired Autocomplete Interview.\r\n[upbeat music]\r\nYeah, I Google myself while [censored] all over the place.\r\n[upbeat music]\r\nDoes Jackson Wang [label peeling]\u2026 [+6910 chars]",
-    "url": "https://www.wired.com/video/watch/google-autocomplete-inverviews-jackson-wang-answers-more-of-the-webs-most-searched-questions/",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "These are the Republicans who voted against Trump's $9 billion clawback of foreign aid, NPR funding",
+    "description": "Trump's $9 billion clawback bill passed the Senate with Republican support, cutting USAID and public broadcasting funds, despite two GOP senators' opposition.",
+    "content": "Though Senate Republicans were successful in their mission to pass President Donald Trumps clawback package, not every member of the conference was on board.\r\nOnly two Republicans, Sens. Lisa Murkows\u2026 [+4824 chars]",
+    "url": "https://www.foxnews.com/politics/republicans-who-voted-against-trumps-9-billion-clawback-foreign-aid-npr-funding",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction | TechCrunch",
-    "description": "Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction | TechCrunchtechcrunch.com",
-    "content": "Bedrock Robotics, an autonomous vehicle technology startup founded by veterans of Waymo and Segment, has been operating quietly for more than a year. Now, it\u2019s breaking cover with an $80 million fund\u2026 [+2089 chars]",
-    "url": "https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Mamdani sparks social media frenzy with viral clip discussing what happens if he runs out of money",
+    "description": "Socialist NYC mayoral candidate Zohran Mamdani is facing heat online over a video where he says his parents will financially support him if he needs it.",
+    "content": "New York City socialist mayoral candidate Zohran Mamdani is facing heat online over a clip where he explains how he was able to take time off work because he knew his parents would financially suppor\u2026 [+2158 chars]",
+    "url": "https://www.foxnews.com/politics/mamdani-sparks-social-media-frenzy-viral-clip-discussing-what-happens-if-he-runs-out-of-money",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "The Verge",
-    "title": "Tesla reveals Model 3 Plus and Model YL in China as price war heats up",
-    "description": "Tesla is continuing to tweak its best-selling EVs in China in the hopes that it can boost its sales amid rising competition from BYD and other domestic manufacturers. Tesla applied for a new sales license with China\u2019s Ministry of Information Technology for a \u2026",
-    "content": "The Model YL has six seats and a true third row, while the Model 3 Plus has longer range than current versions of the electric sedan.\r\nTesla is continuing to tweak its best-selling EVs in China in th\u2026 [+2653 chars]",
-    "url": "https://www.theverge.com/news/708279/tesla-model-3-plus-model-yl-china-price-war",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Trump urged to aid Yemen\u2019s anti-Houthi forces as terror group escalates attacks on shipping",
+    "description": "Houthi attacks in the Red Sea have sunk vessels and disrupted shipping routes worth $1 trillion annually, as Middle East experts call for U.S. support of Yemen's legitimate government.",
+    "content": "The State Department on Sunday blasted Yemens Iran-sponsored Houthi terrorist movement for lethal attacks on cargo ships in the Red Sea and on Israel as new calls emerged for President Donald Trump t\u2026 [+5000 chars]",
+    "url": "https://www.foxnews.com/world/trump-urged-aid-yemens-anti-houthi-forces-terror-group-escalates-attacks-shipping",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "ChatGPT: Everything you need to know about the AI chatbot",
-    "description": "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs.",
-    "content": "ChatGPT, OpenAIs text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with sh\u2026 [+38352 chars]",
-    "url": "https://techcrunch.com/2025/07/16/chatgpt-everything-to-know-about-the-ai-chatbot/",
-    "publishedAt": "2025-07-16"
+    "source": "USA Today",
+    "title": "NFL analyst names Panthers' top MVP candidate for 2025 season",
+    "description": "The Panthers haven't had an MVP in nearly 10 years. Which of their players has the best chance of resetting the clock in 2025?",
+    "content": "The Carolina Panthers haven't had the NFL's Most Valuable Player in nearly 10 full seasons. But can someone on their current roster break that drought in 2025?\r\nNFL.com writer Eric Edholm recently na\u2026 [+1835 chars]",
+    "url": "https://pantherswire.usatoday.com/story/sports/nfl/panthers/2025/07/17/panthers-nfl-mvp-candidate-bryce-young/85252960007/",
+    "publishedAt": "2025-07-17"
   },
   {
-    "source": "TechCrunch",
-    "title": "A comprehensive list of 2025 tech layoffs | TechCrunch",
-    "description": "A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024 and 2025.",
-    "content": "The tech layoff wave is still kicking in 2025. Last year saw more than 150,000 job cuts across 549 companies, according to independent layoffs tracker Layoffs.fyi. So far this year, more than 22,000 \u2026 [+22271 chars]",
-    "url": "https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/",
-    "publishedAt": "2025-07-16"
+    "source": "Fox News",
+    "title": "Suni Lee discusses Olympic return after kidney disease diagnosis, ESPYs Comeback Athlete nomination",
+    "description": "Suni Lee \"quit\" gymnastics \"a couple times\" as she tried to return to the Olympics, but she eventually went to Paris and won three medals.",
+    "content": "Suni Lee was oh so close to not competing in the Paris Olympics last year.\r\nIn April 2023, Lee announced that she was going to end her Auburn career\r\n due to a kidney issue, and Auburn doctors would \u2026 [+2478 chars]",
+    "url": "https://www.foxnews.com/sports/suni-lee-discusses-olympic-return-after-kidney-disease-diagnosis-espys-comeback-athlete-nomination",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "Auburn's Bruce Pearl pumps brakes on US Senate rumors",
+    "description": "Auburn Tigers men's basketball head coach Bruce Pearl opened up about the possibility of him running for a U.S. Senate seat in Alabama.",
+    "content": "Bruce Pearls name was floated as a possible candidate to replace Sen. Tommy Tuberville, R-Ala., in his U.S. Senate seat as the lawmaker announced his intention to run for Alabama governor.\r\nThe Aubur\u2026 [+1734 chars]",
+    "url": "https://www.foxnews.com/sports/auburns-bruce-pearl-pumps-brakes-us-senate-rumors",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "USA Today",
+    "title": "A Mars rock was expected to sell at auction for $4 million. The final bid was for more",
+    "description": "A chunk of the Martian surface that at some point crashed into Earth sold Wednesday, July 16 to an anonymous bidder for a record $5.3 million.",
+    "content": "The largest piece of Mars to ever make its way to Earth is now also the most valuable meteorite in the world.\r\nA chunk of the Martian surface that at some point crashed into Earth following an unlike\u2026 [+3752 chars]",
+    "url": "https://www.usatoday.com/story/news/nation/2025/07/17/mars-rock-auction-sothebys/85254061007/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "USA Today",
+    "title": "Steelers countdown to kickoff \u2014 No. 52: a history of the number and who wore it best",
+    "description": "The Steelers countdown to kickoff is here \u2014 and we\u2019re at 52 days until Pittsburgh faces off against the New York Jets at MetLife Stadium.",
+    "content": "The Steelers countdown to kickoff is here and were at 52 days until Pittsburgh faces off against the New York Jets at MetLife Stadium. In the spirit of the countdown, were taking a look at the histor\u2026 [+1401 chars]",
+    "url": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2025/07/17/steelers-countdown-kickoff-52-jersey-history/85254066007/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "How Trump's 'big, beautiful bill' ends decades of temporary tax policy games in Washington",
+    "description": "President Trump's new law brings permanence to the tax code, ending temporary tax provisions while implementing work requirements and phasing out subsidies.",
+    "content": "Signing the One Big Beautiful Bill Act into law at a White House ceremony on Independence Day may go down as the signature legislative achievement of President Donald Trumps second term and not just \u2026 [+4772 chars]",
+    "url": "https://www.foxnews.com/opinion/how-trumps-big-beautiful-bill-ends-decades-temporary-tax-policy-games-washington",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "CNN",
+    "title": "Copper prices have surged to record highs \u2014 and they could jump higher. Here\u2019s why",
+    "description": "Global stock markets have largely shrugged off President Donald Trump\u2019s renewed tariff campaign. In commodities markets, however, tariff threats have sent...",
+    "content": "The wire drawing area at CN Wire Corporation in Santa Teresa, New Mexico, on March 31. US copper prices have been on a tear this year due to the fear that tariffs will be imposed on imports of the re\u2026 [+9496 chars]",
+    "url": "https://www.cnn.com/2025/07/17/investing/copper-prices-us-market-tariffs",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "Study claims US news outlets served as 'megaphones' for Hamas in Gaza war",
+    "description": "A new NCRI study found major U.S. and European media outlets echoed Hamas-linked narratives, downplaying terror ties and distorting facts about Gaza aid efforts.",
+    "content": "EXCLUSIVE: A new study by the Network Contagion Research Institute (NCRI) alleges that major U.S. and European news outlets served as uncritical megaphones for Hamas-linked narratives during the war \u2026 [+13086 chars]",
+    "url": "https://www.foxnews.com/media/study-claims-us-news-outlets-served-megaphones-hamas-gaza-war",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "USA Today",
+    "title": "The night of the greatest-ever Boston Celtics fan performance at TD Garden",
+    "description": "If you have never seen this Bon Jovi-inflected performance, you're welcome.",
+    "content": "Longtime fans of the Boston Celtics may remember a night in 2009 when they witnessed what might be the greatest spontaneous fan performance in the history of the NBA. It was a typical midseason tilt \u2026 [+711 chars]",
+    "url": "https://celticswire.usatoday.com/story/sports/nba/celtics/2025/07/17/the-night-of-the-greatest-ever-celtics-fan-performance-at-td-garden/84513773007/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "Mom's unexpected secret chili ingredient leaves millions of TikTok viewers divided: 'Absolutely not'",
+    "description": "A mother's chili recipe featuring dark chocolate went viral on TikTok, sparking debate among the video's viewers about the unusual addition to the dish.",
+    "content": "A mother's chili secret has gone viral in a TikTok video that has some loving the added ingredient while others are in disbelief.\r\nThe video was posted by the Hnieno Fam, a family-oriented TikTok acc\u2026 [+3418 chars]",
+    "url": "https://www.foxnews.com/food-drink/moms-unexpected-secret-chili-ingredient-leaves-millions-tiktok-viewers-divided-absolutely-not",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "CNN",
+    "title": "They bought a house expecting mortgage rates to fall. They\u2019re still waiting",
+    "description": "Homeownership is often seen as a cornerstone of the American Dream. But for some who bought in recent years, it\u2019s become a costly source of stress.",
+    "content": "Joe Dalesandro didnt expect to keep his mortgage rate at 6.99% for very long when he purchased a new home with his girlfriend last summer in Myrtle Beach, South Carolina. Hed refinance soon, he reaso\u2026 [+4835 chars]",
+    "url": "https://www.cnn.com/2025/07/17/business/homebuyers-regrets-mortgage-rates-refinancing",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "Shane Gillis stirs controversy with Trump, Bill Belichick jokes during edgy ESPY Awards monologue",
+    "description": "Shane Gillis' ESPY Awards monologue featured roast-style jokes about sports figures including Bill Belichick's girlfriend, President Donald Trump, and an O.J. Simpson reference.",
+    "content": "Comedian Shane Gillis took the stage at the ESPY Awards on Wednesday night and was firing shots at virtually anyone in the sports world with a monologue fit for a roast event.\u00a0\r\nIts not uncommon to s\u2026 [+2933 chars]",
+    "url": "https://www.foxnews.com/sports/shane-gillis-stirs-controversy-trump-bill-belichick-jokes-during-edgy-espy-awards-monologue",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "Senate GOP advances $9B spending cuts bill over Democrat and internal GOP resistance and more top headlines",
+    "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+    "content": "Good morning and welcome to Fox News morning newsletter, Fox News First. And here's what you need to know to start your day ...\r\nTOP 3\r\n1. Senate GOP advances $9B spending cuts bill over Democrat and\u2026 [+3134 chars]",
+    "url": "https://www.foxnews.com/us/senate-gop-advances-9b-spending-cuts-bill-more-top-headlines",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "CNN",
+    "title": "Liverpool players should \u2018open up\u2019 about Diogo Jota\u2019s death, urges former Premier League star",
+    "description": "Former Arsenal and Manchester City star Bacary Sagna has urged Liverpool players to properly process the death of Diogo Jota by speaking to someone about their grief.",
+    "content": "Former Arsenal and Manchester City star Bacary Sagna has urged Liverpool players to properly process the death of Diogo Jota by speaking to someone about their grief.\r\nSagna, who spent a decade playi\u2026 [+3418 chars]",
+    "url": "https://www.cnn.com/2025/07/17/sport/liverpool-diogo-jota-bacary-sagna-spt",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "NPR head asks critics to 'show me a story' that proves liberal bias amid defunding threats",
+    "description": "NPR CEO Katherine Maher appeared to be unaware of any examples of her organization being politically biased while defending its federal funding on Wednesday.",
+    "content": "NPR CEO Katherine Maher challenged critics to show her a story that would prove the radio network is biased on Wednesday.\r\nMaher defended her organization on CNN's \"The Situation Room\" as it faces ef\u2026 [+3980 chars]",
+    "url": "https://www.foxnews.com/media/npr-head-asks-critics-show-me-story-proves-liberal-bias-amid-defunding-threats",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "CNN",
+    "title": "Russia tightens its stranglehold on Ukraine battlefield as Trump gifts Putin 50-day window | CNN",
+    "description": "US President Donald Trump\u2019s 50-day pause ahead of possible secondary sanctions on Russia gifts the Kremlin a window to exploit the incremental gains of recent weeks in Ukraine\u2019s east.",
+    "content": "US President Donald Trumps 50-day pause ahead of possible secondary sanctions on Russia gifts the Kremlin a window to exploit the incremental gains of recent weeks, which analysts say increasingly pu\u2026 [+6081 chars]",
+    "url": "https://www.cnn.com/2025/07/17/europe/ukraine-russia-frontline-summer-offensive-intl",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "Josh Allen determined not to let 'Hard Knocks' cameras become distraction for Bills in training camp",
+    "description": "Josh Allen discussed the Buffalo Bills' upcoming appearance on HBO's 'Hard Knocks' series, highlighting the team's veteran leadership and balancing authenticity with focus.",
+    "content": "During the NFL annual league meeting in April, the league changed its rule that allowed teams making the playoffs to avoid HBOs \"Hard Knocks.\"\r\nEnter the Buffalo Bills, who will be the featured team \u2026 [+4651 chars]",
+    "url": "https://www.foxnews.com/sports/josh-allen-determined-not-let-hard-knocks-cameras-become-distraction-bills-training-camp",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "Randy Moss says Tyreek Hill is 'nowhere all-time' in NFL wide receiver rankings discussion",
+    "description": "Randy Moss stated Miami Dolphins' Tyreek Hill is \"nowhere all-time\" among NFL receivers despite Hill being one of the best in the league present day.",
+    "content": "Tyreek Hill may be one of the best wide receivers in the NFL right now, but Pro Football Hall of Famer Randy Moss doesnt want to hear his name being mentioned among the all-time greats.\u00a0\r\nMoss took a\u2026 [+2353 chars]",
+    "url": "https://www.foxnews.com/sports/randy-moss-says-tyreek-hill-nowhere-all-time-nfl-wide-receiver-rankings-discussion",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "CNN",
+    "title": "Coca-Cola cane sugar: Trump takes credit for changing American recipe",
+    "description": "President Donald Trump announced what could be refreshing news to some Americans on Wednesday: thanks to him, Coke is changing its American recipe.",
+    "content": "President Donald Trump announced what could be refreshing news to some Americans on Wednesday: thanks to him, Coke is changing its American recipe.\r\nI have been speaking to Coca-Cola about using REAL\u2026 [+2622 chars]",
+    "url": "https://www.cnn.com/2025/07/17/business/coca-cola-cane-sugar-change-trump-intl-hnk",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "USA Today",
+    "title": "Every new player on Indianapolis Colts' 2025 training camp roster",
+    "description": "With training camp for the Indianapolis Colts just about here, who are the newcomers to the 2025 roster?",
+    "content": "With training camp for the Indianapolis Colts just about here, who are the newcomers to the 2025 roster?\r\nDuring the 2024 offseason, there was very little roster turnover on this Colts team. An appro\u2026 [+1889 chars]",
+    "url": "https://coltswire.usatoday.com/story/sports/nfl/colts/2025/07/17/colts-training-camp-every-2025-offseason-addition-made-roster/85254048007/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "Minnesota tragedy reveals how data brokers sell your personal information",
+    "description": "The $200 billion data broker industry tracks your personal details across websites, posing privacy risks that can be mitigated through data removal services.",
+    "content": "The tragic events in Minnesota last month stand as a solemn reminder for all Americans to reflect and take action.\u00a0The gunman who targeted lawmakers\r\n used people search websites to hunt down his vic\u2026 [+6871 chars]",
+    "url": "https://www.foxnews.com/tech/data-broker-opt-out-steps-every-retiree-should-take-today",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "CNN",
+    "title": "Wyndham Clark reportedly banned from Oakmont Country Club due to \u2018recent behavior\u2019 at US Open",
+    "description": "American golfer Wyndham Clark has reportedly been banned from Oakmont Country Club after he allegedly caused damaged to the club\u2019s venerated locker room at June\u2019s US Open.",
+    "content": "American golfer Wyndham Clark has reportedly been banned from Oakmont Country Club after he allegedly caused damaged to the clubs venerated locker room at Junes US Open.\r\nAccording to a letter from O\u2026 [+2537 chars]",
+    "url": "https://www.cnn.com/2025/07/17/sport/wyndham-clark-banned-oakmont-us-open-spt",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "DeSantis taps Florida's 'most conservative senator' for state CFO",
+    "description": "Florida Gov. Ron DeSantis tapped state Sen. Blaise Ingoglia to serve as the Sunshine State's chief financial officer, calling him Florida's \"most conservative senator\"",
+    "content": "Florida Gov. Ron DeSantis has appointed state Sen. Blaise Ingoglia to serve as the Sunshine State's chief financial officer.\r\nThe governor described Ingoglia as \"the most conservative senator in the \u2026 [+1620 chars]",
+    "url": "https://www.foxnews.com/politics/desantis-taps-floridas-most-conservative-senator-state-cfo",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "USA Today",
+    "title": "US stock futures little changed as investors await earnings reports",
+    "description": "Some of the major companies slated to report before the opening bell include Taiwan Semiconductor Manufacturing, Travelers, GE Aerospace and PepsiCo.",
+    "content": "U.S. stock futures are little changed as investors waited to see more earnings reports.\r\nSome of the major companies slated to report before the opening bell include Taiwan Semiconductor Manufacturin\u2026 [+2253 chars]",
+    "url": "https://www.usatoday.com/story/money/markets/2025/07/17/us-stocks-thursday-earnings/85250886007/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "USA Today",
+    "title": "Pro Football Focus ranks Texas A&M's offense and defense as Top 10 2025 units",
+    "description": "Pro Football Focus recently ranked Texas A&M's 2025 offense and defense in their Top 10 rankings, providing Mike Elko enough talent to right the ship.",
+    "content": "Texas A&amp;M's 2025 season is less than 45 days away, and if you haven't been paying attention this week, coach Mike Elko's squad is finally getting some positive attention during SEC media days, wh\u2026 [+3453 chars]",
+    "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2025/07/17/texas-aggies-football-pro-football-focus-kc-conepcion-tyler-onyedim/85252519007/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "SCOOP: Former CIA officer, Air Force veteran launches GOP campaign for Dem-held Ohio district",
+    "description": "Eric Conroy has entered the race for Ohio's 1st District, promising to build the economy, support law enforcement and secure the border.",
+    "content": "First on Fox: Eric Conroy, a U.S. Air Force veteran and former CIA case officer, announced his campaign to represent Ohio's 1st Congressional District in the U.S. House of Representatives on Thursday\u2026 [+2906 chars]",
+    "url": "https://www.foxnews.com/politics/former-cia-officer-air-force-veteran-launches-gop-campaign-dem-held-district-ohio",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "USA Today",
+    "title": "Where Nebraska quarterback Dylan Raiola ranks in The Athletic's 2025 quarterback rankings",
+    "description": "The Athletic released its 2025 college football quarterback rankings of all 136 starting quarterbacks.",
+    "content": "<ul><li>Nebraska quarterback Dylan Raiola ranked 40th out of 136 starting quarterbacks in The Athletic's 2025 college football rankings.</li><li>The ranking, compiled from surveys of over 40 college \u2026 [+2748 chars]",
+    "url": "https://cornhuskerswire.usatoday.com/story/sports/college/cornhuskers/football/2025/07/17/nebraska-football-quarterback-dylan-raiola-the-athletic-rankings-2025-season/85245262007/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "Dangerous or an opportunity? Social media as venue for discussing politics debated by young conservatives",
+    "description": "Young adults from across the nation attended Turning Point USA's Student Action Summit in Tampa, Fla. last week, where Gen Z discussed how politics are affected through social media.",
+    "content": "Young conservatives at the Turning Point USA Student Action Summit gave mixed opinions last week when asked about social media and whether it was a safe place to air their views, with some calling it\u2026 [+3057 chars]",
+    "url": "https://www.foxnews.com/media/dangerous-opportunity-social-media-venue-discussing-politics-debated-young-conservatives",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "'Baywatch' star Donna D'Errico gives fans new way to get up close and personal",
+    "description": "\"Baywatch\" actress Donna D'Errico launched Hollywood's first AI voice experience, allowing fans to have conversations with her digital persona for advice or flirty chats.",
+    "content": "Donna D'Errico is calling; are you going to answer the phone?\r\nThe \"Baywatch\" actress listened to the demand of hundreds of thousands of fans, and launched Hollywood's first interactive voice experie\u2026 [+5685 chars]",
+    "url": "https://www.foxnews.com/entertainment/baywatch-star-donna-derrico-gives-fans-new-way-get-up-close-personal",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Fox News",
+    "title": "Ignore outrageous attacks on Trump\u2019s DOJ champion. He belongs on the bench",
+    "description": "Ignore outrageous attacks on Trump\u2019s DOJ champion. He belongs on the bench",
+    "content": "In recent weeks, some public commentary has accused the Department of Justice of defying court orders and insinuated that Emil Boves confirmation will undermine the rule of law. Nothing could be furt\u2026 [+6171 chars]",
+    "url": "https://www.foxnews.com/opinion/ignore-outrageous-attacks-trumps-doj-champion-he-belongs-bench",
+    "publishedAt": "2025-07-17"
   }
 ]
