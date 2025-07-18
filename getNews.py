@@ -1,5 +1,6 @@
 import os
 import requests
+import json
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -105,4 +106,16 @@ response = requests.get(
     }
 )
 data = response.json()
-print(data)
+print ("Total Results:", data["totalResults"])
+
+filtered_data = []
+for article in data.get("articles", []):
+    filtered_data.append({
+        "source": article["source"]["name"],
+        "title": article["title"],
+        "description": article["description"],
+        "url": article["url"],
+        "publishedAt": article["publishedAt"].split("T")[0]
+    })
+
+print(json.dumps(filtered_data, indent = 2))
