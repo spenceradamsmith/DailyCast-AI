@@ -9,8 +9,8 @@ OPENAI_KEY = os.getenv("OPENAI_KEY")
 
 # Mapping categories to source names
 categories = {
-    "Politics":      ["fox-news", "breitbart-news", "the-hill", "politico", "cnn"],
     "General":       ["fox-news", "national-review", "reuters", "the-washington-post", "cnn"],
+    "Politics":      ["fox-news", "breitbart-news", "the-hill", "politico", "cnn"],
     "Business":      ["financial-post", "business-insider", "fortune", "bloomberg", "the-wall-street-journal"],
     "Technology":    ["techcrunch", "wired", "the-verge", "engadget", "ars-technica"],
     "Science":       ["national-geographic", "new-scientist", "next-big-future"],
@@ -19,8 +19,8 @@ categories = {
     "Sports":        ["espn", "fox-sports", "the-sport-bible", "bleacher-report", "talksport"],
 }
 
-chosen_categories = ["Health"]
-chosen_keywords = []
+chosen_categories = ["Technology", "Sports"]
+chosen_keywords = ["Tesla", "Knicks"]
 start_date = "2025-07-16"
 end_date = "2025-07-18"
 
