@@ -7,72 +7,20 @@ load_dotenv()
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
 OPENAI_KEY = os.getenv("OPENAI_KEY")
 
-# Mapping source names to real names and links
-source_info = {
-    "associated-press":     ("Associated Press",       "https://apnews.com/"),
-    "politico":             ("Politico",               "https://www.politico.com/"),
-    "the-hill":             ("The Hill",               "https://thehill.com/"),
-    "cnn":                  ("CNN",                    "https://www.cnn.com/"),
-    "fox-news":             ("Fox News",               "https://www.foxnews.com/"),
-    "reuters":              ("Reuters",                "https://www.reuters.com/"),
-    "yahoo-news":           ("Yahoo News",             "https://news.yahoo.com/"),
-    "cnbc":                 ("CNBC",                   "https://www.cnbc.com/"),
-    "investopedia":         ("Investopedia",           "https://www.investopedia.com/"),
-    "fox-business":         ("Fox Business",           "https://www.foxbusiness.com/"),
-    "marketwatch":          ("MarketWatch",            "https://www.marketwatch.com/"),
-    "yahoo-finance":        ("Yahoo Finance",          "https://finance.yahoo.com/"),
-    "techcrunch":           ("TechCrunch",             "https://techcrunch.com/"),
-    "wired":                ("Wired",                  "https://www.wired.com/"),
-    "the-verge":            ("The Verge",              "https://www.theverge.com/"),
-    "cnet":                 ("CNET",                   "https://www.cnet.com/"),
-    "zdnet":                ("ZDNet",                  "https://www.zdnet.com/"),
-    "live-science":         ("Live Science",           "https://www.livescience.com/"),
-    "the-conversation":     ("The Conversation",       "https://theconversation.com/"),
-    "sciencealert":         ("ScienceAlert",           "https://www.sciencealert.com/"),
-    "phys-org":             ("Phys.org",               "https://phys.org/"),
-    "nasa-newsroom":        ("NASA Newsroom",          "https://www.nasa.gov/newsroom"),
-    "healthday":            ("HealthDay",              "https://www.healthday.com/"),
-    "medical-news-today":   ("Medical News Today",     "https://www.medicalnewstoday.com/"),
-    "npr":                  ("NPR Life & Health",      "https://www.npr.org/sections/health/"),
-    "cdc-newsroom":         ("CDC Newsroom",           "https://www.cdc.gov/media/index.html"),
-    "variety":              ("Variety",                "https://variety.com/"),
-    "people":               ("People",                 "https://people.com/"),
-    "entertainment-weekly": ("Entertainment Weekly",   "https://ew.com/"),
-    "deadline":             ("Deadline",               "https://deadline.com/"),
-    "screen-rant":          ("Screen Rant",            "https://screenrant.com/"),
-    "espn":                 ("ESPN",                   "https://www.espn.com/"),
-    "ap-sports":            ("AP Sports",              "https://apnews.com/hub/sports"),
-    "bbc-sport":            ("BBC Sport",              "https://www.bbc.com/sport"),
-    "bleacher-report":      ("Bleacher Report",        "https://bleacherreport.com/"),
-    "yahoo-sports":         ("Yahoo Sports",           "https://sports.yahoo.com/"),
-    "npr-life-and-health":  ("NPR Life & Health",      "https://www.npr.org/sections/health/"),
-    "guardian-lifestyle":   ("The Guardian Lifestyle", "https://www.theguardian.com/lifeandstyle"),
-    "refinery29":           ("Refinery29",             "https://www.refinery29.com/"),
-    "well-and-good":        ("Well+Good",              "https://www.wellandgood.com/"),
-    "eater":                ("Eater",                  "https://www.eater.com/"),
-    "serious-eats":         ("Serious Eats",           "https://www.seriouseats.com/"),
-    "allrecipes":           ("AllRecipes",             "https://www.allrecipes.com/"),
-    "guardian-food":        ("The Guardian Food",      "https://www.theguardian.com/food"),
-    "delish":               ("Delish",                 "https://www.delish.com/")
-}
-
 # Mapping categories to source names
 categories = {
-    "Politics":      ["associated-press", "politico", "the-hill", "cnn", "fox-news"],
-    "General":       ["reuters", "yahoo-news", "associated-press", "cnn", "fox-news"],
-    "Business":      ["cnbc", "reuters", "investopedia", "fox-business", "marketwatch"],
-    "Finance":       ["cnbc", "yahoo-finance", "reuters", "investopedia", "morningstar"],
-    "Technology":    ["techcrunch", "wired", "the-verge", "cnet", "zdnet"],
-    "Science":       ["live-science", "the-conversation", "sciencealert", "phys-org", "nasa-newsroom"],
-    "Health":        ["healthday", "medical-news-today", "npr", "cdc-newsroom"],
-    "Entertainment": ["variety", "people", "entertainment-weekly", "deadline", "screen-rant"],
-    "Sports":        ["espn", "ap-sports", "bbc-sport", "bleacher-report", "yahoo-sports"],
-    "Lifestyle":     ["npr-life-and-health", "guardian-lifestyle", "refinery29", "well-and-good"],
-    "Food":          ["eater", "serious-eats", "allrecipes", "guardian-food", "delish"]
+    "Politics":      ["fox-news", "breitbart-news", "the-hill", "politico", "cnn"],
+    "General":       ["fox-news", "national-review", "reuters", "the-washington-post", "cnn"],
+    "Business":      ["financial-post", "business-insider", "fortune", "bloomberg", "the-wall-street-journal"],
+    "Technology":    ["techcrunch", "wired", "the-verge", "engadget", "ars-technica"],
+    "Science":       ["national-geographic", "new-scientist", "next-big-future"],
+    "Health":        ["medical-news-today"],
+    "Entertainment": ["buzzfeed", "mtv-news", "entertainment-weekly", "ign", "polygon"],
+    "Sports":        ["espn", "fox-sports", "the-sport-bible", "bleacher-report", "talksport"],
 }
 
-chosen_categories = ["Technology", "Sports"]
-chosen_keywords = ["Tesla", "Knicks"]
+chosen_categories = ["Health"]
+chosen_keywords = []
 start_date = "2025-07-16"
 end_date = "2025-07-18"
 
