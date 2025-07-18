@@ -22,13 +22,17 @@ categories = {
 removals_by_category = {
     "General": {
         "Left":   {"fox-news", "national-review", "reuters"},
-        "Right":  {"reuters", "the-washington-post", "cnn"},
+        "Center-Left": {"fox-news", "national-review", "cnn"},
         "Center": {"fox-news", "cnn"},
+        "Center-Right": {"fox-news", "the-washington-post", "cnn"},
+        "Right":  {"reuters", "the-washington-post", "cnn"},
     },
     "Politics": {
         "Left":   {"fox-news", "the-washington-times", "the-hill"},
-        "Right":  {"the-hill", "politico", "cnn"},
+        "Center-Left": {"fox-news", "the-washington-times", "cnn"},
         "Center": {"fox-news", "cnn"},
+        "Center-Right": {"fox-news", "politico", "cnn"},
+        "Right":  {"the-hill", "politico", "cnn"},
     }
 }
 
@@ -42,7 +46,6 @@ interval_map = {
     "3 days": 3,
     "7 days": 7,
     "14 days": 14,
-    "30 days": 30
 }
 time_difference = interval_map.get(chosen_time_interval, 0)
 end_dt = datetime.today()

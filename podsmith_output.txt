@@ -4,8 +4,280 @@ Politics: Center
 Sources: ['national-review', 'reuters', 'the-washington-post', 'techcrunch', 'wired', 'the-verge', 'engadget', 'ars-technica']
 Start Date: 2025-07-15
 End Date: 2025-07-18
-Total Results: 175
+Total Results: 224
 [
+  {
+    "source": "TechCrunch",
+    "title": "Hackers are trying to steal passwords and sensitive data from users of Signal clone | TechCrunch",
+    "description": "The bug in the modified messaging app can expose users' \u201cplaintext usernames, passwords, and other sensitive data,\u201d per GreyNoise.",
+    "content": "Hackers are targeting a previously reported bug in the Signal clone app TeleMessage in an effort to steal users private data, according to security researchers and a U.S. government agency.\r\nTeleMess\u2026 [+2667 chars]",
+    "url": "https://techcrunch.com/2025/07/17/hackers-are-trying-to-steal-passwords-and-sensitive-data-from-users-of-signal-clone/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "Netflix\u2019s Assassin\u2019s Creed series is finally coming together",
+    "description": "It has been five years since Netflix first announced that it was working with Ubisoft to develop a live-action Assassin\u2019s Creed show inspired by the hit games series. For a long time, it seemed like the project might be dead in the water given how little news\u2026",
+    "content": "After years of being stuck in development hell, the live-action Assassins Creed project now has a pair of showrunners.\r\nIt has been five years since Netflix first announced that it was working with U\u2026 [+2441 chars]",
+    "url": "https://www.theverge.com/netflix/708989/netflix-assassins-creed-roberto-patino",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Boulevard raises $80M to power self-care boom driven by Botox and GLP-1 surge | TechCrunch",
+    "description": "Boulevard raises $80M to power self-care boom driven by Botox and GLP-1 surge | TechCrunchtechcrunch.com",
+    "content": "The beauty industry has seen an explosion of offerings recently. Customers can now access treatments far beyond basic hair and nail care, from wrinkle-smoothing Botox and fillers to permanent laser h\u2026 [+3161 chars]",
+    "url": "https://techcrunch.com/2025/07/17/boulevard-raises-80m-to-power-self-care-boom-driven-by-botox-and-glp-1-surge/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Zuckerberg and Meta investors reach settlement in $8B privacy case",
+    "description": "The shareholders' lawsuit alleges Facebook execs intentionally violated an FTC agreement by sharing user data with third-party apps without user consent.",
+    "content": "Mark Zuckerberg and other current and former Meta executives have settled a lawsuit filed by a group of shareholders. They were seeking $8 billion for the damage the executives caused the company by \u2026 [+711 chars]",
+    "url": "https://techcrunch.com/2025/07/17/zuckerberg-and-meta-investors-reach-settlement-in-8b-privacy-case/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Mistral's Le Chat chatbot gets a productivity push with new \u2018deep research' mode | TechCrunch",
+    "description": "French AI lab Mistral introduced a range of new features to its Le Chat chatbot on Thursday that bring it closer to the capabilities of rivals like OpenAI and Google. The new update includes a new \u201cdeep research\u201d mode, native multilingual reasoning, and advan\u2026",
+    "content": "French AI lab Mistral introduced a range of new features to its Le Chat chatbot on Thursday that bring it closer to the capabilities of rivals like OpenAI and Google. The new update includes a new de\u2026 [+3635 chars]",
+    "url": "https://techcrunch.com/2025/07/17/mistrals-le-chat-chatbot-gets-a-productivity-push-with-new-deep-research-mode/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "AMD\u2019s new 96-core Threadripper CPU will set you back $11,699",
+    "description": "AMD\u2019s latest Zen 5-based Ryzen Threadripper Pro 9000 WX-Series of CPUs go on sale later this month, and the top option will be priced at $11,699. The 9000 WX-Series chips are designed for workstations, with the $11,699 Threadripper Pro 9995WX shipping on July\u2026",
+    "content": "The Threadripper Pro 9000 WX-Series starts at $1,649 and ships on July 23rd.\r\nAMDs latest Zen 5-based Ryzen Threadripper Pro 9000 WX-Series of CPUs go on sale later this month, and the top option wil\u2026 [+1215 chars]",
+    "url": "https://www.theverge.com/news/709005/amd-threadripper-9000-pro-wx-series-pricing-availability",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "Lenovo Legion Go S review part two: you were the chosen one!",
+    "description": "Valve's Steam Deck has dominated the handheld gaming PC space since its 2022 debut. But even as more powerful Windows handhelds arrived to keep up with more demanding games, none have beaten the Steam Deck's combination of ease-of-use, ergonomics, power, and \u2026",
+    "content": "Valves Steam Deck has dominated the handheld gaming PC space since its 2022 debut. But even as more powerful Windows handhelds arrived to keep up with more demanding games, none have beaten the Steam\u2026 [+16963 chars]",
+    "url": "https://www.theverge.com/reviews/704903/lenovo-legion-go-s-steam-os-review-z2-go-z1-extreme",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "Elgato brightens up its Stream Deck and mics with four new colors",
+    "description": "Elgato has released four new color options for its Stream Deck and other streaming accessories as part of a new Dreamscape collection designed to better match the aesthetic of a studio or gaming room. The devices and accessories have previously typically only\u2026",
+    "content": "The new Dreamscape collection includes green, pink, lavender, and blue versions of Elgatos streaming gear.\r\nThe new Dreamscape collection includes green, pink, lavender, and blue versions of Elgatos \u2026 [+1585 chars]",
+    "url": "https://www.theverge.com/news/709011/elgato-stream-deck-wave-microphone-dreamscape-colors",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Confident Security, \u2018the Signal for AI,\u2019 comes out of stealth with $4.2M | TechCrunch",
+    "description": "San Francisco-based startup Confident Security wants to be \u201cthe Signal for AI.\" The company just came out of stealth with $4.2 million and a tool that wraps around AI models to guarantee data stays private.",
+    "content": "As consumers, businesses, and governments flock to the promise of cheap, fast, and seemingly magical AI tools, one question keeps getting in the way: How do I keep my data private?\r\nTech giants like \u2026 [+3319 chars]",
+    "url": "https://techcrunch.com/2025/07/17/confident-security-the-signal-for-ai-comes-out-of-stealth-with-4-2m/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "Waymo responds to Tesla\u2019s dick joke with a bigger Austin robotaxi map",
+    "description": "Earlier this week, Elon Musk posted an image of Tesla\u2019s robotaxi service area in Austin, Texas, that was in the shape of a penis. Hilarious, I know, but more importantly: it appeared that Tesla\u2019s map was slightly larger than Waymo\u2019s service area, which covers\u2026",
+    "content": "I guess were measuring robotaxi service areas now?\r\nEarlier this week, Elon Musk posted an image of Teslas robotaxi service area in Austin, Texas, that was in the shape of a penis. Hilarious, I know,\u2026 [+2931 chars]",
+    "url": "https://www.theverge.com/news/708885/waymo-austin-map-expand-tesla-robotaxi",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "North Korean hackers blamed for record spike in crypto thefts in 2025 | TechCrunch",
+    "description": "Chainalysis said crypto thefts during the first half of 2025 were at record levels, thanks in large part to a single breach at a major crypto exchange.",
+    "content": "Hackers have stolen more than $2 billion in crypto during the first half of 2025, according to new data from crypto analysis firm Chainalysis, marking the worst year-to-date on record for crypto thef\u2026 [+1430 chars]",
+    "url": "https://techcrunch.com/2025/07/17/north-korean-hackers-blamed-for-record-spike-in-crypto-thefts-in-2025/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "Apple launches new emoji word game to take on Wordle and the NYT",
+    "description": "Ever since the New York Times acquired Wordle and went all-in on games, there's been something of a slow-brewing arms race in the space. The Times continues to release new games, and it's now up against intriguing competitors like Puzzmo, Netflix, The Atlanti\u2026",
+    "content": "Daily puzzle games continue to be a competitive space, and Apple News Plus just expanded its offerings.\r\nEver since the New York Times acquired Wordle and went all-in on games, theres been something \u2026 [+2610 chars]",
+    "url": "https://www.theverge.com/games/708935/apple-news-plus-emoji-game-wordle",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "Wacom\u2019s new MovinkPad drawing tablet doesn\u2019t need a PC",
+    "description": "Wacom has announced the MovinkPad 11, an all-in-one Android-powered tablet for digital illustrators who want to draw on the go. Unlike other display drawing tablets in Wacom\u2019s lineup, the $449 MovinkPad doesn\u2019t need to be connected to a laptop or PC, placing \u2026",
+    "content": "Wacom is tempting iPad illustrators with its first Android-powered portable drawing tablet.\r\nWacom has announced the MovinkPad 11, an all-in-one Android-powered tablet for digital illustrators who wa\u2026 [+3273 chars]",
+    "url": "https://www.theverge.com/news/708951/wacom-movinkpad-11-android-drawing-tablet-launch-price",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Spotify expands audiobook access to family plan members for the first time",
+    "description": "Spotify is expanding access to audiobooks with two new plans, one of which offers access to family members.",
+    "content": "Spotify on Thursday announced an expansion of its premium audiobooks service, with two new plans that offer additional listening hours to subscribers, and allow other family members to access the ser\u2026 [+2518 chars]",
+    "url": "https://techcrunch.com/2025/07/17/spotify-expands-audiobook-access-to-family-plan-members-for-the-first-time/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Wired",
+    "title": "3 Best Hall Effect Keyboards for Gamers and Serious Typists (2025)",
+    "description": "Ascend from your mechanical keyboard to magnetically powered Hall effect switches. These are the best Hall effect keyboards for gamers and keyboard enthusiasts.",
+    "content": "Polling rate is likely one of the most prominently displayed details on any Hall effect keyboard, purely because the large numbers emphasize one of the most important aspects of these keyboards: Spee\u2026 [+2325 chars]",
+    "url": "https://www.wired.com/gallery/best-hall-effect-keyboards/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "Perplexity\u2019s CEO on why the browser is AI\u2019s killer app",
+    "description": "Hello, and welcome to Decoder! I\u2019m Alex Heath, deputy editor at The Verge and author of the Command Line newsletter. I\u2019m hosting our Thursday episodes while Nilay is out on parental leave. Today, we\u2019re talking about how AI is changing the way we use the web. \u2026",
+    "content": "Perplexitys CEO on why the browser is AIs killer app\r\nAravind Srinivas on Perplexitys new Comet web browser, the AI talent frenzy, and a future IPO.\r\nPerplexitys CEO on why the browser is AIs killer \u2026 [+43091 chars]",
+    "url": "https://www.theverge.com/decoder-podcast-with-nilay-patel/708256/perplexity-ceo-decoder-aravind-srinivas-comet-browser-ai-search",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "UAE's deal to buy Nvidia AI chips reportedly on hold | TechCrunch",
+    "description": "The U.S. is reportedly holding up the deal due to concerns that AI chips could be smuggled to China from the UAE.",
+    "content": "The massive AI deal between the U.S. and the United Arab Emirates (UAE) is reportedly on hold before it can be finalized due to national security reasons.\r\nThe deal, which gives the green light to th\u2026 [+750 chars]",
+    "url": "https://techcrunch.com/2025/07/17/uaes-deal-to-buy-nvidia-ai-chips-reportedly-on-hold/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "Sony is still stubborn about the size of its cameras",
+    "description": "Sony's new RX1R III camera looks awesome. Hardcore photo enthusiasts have wanted an updated version of its full-frame compact camera, the RX1, for nearly a decade. I'm not surprised it costs a whopping $5,100 (cameras and lenses have been trending more expens\u2026",
+    "content": "The Sony RX1R III traded away a key feature to maintain the compact dimensions of its previous model.\r\nSonys new RX1R III camera looks awesome. Hardcore photo enthusiasts have wanted an updated versi\u2026 [+3873 chars]",
+    "url": "https://www.theverge.com/cameras/708846/sony-rx1riii-full-frame-camera-size-issue-articulating-screen",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "A gritty Pac-Man reboot makes for surprisingly solid Metroid-style action",
+    "description": "Shadow Labyrinth didn't make the best first impression, though I'm not talking about the game itself. The concept of a gritty reboot of Pac-Man first reared its strange head in Secret Level, an anthology that turned notable video games into animated shorts th\u2026",
+    "content": "Shadow Labyrinth isnt the most original game, but it has some interesting ideas thanks to its Pac-Man twist.\r\nShadow Labyrinth didnt make the best first impression, though Im not talking about the ga\u2026 [+3785 chars]",
+    "url": "https://www.theverge.com/games-review/708833/shadow-labyrinth-review-gritty-pac-man",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "Adobe\u2019s new AI tool turns silly noises into realistic audio effects",
+    "description": "Adobe is launching new generative AI filmmaking tools that provide fun ways to create sound effects and control generated video outputs. Alongside the familiar text prompts that typically allow you to describe what Adobe\u2019s Firefly AI models should make or edi\u2026",
+    "content": "In this example, you\u2019d record yourself mimicking the sound of a rocket taking off. Have at it.\r\n\n\nAdobe is launching new generative AI filmmaking tools that provide fun ways to create sound effects a\u2026 [+2553 chars]",
+    "url": "https://www.theverge.com/news/708798/adobe-firefly-ai-generate-sound-effects-video-composition",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "Dyson\u2019s $500 headphones come in even more colors",
+    "description": "Dyson is expanding the range of ear caps and cushions it offers for its customizable OnTrac headphones, with two new colors launching today for each. That doesn\u2019t change the four default designs you\u2019re able to pick from when buying the $499.99 OnTracs, but it\u2026",
+    "content": "This pink is one of the two new colors coming to OnTrac outer caps.\r\n\n\nDyson is expanding the range of ear caps and cushions it offers for its customizable OnTrac headphones, with two new colors laun\u2026 [+952 chars]",
+    "url": "https://www.theverge.com/news/708819/dyson-ontrac-headphones-new-colors-sky-blue-oyster-pink-caramel-chalk-white",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Uber partners with Nuro, invests $300M into Lucid to launch upscale robotaxi service | TechCrunch",
+    "description": "Uber is investing hundreds of millions of dollars into Lucid and autonomous vehicle technology startup Nuro in a bid to launch its own robotaxi service.",
+    "content": "Uber is investing hundreds of millions of dollars into EV maker Lucid and autonomous vehicle technology startup Nuro in a bid to launch its own premium robotaxi service.\r\nUnder the deal announced Thu\u2026 [+2138 chars]",
+    "url": "https://techcrunch.com/2025/07/17/uber-makes-multi-million-dollar-investment-in-lucid-nuro-to-build-robotaxi-service/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Lovable becomes a unicorn with $200M Series A just 8 months after launch | TechCrunch",
+    "description": "Only eight months after its launch, Sweden's Lovable has raised a $200 million Series A round led by Accel at a $1.8 billion valuation.",
+    "content": "Fast-growing Swedish AI vibe coding startup Lovable has become Europes latest unicorn. Only eight months since its launch, the startup has raised a $200 million Series A round led by Accel at a $1.8 \u2026 [+2588 chars]",
+    "url": "https://techcrunch.com/2025/07/17/lovable-becomes-a-unicorn-with-200m-series-a-just-8-months-after-launch/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Wired",
+    "title": "Shark Steam Pickup 3-in-1 Hard Floor Cleaner Review: A Do-It-All Cleaning Gadget",
+    "description": "Want a do-it-all hard floor cleaner? Give this gadget a try.",
+    "content": "To me, mopping is like filing my taxes or changing my oil. A necessary evil that I dread, a task that I procrastinate until I have no other choice. Luckily, I've been testing steam mops, which means \u2026 [+3368 chars]",
+    "url": "https://www.wired.com/review/shark-steam-pickup-3-in-1-hard-floor-cleaner-sd201/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "Slack says its AI can make sense of your company\u2019s jargon",
+    "description": "Slack is using AI to help business users quickly understand confusing company language and concentrate on their most important tasks. The communication platform announced that it will \u201csoon\u201d be adding a feature that explains workplace jargon, and an AI writin\u2026",
+    "content": "A writing assistant for canvases and a feature that explains the context of messages are both coming soon.\r\nSlack is using AI to help business users quickly understand confusing company language and \u2026 [+2025 chars]",
+    "url": "https://www.theverge.com/news/708820/slack-ai-message-context-canvas-writing-assistant",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Slack bolsters search with AI, adds transcriptions and summaries for huddles",
+    "description": "Slack is bolstering search on its app with AI features, adding transcription and summaries for huddles, and a way to see recaps of channels and threads.",
+    "content": "As the race to bake in AI features into productivity apps intensifies, Slack is bolstering search on its app with AI features, adding transcription and summaries for huddles, and a way to see recaps \u2026 [+1447 chars]",
+    "url": "https://techcrunch.com/2025/07/17/slack-bolsters-search-with-ai-adds-transcriptions-and-summaries-for-huddles/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Wired",
+    "title": "Hackers Are Finding New Ways to Hide Malware in DNS Records",
+    "description": "Newly published research shows that the domain name system\u2014a fundamental part of the web\u2014can be exploited to hide malicious code and prompt injection attacks against chatbots.",
+    "content": "Hackers are stashing malware in a place thats largely out of the reach of most defensesinside domain name system (DNS) records that map domain names to their corresponding numerical IP addresses.\r\nTh\u2026 [+4208 chars]",
+    "url": "https://www.wired.com/story/dns-records-hidden-malicious-code/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "Uber to invest in Lucid and Nuro in massive robotaxi deal",
+    "description": "Uber plans to make \u201cmulti-hundred-million dollar investments\u201d in both Nuro and Lucid as part of a massive new robotaxi deal that was just announced. The three companies are linking up to deploy \u201c20,000 or more\u201d robotaxis in the US over the next six years. The\u2026",
+    "content": "The companies plan to launch 20,000 robotaxis in the US over the next six years, starting with the first city in 2026.\r\nUber plans to make multi-hundred-million dollar investments in both Nuro and Lu\u2026 [+5514 chars]",
+    "url": "https://www.theverge.com/news/708479/uber-lucid-nuro-robotaxi-deal-investment",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Roblox introduces new safeguards for teens, including age estimation tech",
+    "description": "The move comes as Roblox has come under fire in recent years over child safety concerns.",
+    "content": "Roblox announced Thursday that it\u2019s launching new safeguards for people who are between the ages of 13 and 18. The company is introducing \u201cTrusted Connections\u201d to allows these users to connect more f\u2026 [+3128 chars]",
+    "url": "https://techcrunch.com/2025/07/17/roblox-introduces-new-safeguards-for-teens-including-age-estimation-tech/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Wired",
+    "title": "DOGE Put Free Tax Filing Tool on Chopping Block After One Meeting With Lobbyists",
+    "description": "A key operative from DOGE initiated plans to potentially kill Direct File, the free tax filing tool developed by the IRS, after offering assurances it would be spared from cuts.",
+    "content": "When the so-called Department of Government Efficiency (DOGE) arrived at the Internal Revenue Service earlier this year, leaders of the group reassured workers that the agencys free tax filing tool, \u2026 [+2908 chars]",
+    "url": "https://www.wired.com/story/doge-direct-file-chopping-block/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Wired",
+    "title": "Bring On the MAGA Revolt",
+    "description": "Donald Trump\u2019s own strategists and advisers aren\u2019t sure the president\u2019s base will survive Jeffrey Epstein\u2019s ghost.",
+    "content": "Honestly, I'm done talking about Epstein for the time being, Kirk said on his podcast days later. I'm gonna trust my friends in the administration, I'm gonna trust my friends in the government to do \u2026 [+3668 chars]",
+    "url": "https://www.wired.com/story/trump-epstein-maga-revolt/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "Wired",
+    "title": "Where Are All the AI Drugs?",
+    "description": "In an industry where 90 percent of drug candidates fail before reaching the market, a handful of startups are betting everything on AI to beat the odds.",
+    "content": "A new drug usually starts with a tragedy.\r\nPeter Ray knows that. Born in what is now Zimbabwe, the child of a mechanic and a radiology technician, Ray fled with his family to South Africa during the \u2026 [+3435 chars]",
+    "url": "https://www.wired.com/story/artificial-intelligence-drug-discovery/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TikTok lures songwriters with new promotional features",
+    "description": "TikTok is adding a new label to its app, allowing songwriters to highlight their profiles",
+    "content": "TikTok is adding new features to its app to let songwriters highlight their works. These features, rolling out in beta, include a \u201cSongwriter\u201d label and a new tab on their profile to show off their m\u2026 [+2013 chars]",
+    "url": "https://techcrunch.com/2025/07/17/tiktok-lures-songwriters-promotional-features/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TikTok is adding features for songwriters to its app",
+    "description": "TikTok is adding a new label to its app, allowing songwriters to highlight their profiles",
+    "content": "TikTok is adding new features to its app to let songwriters highlight their works. These features, rolling out in beta, include a \u201cSongwriter\u201d label and a new tab on their profile to show off their m\u2026 [+2004 chars]",
+    "url": "https://techcrunch.com/2025/07/17/tiktok-is-adding-features-for-songwriters-to-its-app/",
+    "publishedAt": "2025-07-17"
+  },
   {
     "source": "TechCrunch",
     "title": "Jack Dorsey pumps $10 million into a nonprofit focused on open-source social media",
@@ -309,309 +581,5 @@ Total Results: 175
     "content": "The tech layoff wave is still kicking in 2025. Last year saw more than 150,000 job cuts across 549 companies, according to independent layoffs tracker Layoffs.fyi. So far this year, more than 22,000 \u2026 [+22271 chars]",
     "url": "https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/",
     "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Rex Salisbury\u2019s Cambrian Ventures raises new fund, bucking fintech slowdown",
-    "description": "Spurred by the performance of its first fund, Cambrian Ventures' $20 million second fund will continue the firm's thesis of focusing on fintech startups.",
-    "content": "Rex Salisbury, the solo GP behind Cambrian Ventures, fondly recalls the time he fell in love with fintech.\r\nThe year was 2015, he had recently left his job as an investment banker to try his hand on \u2026 [+3361 chars]",
-    "url": "https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "Google\u2019s AI can now make phone calls for you",
-    "description": "Google will now let everyone in the US call local businesses using AI. The feature, which is now available in Search, allows you to use AI for pricing or availability information without having to talk on the phone. Google first started testing this feature i\u2026",
-    "content": "Google\u2019s AI can check pricing and availability at pet groomers, auto shops, dry cleaners, and more. | Image: Google\r\n\n\nGoogle will now let everyone in the US call local businesses using AI. The featu\u2026 [+2587 chars]",
-    "url": "https://www.theverge.com/news/708210/google-ai-phone-calls-ai-mode-gemini-upgrade",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "Stranger Things 5\u2019s first trailer promises an epic showdown",
-    "description": "It\u2019s been a long time coming, but we finally have a real look at the end of Stranger Things. Netflix just released the first teaser trailer for the show\u2019s fifth season, which will also be its last when it starts streaming later this year. As was alluded to in\u2026",
-    "content": "The final season will be released in chunks over the winter.\r\nThe final season will be released in chunks over the winter.\r\nIts been a long time coming, but we finally have a real look at the end of \u2026 [+1966 chars]",
-    "url": "https://www.theverge.com/news/707540/stranger-things-5-teaser-trailer-netflix",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "OnePlus\u2019 2-in-1 USB cable charges your phone and smartwatch at the same time",
-    "description": "OnePlus announced a new USB-C charging cable that does more than just pass power and data from one device to another. The OnePlus 2-in-1 Supervooc Cable features an inline pogo pin connector that can be used to charge the company\u2019s OnePlus Watch 3, Watch 2, a\u2026",
-    "content": "The cable can deliver up to 80W of power to a single device, or up to 67W with a OnePlus Watch connected.\r\nThe cable can deliver up to 80W of power to a single device, or up to 67W with a OnePlus Wat\u2026 [+1522 chars]",
-    "url": "https://www.theverge.com/news/708231/one-plus-2-in-1-supervooc-usb-cable-charger-smartphone-smartwatch",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "Wired",
-    "title": "Razer Freyja Review: A Haptic Gaming Cushion for Better Immersion",
-    "description": "Razer\u2019s haptic gaming cushion can make your favorite virtual worlds feel real, if you don\u2019t mind the uncomfy seat.",
-    "content": "I remember the first time I played a first-person shooter. It was Star Wars: Battlefront 2, the 2005 version, on the Playstation 2 in my friends basement, when I was a kid. I felt like I was right th\u2026 [+3512 chars]",
-    "url": "https://www.wired.com/review/razer-freyja-haptic-gaming-cushion/",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "For Nintendo, freedom means more than an open world",
-    "description": "In past Donkey Kong games, like Tropical Freeze or DKC Returns, I would often find myself stuck against a particularly challenging platforming sequence. And there wasn't much I could do. If I wanted to progress, I had to nail those jumps or avoid those spikes\u2026",
-    "content": "The destruction in Donkey Kong Bananza is just the latest example of an ongoing design trend.\r\nThe destruction in Donkey Kong Bananza is just the latest example of an ongoing design trend.\r\nIn past D\u2026 [+4410 chars]",
-    "url": "https://www.theverge.com/nintendo/707449/donkey-kong-bananza-switch-2-nintendo-design-open-world",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "Razer\u2019s $350 eGPU chassis only comes with a Thunderbolt 5 cable",
-    "description": "Razer is launching a new $350 external graphics enclosure that can boost the visual performance of gaming laptops or handhelds, provided you make a few other investments. The Razer Core X V2 is the first of Razer\u2019s Core X eGPU chassis lineup to support the fa\u2026",
-    "content": "You have to buy your own GPU, power supply, and even a dock if you want to connect peripherals.\r\nYou have to buy your own GPU, power supply, and even a dock if you want to connect peripherals.\r\nRazer\u2026 [+1820 chars]",
-    "url": "https://www.theverge.com/news/708202/razer-core-x-v2-egpu-price-thunderbolt-5",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Meta reportedly scores two more high-profile OpenAI researchers | TechCrunch",
-    "description": "OpenAI researcher Jason Wei will reportedly join Meta\u2019s new Superintelligence Lab. Another team member, Hyung Won Chung, might also join Meta, as the company works to catch up to rivals in the AGI race.",
-    "content": "OpenAI researcher Jason Wei will join Metas new Superintelligence Lab, reports Wired, citing two sources familiar with the matter. Another team member, Hyung Won Chung, may also join Meta.\u00a0\r\nSources \u2026 [+1185 chars]",
-    "url": "https://techcrunch.com/2025/07/16/meta-reportedly-scores-two-more-high-profile-openai-researchers/",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "Wired",
-    "title": "Former Top Google Researchers Have Made A New Kind of AI Agent",
-    "description": "The mission? Teaching models to better understand how to build code will lead to superintelligent AI.",
-    "content": "A new kind of artificial intelligence agent, trained to understand how software is built by gorging on a companys data and learning how this leads to an end product, could be both a more capable soft\u2026 [+3038 chars]",
-    "url": "https://www.wired.com/story/former-top-google-researchers-have-made-a-new-kind-of-ai-agent/",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "Wired",
-    "title": "Best Camping Chairs (2025): Snow Peak, Kelty, Helinox, and More",
-    "description": "Whether you\u2019re hiking, tailgating, or relaxing in the garden, take the weight off in style with these WIRED-tested chairs for the great outdoors.",
-    "content": "Picking the right camping chair will enhance your time in the outdoors, whether you're thru-hiking the Pacific Crest Trail or pitching up at a boutique campground. Here's what to consider to find the\u2026 [+2358 chars]",
-    "url": "https://www.wired.com/gallery/best-camping-chairs/",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "Wired",
-    "title": "Bang & Olufsen Beoplay A1 (Gen 3) Review: Perpetually Great",
-    "description": "Third time\u2019s a charm for this elegantly designed and sonically refined Bluetooth speaker.",
-    "content": "Back in 2016, the original A1 Bluetooth speaker (8/10, WIRED Recommends) was one of the first from Bang &amp; Olufsen under its more affordable Beoplay sub-brand. The stylish puck of brushed aluminum\u2026 [+2826 chars]",
-    "url": "https://www.wired.com/review/bang-and-olufsen-beosound-a1/",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "Nintendo\u2019s Zelda movie has found its princess and hero of time",
-    "description": "Though Nintendo\u2019s live-action Legend of Zelda movie won\u2019t be out until May 7th, 2027, we finally know who is going to be playing the titular princess and her faithful knight. This morning via its news app, Nintendo announced that Bo Bragason (Renegade Nell, T\u2026",
-    "content": "Bo Bragason and Benjamin Evan Ainsworth have been cast as Princess Zelda and Link.\r\nThough Nintendos live-action Legend of Zelda movie wont be out until May 7th, 2027, we finally know who is going to\u2026 [+1077 chars]",
-    "url": "https://www.theverge.com/nintendo/708143/nintendo-zelda-movie-casting-bo-bragason-benjamin-evan-ainsworth",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "Wired",
-    "title": "Bedsure's Bamboo Cooling Sheets Are Silky Soft, Durable, and Cheap",
-    "description": "I test sleep products for a living and my favorite cooling sheets are silky, thick, durable, and priced below $100 on Amazon.",
-    "content": "Ive met many supposedly cooling sheets in my time as a mattress and bedding tester, and I have been disappointed more often than not. A cooling mattress cant do all the heavy lifting with temperature\u2026 [+3948 chars]",
-    "url": "https://www.wired.com/review/bedsure-gentlesoft-cooling-sheets/",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "Wired",
-    "title": "Get the macOS Finder to Do Just About Anything by Typing Natural Language Commands",
-    "description": "With the app Substage, users can type out file management tasks in plain English, then use the commands it generates to convert file types, manage folders, create zip files, and more.",
-    "content": "I'm genuinely not sure if large language modelsoften referred to as AI in shorthandare the future of computing. But I also don't think chatbots are how people will use this technology in the years to\u2026 [+1896 chars]",
-    "url": "https://www.wired.com/story/substage-macos-finder-natural-language-commands/",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "Google\u2019s Discover page now summarizes news with AI",
-    "description": "Google is rolling out AI-generated summaries directly within Discover, its personalized news feed nestled within the Google Search app. TechCrunch reports that some users in the US are seeing Discover cards on iOS and Android that provide the new summaries in\u2026",
-    "content": "TechCrunch\" data-portal-copyright=\"Image: Google / TechCrunch\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Google-Discover-AI-summaries-hero.\u2026 [+2232 chars]",
-    "url": "https://www.theverge.com/news/708089/google-discover-ai-summaries-ios-android",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "Wired",
-    "title": "How Social Media Is Fueling Gen Z\u2019s Sex Recession",
-    "description": "For her new book, journalist Carter Sherman interviewed over 100 young people about why they\u2019re not having sex. She says they\u2019re \u201cvery horny\u201d but also more isolated, self-conscious, and fearful.",
-    "content": "I wanted to ask you about the pandemic and how being isolated impacted young people's game, or just their ability to flirt and socialize with each other\r\nI think what it did is sort of speed up a pro\u2026 [+2559 chars]",
-    "url": "https://www.wired.com/story/carter-sherman-the-second-coming-interview/",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "Here\u2019s what Mac you need for Cyberpunk 2077",
-    "description": "Cyberpunk 2077 is launching on macOS tomorrow, and CD Projekt Red is now sharing details on exactly what Mac you\u2019ll need to get the most out of the game. While Cyberpunk 2077 has been optimized for a variety of Macs, from early M1 models up, if you want the t\u2026",
-    "content": "Youll need an M3 or newer chip for ray tracing modes.\r\nCyberpunk 2077 is launching on macOS tomorrow, and CD Projekt Red is now sharing details on exactly what Mac youll need to get the most out of t\u2026 [+2271 chars]",
-    "url": "https://www.theverge.com/news/708100/cyberpunk-2077-mac-system-requirements-modes-ray-tracing",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "Wired",
-    "title": "Now Is a Very Good Time to Buy a Used EV. Here's Why",
-    "description": "America's One Big Beautiful Bill is going to make buying electric rides more expensive\u2014so the clock is ticking to bag a bargain.",
-    "content": "For years, Tesla CEO Elon Musk has promised that his EV company would finally manufacture an affordable car in the $25,000 range. For years, hes missedhis own deadlines until now? Step into a showroo\u2026 [+4991 chars]",
-    "url": "https://www.wired.com/story/now-is-a-very-good-time-to-buy-a-used-ev-heres-why/",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "Wired",
-    "title": "Which King Mattress Size Rules Your Sleep Style? (2025)",
-    "description": "There\u2019s more than one king size in the mattress world. Our sleep expert helps parse which one might fit your needs.",
-    "content": "King-sized mattresses are the largest mattress size you can get, right? Surprise! Its not just the standard king anymore. With king mattress size options these days, youve got territories, states, an\u2026 [+4479 chars]",
-    "url": "https://www.wired.com/story/king-mattress-sizes/",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Chinese authorities are using a new tool to hack seized phones and extract data | TechCrunch",
-    "description": "Researchers warned that Chinese residents, and visitors to China, should be aware of the tool's existence and the risks it poses.",
-    "content": "Security researchers say Chinese authorities are using a new type of malware to extract data from seized phones, allowing them to obtain text messages including from chat apps such as Signal images, \u2026 [+4094 chars]",
-    "url": "https://techcrunch.com/2025/07/16/chinese-authorities-are-using-a-new-tool-to-hack-seized-phones-and-extract-data/",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "The deluge of faster Qi2.2 wireless chargers is here",
-    "description": "Yesterday Ugreen was the first company to announce it had a Qi2.2 wireless charging power bank on the way, but it wasn\u2019t alone for long. The Wireless Power Consortium (WPC) has already certified eight Qi2.2 products, all from different manufacturers, includin\u2026",
-    "content": "Anker is one of eight companies with Qi2.2 products already certified.\r\n\n\nYesterday Ugreen was the first company to announce it had a Qi2.2 wireless charging power bank on the way, but it wasn\u2019t alon\u2026 [+2409 chars]",
-    "url": "https://www.theverge.com/news/708060/qi-2-2-certification-25w-wpc-belkin-anker-ugreen-aukey",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "Wired",
-    "title": "Another High-Profile OpenAI Researcher Departs for Meta",
-    "description": "Jason Wei, who worked on OpenAI\u2019s o3 and deep research models, will be joining Meta\u2019s superintelligence lab. His colleague Hyung Won Chung is also joining Meta, a source tells WIRED.",
-    "content": "OpenAI researcher Jason Wei is joining Metas new superintelligence lab, according to multiple sources familiar with the matter.\r\nWei worked on OpenAIs o3 and deep research models, according to his pe\u2026 [+2376 chars]",
-    "url": "https://www.wired.com/story/jason-wei-open-ai-meta/",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "Donkey Kong Bananza turns destruction into joy",
-    "description": "My first thought upon starting up Donkey Kong Bananza was, \"Why yes, I actually would like to go ape shit.\" The game starts by having Donkey Kong smash through a wall to reveal a glittering gem waiting to be liberated from the rock. But instead of punching th\u2026",
-    "content": "Donkey Kong Bananza turns destruction into joy\r\nWhy yes, I would like to go ape shit.\r\nDonkey Kong Bananza turns destruction into joy\r\nWhy yes, I would like to go ape shit.\r\nMy first thought upon sta\u2026 [+7527 chars]",
-    "url": "https://www.theverge.com/games-review/707704/donkey-kong-bananza-review-nintendo-switch-2",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "Now Microsoft\u2019s Copilot Vision AI can scan everything on your screen",
-    "description": "Microsoft is rolling out an update to Copilot Vision for Windows Insiders that lets the AI tool see everything that\u2019s on your screen. Previously, the tool was able to look at two apps at a time and connect the dots between the two, but with this change, it ca\u2026",
-    "content": "Copilot Vision will be able to look at your whole desktop.\r\nMicrosoft is rolling out an update to Copilot Vision for Windows Insiders that lets the AI tool see everything thats on your screen. Previo\u2026 [+1004 chars]",
-    "url": "https://www.theverge.com/news/707995/microsoft-copilot-vision-ai-windows-scan-screen-desktop",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Of course, Grok's AI companions want to have sex and burn down schools | TechCrunch",
-    "description": "Of course, Grok's AI companions want to have sex and burn down schools | TechCrunchtechcrunch.com",
-    "content": "Elon Musk is a man who named a government agency after a memecoin, designed a robotaxi test network in the shape of a phallus, and once went to court for tweeting weed jokes in relation to Tesla stoc\u2026 [+4967 chars]",
-    "url": "https://techcrunch.com/2025/07/15/of-course-groks-ai-companions-want-to-have-sex-and-burn-down-schools/",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "Wired",
-    "title": "I Tried Grok's Built-In Anime Companion and It Called Me a Twat",
-    "description": "xAI's new $300 monthly subscription comes with two AI companions powered by its most capable model to date. I tried them. It got weird.",
-    "content": "An anime girl in a black corset dress sways back and forth on my screen. Its name is Ani, and it cost me $300.\r\nElon Musks xAI dropped the new visual chatbot feature on Monday in the Grok iOS app. Th\u2026 [+3308 chars]",
-    "url": "https://www.wired.com/story/elon-musk-xai-ai-companion-ani/",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "The Chainsmokers' Mantis Ventures closes $100M third fund | TechCrunch",
-    "description": "The Chainsmokers' Mantis Ventures closes $100M third fund | TechCrunchtechcrunch.com",
-    "content": "Mantis Ventures, the venture capital firm co-founded by Alex Pall and Drew Taggart of the electronic DJ group The Chainsmokers, has raised $100 million in commitments for its third fund.\r\nAt $100 mil\u2026 [+880 chars]",
-    "url": "https://techcrunch.com/2025/07/15/the-chainsmokers-mantis-ventures-closes-100m-third-fund/",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Amazon's Kuiper satellites to get boost from rival SpaceX | TechCrunch",
-    "description": "Amazon is looking to its main competitor to get its next batch of Kuiper satellites to orbit.",
-    "content": "Amazons race to challenge SpaceX in orbit is getting a helping hand from its chief competitor: SpaceX, which will launch the next batch of Amazon\u2019s Project Kuiper internet satellites skyward on Wedne\u2026 [+1725 chars]",
-    "url": "https://techcrunch.com/2025/07/15/amazons-kuiper-satellites-to-get-boost-from-rival-spacex/",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "Wired",
-    "title": "Thinking Machines Lab Raises a Record $2 Billion, Announces Cofounders",
-    "description": "Mira Murati and several other former OpenAI researchers are behind the buzzy AI startup, now valued at $12 billion and officially out of stealth.",
-    "content": "Thinking Machines Lab, an artificial intelligence company founded by top researchers who fled OpenAI, has raised a record $2 billion seed round that values the fledgling firm at $12 billion.\r\nThe fun\u2026 [+2129 chars]",
-    "url": "https://www.wired.com/story/thinking-machines-lab-mira-murati-funding/",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "US Army soldier pleads guilty to hacking telcos and extortion | TechCrunch",
-    "description": "US Army soldier pleads guilty to hacking telcos and extortion | TechCrunchtechcrunch.com",
-    "content": "Former U.S. Army soldier Cameron John Wagenius pleaded guilty to hacking telecommunication companies and attempting to extort them by threatening to release stolen files, the Department of Justice an\u2026 [+1006 chars]",
-    "url": "https://techcrunch.com/2025/07/15/us-army-soldier-pleads-guilty-to-hacking-telcos-and-extortion/",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "The Verge",
-    "title": "To make Ironheart feel tactile, the show\u2019s creative team had to get on the same page",
-    "description": "In Disney Plus' Ironheart series, a young genius with an uncanny knack for building armored suits finds herself plunged into a shady, criminal underworld that gives her a chance to really show off her talents. Riri Williams is not Tony Stark, and while the Ir\u2026",
-    "content": "To make Ironheart feel tactile, the shows creative team had to get on the same page\r\nFor cinematographer Alison Kelly, the key to Ironhearts stunning visuals was strong behind-the-scenes communicatio\u2026 [+5156 chars]",
-    "url": "https://www.theverge.com/tv/707329/ironheart-alison-kelly-interview",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "The Verge",
-    "title": "How Knox Morris turned TikTok virality into a national tour",
-    "description": "Knox Morris stands onstage, stares out into the depths of the famed 9:30 Club in Washington, DC, and raises his arms to the heavens. The backing track to his song, a synth-heavy pop-punk number called \"Going, Going, Gone,\" begins to play at an absolutely deaf\u2026",
-    "content": "A musicians dream begins on social media. So what happens next?\r\nKnox Morris stands onstage, stares out into the depths of the famed 9:30 Club in Washington, DC, and raises his arms to the heavens. T\u2026 [+17396 chars]",
-    "url": "https://www.theverge.com/music/701539/how-knox-morris-turned-tiktok-virality-into-a-national-tour",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "A former OpenAI engineer describes what it\u2019s really like to work there | TechCrunch",
-    "description": "A senior engineer describes the thrill, chaos, and exhaustion of working at OpenAI this past year while launching its coding agent Codex.",
-    "content": "Three weeks ago, an engineer named Calvin French-Owen, who worked on one of OpenAIs most promising new products, resigned from the company.\u00a0\r\nHe just published a fascinating blog post on what it was \u2026 [+3744 chars]",
-    "url": "https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "The Verge",
-    "title": "Trump announces billions in investments to make Pennsylvania an AI hub",
-    "description": "President Donald Trump helped announce more than $90 billion in investments in AI and energy at an event in Pennsylvania on Tuesday. Among those investments include some multi-billion dollar commitments from Google. The company is planning to invest $25 billi\u2026",
-    "content": "Google is making some multi-billion dollar commitments.\r\nPresident Donald Trump helped announce more than $90 billion in investments in AI and energy at an event in Pennsylvania on Tuesday.\r\nAmong th\u2026 [+1598 chars]",
-    "url": "https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "The Verge",
-    "title": "Xbox tests letting you stream your own games on PC",
-    "description": "Xbox is bringing its \u201cstream your own game\u201d feature to PC. On Tuesday, the company announced that Xbox Insiders with a Game Pass Ultimate subscription can try streaming the Xbox games they own, including some that are available on console only, directly from \u2026",
-    "content": "That includes titles available on console only.\r\nThat includes titles available on console only.\r\nXbox is bringing its stream your own game feature to PC. On Tuesday, the company announced that Xbox \u2026 [+915 chars]",
-    "url": "https://www.theverge.com/news/707739/xbox-stream-your-own-game-pc-app",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Meta fixes bug that could leak users' AI prompts and generated content",
-    "description": "The tech giant fixed the security flaw, netting a security researcher $10,000 for privately disclosing the bug.",
-    "content": "Meta has fixed a security bug that allowed Meta AI chatbot users to access and view the private prompts and AI-generated responses of other users.\r\nSandeep Hodkasia, the founder of security testing f\u2026 [+1774 chars]",
-    "url": "https://techcrunch.com/2025/07/15/meta-fixes-bug-that-could-leak-users-ai-prompts-and-generated-content/",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "The Verge",
-    "title": "Adidas now offers a laced version of its 3D-printed shoes",
-    "description": "Adidas has released a new variant of its 3D-printed Climacool shoes with laces so you can adjust their fit and potentially tone down how tightly they hug your feet. Featuring a breathable lattice structure created through an additive printing process, the sho\u2026",
-    "content": "The new Climacool Laced have an adjustable fit you can make more or less snug.\r\nThe new Climacool Laced have an adjustable fit you can make more or less snug.\r\nAdidas has released a new variant of it\u2026 [+1554 chars]",
-    "url": "https://www.theverge.com/news/707699/adidas-laces-climacool-shoe-3d-printed",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "Wired",
-    "title": "The FBI's Jeffrey Epstein Prison Video Had Nearly 3 Minutes Cut Out",
-    "description": "Metadata from the \u201craw\u201d Epstein prison video shows approximately 2 minutes and 53 seconds were removed from one of two stitched-together clips. The cut starts right at the \u201cmissing minute.\u201d",
-    "content": "Both analyses found that the two clips, labeled 2025-05-22 16-35-21.mp4 and 2025-05-22 21-12-48.mp4, were stitched together. The first clip is 4 hours, 19 minutes, and 16 seconds long, but only the f\u2026 [+3216 chars]",
-    "url": "https://www.wired.com/story/the-fbis-jeffrey-epstein-prison-video-had-nearly-3-minutes-cut-out/",
-    "publishedAt": "2025-07-15"
   }
 ]
