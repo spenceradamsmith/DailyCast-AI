@@ -37,10 +37,19 @@ removals_by_category = {
 }
 
 # Choose options
-chosen_categories = ["General"]
-chosen_keywords = []
+chosen_categories = ["Technology"]
+chosen_keywords = ["Tesla", "Apple"]
 chosen_politics = "Center"
-chosen_time_interval = "3 days"
+chosen_time = "5 minutes"
+chosen_speed = "Normal"
+speed_map = {
+    "Slow": 0.75,
+    "Normal": 1,
+    "Fast": 1.25,
+    "Faster": 1.5,
+    "Very Fast": 2,
+}
+chosen_time_interval = "14 days"
 interval_map = {
     "1 day": 2,
     "3 days": 3,
@@ -69,17 +78,16 @@ chosen_sources = [s for s in chosen_sources if s not in source_removals]
 # NewsAPI pull request
 query_sources = ",".join(chosen_sources)
 query_keywords = " OR ".join(chosen_keywords)
-headers = {"X-Api-Key": NEWSAPI_KEY}
 response = requests.get(
     "https://newsapi.org/v2/everything",
-    headers=headers,
     params={
         "apiKey": NEWSAPI_KEY,
         "sources": query_sources,
-        "q": query_keywords,
+        "qInTitle": query_keywords,
         "from": start_date,
         "to": end_date,
         "pageSize": 100,
+        "sortBy": "relevancy",
         "language": "en",
     }
 )
