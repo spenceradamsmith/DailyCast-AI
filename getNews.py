@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
-NEWSAPI_KEY = NEWSAPI_KEY.strip()
 OPENAI_KEY = os.getenv("OPENAI_KEY")
 
 # Mapping source names to real names and links
