@@ -2,6 +2,7 @@ import os
 import requests
 import json
 from dotenv import load_dotenv
+from datetime import datetime, timedelta
 
 load_dotenv()
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
@@ -22,20 +23,25 @@ categories = {
 # Choose options
 chosen_categories = ["Technology", "Sports"]
 chosen_keywords = ["Tesla", "Knicks"]
-start_date = "2025-07-16"
-end_date = "2025-07-18"
+chosen_time_interval = "7 days"
+interval_map = {
+    "1 day":   2,
+    "3 days":  3,
+    "7 days":  7,
+    "14 days": 14,
+    "30 days": 30
+}
+time_difference = interval_map.get(chosen_time_interval, 0)
+end_dt = datetime.today()
+start_dt = end_dt - timedelta(days = time_difference)
+start_date = start_dt.strftime('%Y-%m-%d')
+end_date = end_dt.strftime('%Y-%m-%d')
 
 # Get sources from chosen categories
 chosen_sources = []
 for category in chosen_categories:
     for cat in categories[category]:
         chosen_sources.append(cat)
-
-# Print selections
-print("Sources:", chosen_sources)
-print("Keywords:", chosen_keywords)
-print("Start Date:", start_date)
-print("End Date:", end_date)
 
 # NewsAPI pull request
 query_sources = ",".join(chosen_sources)
@@ -50,12 +56,11 @@ response = requests.get(
         "q": query_keywords,
         "from": start_date,
         "to": end_date,
-        "pageSize": 50,
+        "pageSize": 100,
         "language": "en",
     }
 )
 data = response.json()
-print ("Total Results:", data["totalResults"])
 
 # Reformat data from NewsAPI
 filtered_data = []
@@ -67,4 +72,12 @@ for article in data.get("articles", []):
         "url": article["url"],
         "publishedAt": article["publishedAt"].split("T")[0]
     })
-print(json.dumps(filtered_data, indent = 2))
+
+with open("podsmith_output.txt", "w", encoding = "utf-8") as out:
+    print("Categories:", chosen_categories, file = out)
+    print("Keywords:", chosen_keywords, file = out)
+    print("Sources:", chosen_sources, file = out)
+    print("Start Date:", start_date, file = out)
+    print("End Date:", end_date, file = out)
+    print("Total Results:", data.get("totalResults"), file = out)
+    print(json.dumps(filtered_data, indent = 2), file = out)

@@ -1,0 +1,204 @@
+Categories: ['Technology', 'Sports']
+Keywords: ['Tesla', 'Knicks']
+Sources: ['techcrunch', 'wired', 'the-verge', 'engadget', 'ars-technica', 'espn', 'fox-sports', 'the-sport-bible', 'bleacher-report', 'talksport']
+Start Date: 2025-07-11
+End Date: 2025-07-18
+Total Results: 29
+[
+  {
+    "source": "The Verge",
+    "title": "xAI explains the Grok Nazi meltdown as Tesla puts Elon\u2019s bot in its cars",
+    "description": "Several days after temporarily shutting down the Grok AI bot that was producing antisemitic posts and praising Hitler in response to user prompts, Elon Musk\u2019s AI company tried to explain why that happened. In a series of posts on X, it said that \u201c\u2026we discover\u2026",
+    "url": "https://www.theverge.com/news/706498/xai-grok-hitler-antisemitism-tesla-ai-bot",
+    "publishedAt": "2025-07-13"
+  },
+  {
+    "source": "The Verge",
+    "title": "BYD will accept liability if one of its self-parking cars crashes",
+    "description": "The Chinese EV-maker BYD says it will pay for any damage caused by its upgraded self-parking system, as reported earlier by Fast Company. A translated version of BYD\u2019s announcement on Weibo says the company \u201cwill fully cover the safety and losses\u201d of vehicles\u2026",
+    "url": "https://www.theverge.com/news/705470/byd-self-parking-crash-liability",
+    "publishedAt": "2025-07-11"
+  },
+  {
+    "source": "Wired",
+    "title": "GM\u2019s Final EV Battery Strategy Copies China\u2019s Playbook: Super Cheap Cells",
+    "description": "General Motors\u2019 homemade version of the low-cost power option favored by China\u2019s auto industry will hit three years before its super energy-dense tech arrives\u2014and could bring affordable US EVs sooner.",
+    "url": "https://www.wired.com/story/gms-final-ev-battery-strategy-copies-chinas-playbook-super-cheap-cells/",
+    "publishedAt": "2025-07-14"
+  },
+  {
+    "source": "Fox Sports",
+    "title": "2025 NBA Sixth Man Of The Year Odds: Payton Pritchard Favored To Repeat",
+    "description": "Will Boston's Payton Pritchard win the NBA's Sixth Man of the Year two years in a row? Here's what the early odds say.",
+    "url": "https://www.foxsports.com/stories/nba/2025-nba-sixth-man-year-odds",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "ESPN",
+    "title": "The Suns turned a superteam into a costly cautionary tale",
+    "description": "The Suns' big three brought hope, bravado -- and so little tangible success. Zach Kram examines why things never clicked in Phoenix.",
+    "url": "https://www.espn.com/nba/story/_/id/45757564/nba-free-agency-2025-beal-durant-reasons-suns-collapse",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Tesla reveals Model 3 Plus and Model YL in China as price war heats up",
+    "description": "Tesla is continuing to tweak its best-selling EVs in China in the hopes that it can boost its sales amid rising competition from BYD and other domestic manufacturers. Tesla applied for a new sales license with China\u2019s Ministry of Information Technology for a \u2026",
+    "url": "https://www.theverge.com/news/708279/tesla-model-3-plus-model-yl-china-price-war",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Tesla\u2019s Autopilot is under scrutiny in a rare jury trial",
+    "description": "Tesla is on trial in Miami today in a case that accuses Elon Musk\u2019s company of liability in a fatal crash involving Autopilot. The driver-assist system has come under scrutiny in the past for a number of fatal incidents, but Tesla has only rarely faced a jury\u2026",
+    "url": "https://www.theverge.com/news/706634/tesla-autopilot-jury-trial-wrongful-death-florida",
+    "publishedAt": "2025-07-14"
+  },
+  {
+    "source": "ESPN",
+    "title": "The NBA's Apron Club: Who's in, who's out and when OKC might join",
+    "description": "Welcome to the NBA's Apron Club. Membership can get pretty expensive, so don't stay too long.",
+    "url": "https://www.espn.com/nba/story/_/id/45749043/nba-free-agency-which-franchises-belong-apron-club",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "EcoFlow says its new Ocean Pro is better than Tesla\u2019s Powerwall",
+    "description": "EcoFlow is powering up its first permanently installed whole-home energy solution for the US. The Ocean Pro system launches this week, featuring the new Ocean Pro Battery with 10kWh of storage expandable to 80kWh, and the Ocean Pro Inverter, which supports so\u2026",
+    "url": "https://www.theverge.com/news/707153/ecoflow-launches-ocean-pro-home-energy-system-tesla-battery-competitor",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "The Verge",
+    "title": "Uber is close to completing its quest to become the ultimate robotaxi app",
+    "description": "Uber just announced a deal today with the company that runs one of the largest robotaxi fleets in China, as the ridehail giant nears its goal of becoming the world\u2019s ultimate autonomous vehicle clearinghouse. Uber and Baidu said they are teaming up to deploy \u2026",
+    "url": "https://www.theverge.com/news/707347/uber-baidu-robotaxi-deal-autonomous-ridehail",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "ESPN",
+    "title": "Joel Embiid sees you",
+    "description": "In what he's calling his \"most important\" offseason, Joel Embiid responds to his critics.",
+    "url": "https://www.espn.com/nba/story/_/id/45747447/joel-embiid-philadelphia-76ers-star-sees-you",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Texas governor says his emails with Elon Musk are too \u2018intimate or embarrassing\u2019 to release",
+    "description": "Texas Governor Greg Abbott is refusing to release months\u2019 worth of emails sent to Elon Musk and his companies under public records laws, according to a joint report from ProPublica, The Texas Newsroom, and The Texas Tribune. After initially agreeing to an inf\u2026",
+    "url": "https://www.theverge.com/news/706635/texas-governor-greg-abbott-elon-musk-emails-refusal",
+    "publishedAt": "2025-07-14"
+  },
+  {
+    "source": "The Verge",
+    "title": "Why GM\u2019s CEO is still betting on electric vehicles (and racing)",
+    "description": "GM was the first major US automaker to make the promise to go all-electric by 2035, just four years ago. Those promises have since turned into rough estimates under the second Donald Trump presidency, with the company softening language about its electrificat\u2026",
+    "url": "https://www.theverge.com/gm-general-motors/705320/gm-ceo-mary-barra-interview-ev-cadillac-dei-trump",
+    "publishedAt": "2025-07-11"
+  },
+  {
+    "source": "The Verge",
+    "title": "The great EV pullback has begun",
+    "description": "Electric vehicles are at a crossroads. Sales are still going up, but many automakers are canceling or delaying new models, worried by recent policy moves that will make EVs more expensive to own. Every day seems to bring fresh news of a delayed EV or a timeli\u2026",
+    "url": "https://www.theverge.com/electric-cars/700767/ev-cancel-delay-tax-credit-nissan-honda-tesla",
+    "publishedAt": "2025-07-11"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunch",
+    "description": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunchtechcrunch.com",
+    "url": "https://techcrunch.com/2025/07/16/gmc-hummer-ev-outsold-the-tesla-cybertruck-last-quarter/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Tesla reportedly close to starting sales in India | TechCrunch",
+    "description": "Tesla may finally start selling its EVs in India with a showroom slated for Mumbai.",
+    "url": "https://techcrunch.com/2025/07/11/tesla-reportedly-close-to-starting-sales-in-india/",
+    "publishedAt": "2025-07-11"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Tesla finally enters India \u2014 nine years after Elon Musk first teased its debut | TechCrunch",
+    "description": "Tesla finally enters India \u2014 nine years after Elon Musk first teased its debut | TechCrunchtechcrunch.com",
+    "url": "https://techcrunch.com/2025/07/14/tesla-finally-enters-india-nine-years-after-elon-musk-first-teased-its-debut/",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Lucid Motors will roll out hands-free highway driving this month | TechCrunch",
+    "description": "Lucid Motors joins the likes of Ford, General Motors, and Tesla in offering an advanced driver assistance system that allows for hands-free driving.",
+    "url": "https://techcrunch.com/2025/07/15/lucid-motors-will-roll-out-hands-free-highway-driving-this-month/",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Tesla is already trying to expand its Robotaxi service to Arizona\u00a0 | TechCrunch",
+    "description": "Tesla has applied for a permit to test and deploy autonomous vehicles in Arizona. It's also eyeing expansion in Austin, Texas, and California.",
+    "url": "https://techcrunch.com/2025/07/10/tesla-is-already-trying-to-expand-its-robotaxi-service-to-arizona/",
+    "publishedAt": "2025-07-11"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TechCrunch Mobility: Tesla enters its Grok era, and teens come for robotaxis | TechCrunch",
+    "description": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation.",
+    "url": "https://techcrunch.com/2025/07/11/techcrunch-mobility-tesla-enters-its-grok-era-and-teens-come-for-robotaxis/",
+    "publishedAt": "2025-07-11"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Of course, Grok's AI companions want to have sex and burn down schools | TechCrunch",
+    "description": "Of course, Grok's AI companions want to have sex and burn down schools | TechCrunchtechcrunch.com",
+    "url": "https://techcrunch.com/2025/07/15/of-course-groks-ai-companions-want-to-have-sex-and-burn-down-schools/",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TC All Stage is tomorrow in Boston and prices go up by then | TechCrunch",
+    "description": "If you\u2019re a founder or investor, this is your last shot to lock in up to $425 savings before they vanish at the door tomorrow at 7:30 a.m. ET. Register now.",
+    "url": "https://techcrunch.com/2025/07/13/the-countdowns-almost-over-2-days-until-techcrunch-all-stage-2025-kicks-off-in-boston/",
+    "publishedAt": "2025-07-13"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI | TechCrunch",
+    "description": "OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI | TechCrunchtechcrunch.com",
+    "url": "https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "xAI and Grok apologize for \u2018horrific behavior\u2019 | TechCrunch",
+    "description": "In a series of posts on X, the AI chatbot Grok apologized for what it admitted was \u201chorrific behavior.\u201d The posts appear to be an official statement from xAI, the Elon Musk-led company behind Grok, as opposed to an AI-generated explanation for Grok\u2019s posts. (\u2026",
+    "url": "https://techcrunch.com/2025/07/12/xai-and-grok-apologize-for-horrific-behavior/",
+    "publishedAt": "2025-07-12"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Grok 4 seems to consult Elon Musk to answer controversial questions | TechCrunch",
+    "description": "Elon Musk's newly launched AI chatbot, Grok 4, seemed to reference Musk's posts on social media before answering controversial questions.",
+    "url": "https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/",
+    "publishedAt": "2025-07-11"
+  },
+  {
+    "source": "Wired",
+    "title": "Another High-Profile OpenAI Researcher Departs for Meta",
+    "description": "Jason Wei, who worked on OpenAI\u2019s o3 and deep research models, will be joining Meta\u2019s superintelligence lab. His colleague Hyung Won Chung is also joining Meta, a source tells WIRED.",
+    "url": "https://www.wired.com/story/jason-wei-open-ai-meta/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "5 Big EV Takeaways From Trump\u2019s \u2018One Big Beautiful Bill\u2019",
+    "description": "The new US legislation isn\u2019t great for electric vehicles. But experts have advice for how the EV-curious buyer might navigate this tricky moment\u2014and there\u2019s even some good news to be found.",
+    "url": "https://www.wired.com/story/5-big-ev-takeaways-one-big-beautiful-bill/",
+    "publishedAt": "2025-07-11"
+  },
+  {
+    "source": "Wired",
+    "title": "Now Is a Very Good Time to Buy a Used EV. Here's Why",
+    "description": "America's One Big Beautiful Bill is going to make buying electric rides more expensive\u2014so the clock is ticking to bag a bargain.",
+    "url": "https://www.wired.com/story/now-is-a-very-good-time-to-buy-a-used-ev-heres-why/",
+    "publishedAt": "2025-07-16"
+  }
+]
