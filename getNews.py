@@ -19,12 +19,13 @@ categories = {
     "Sports":        ["espn", "fox-sports", "the-sport-bible", "bleacher-report", "talksport"],
 }
 
+# Choose options
 chosen_categories = ["Technology", "Sports"]
 chosen_keywords = ["Tesla", "Knicks"]
 start_date = "2025-07-16"
 end_date = "2025-07-18"
 
-
+# Get sources from chosen categories
 chosen_sources = []
 for category in chosen_categories:
     for cat in categories[category]:
@@ -36,7 +37,7 @@ print("Keywords:", chosen_keywords)
 print("Start Date:", start_date)
 print("End Date:", end_date)
 
-# NewsAPI
+# NewsAPI pull request
 query_sources = ",".join(chosen_sources)
 query_keywords = " OR ".join(chosen_keywords)
 headers = {"X-Api-Key": NEWSAPI_KEY}
@@ -56,6 +57,7 @@ response = requests.get(
 data = response.json()
 print ("Total Results:", data["totalResults"])
 
+# Reformat data from NewsAPI
 filtered_data = []
 for article in data.get("articles", []):
     filtered_data.append({
@@ -65,5 +67,4 @@ for article in data.get("articles", []):
         "url": article["url"],
         "publishedAt": article["publishedAt"].split("T")[0]
     })
-
 print(json.dumps(filtered_data, indent = 2))
