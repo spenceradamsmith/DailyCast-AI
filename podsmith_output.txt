@@ -1,204 +1,617 @@
-Categories: ['Technology', 'Sports']
-Keywords: ['Tesla', 'Knicks']
-Sources: ['techcrunch', 'wired', 'the-verge', 'engadget', 'ars-technica', 'espn', 'fox-sports', 'the-sport-bible', 'bleacher-report', 'talksport']
-Start Date: 2025-07-11
+Categories: ['General', 'Technology']
+Keywords: []
+Politics: Center
+Sources: ['national-review', 'reuters', 'the-washington-post', 'techcrunch', 'wired', 'the-verge', 'engadget', 'ars-technica']
+Start Date: 2025-07-15
 End Date: 2025-07-18
-Total Results: 29
+Total Results: 175
 [
   {
-    "source": "The Verge",
-    "title": "xAI explains the Grok Nazi meltdown as Tesla puts Elon\u2019s bot in its cars",
-    "description": "Several days after temporarily shutting down the Grok AI bot that was producing antisemitic posts and praising Hitler in response to user prompts, Elon Musk\u2019s AI company tried to explain why that happened. In a series of posts on X, it said that \u201c\u2026we discover\u2026",
-    "url": "https://www.theverge.com/news/706498/xai-grok-hitler-antisemitism-tesla-ai-bot",
-    "publishedAt": "2025-07-13"
+    "source": "TechCrunch",
+    "title": "Jack Dorsey pumps $10 million into a nonprofit focused on open-source social media",
+    "description": "Jack Dorsey backs nonprofit 'and Other Stuff' with $10M to build open social technology.",
+    "content": "Twitter co-founder and Block CEO Jack Dorsey isn\u2019t just vibe-coding new social apps, like Bitchat and Sun Day, he has invested $10 million in an effort to fund experimental open source projects and o\u2026 [+5782 chars]",
+    "url": "https://techcrunch.com/2025/07/16/jack-dorsey-backs-nonprofit-and-other-stuff-experimenting-with-open-social-tools-like-nostr/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Jack Dorsey pumps $10M into a nonprofit focused on open source social media",
+    "description": "Jack Dorsey backs nonprofit 'and Other Stuff' with $10M to build open social technology.",
+    "content": "Twitter co-founder and Block CEO Jack Dorsey isn\u2019t just vibe coding new social apps, like Bitchat and Sun Day; he has also invested $10 million in an effort to fund experimental open source projects \u2026 [+5787 chars]",
+    "url": "https://techcrunch.com/2025/07/16/jack-dorsey-pumps-10m-into-a-nonprofit-focused-on-open-source-social-media/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Apple News+ adds a new game that uses emoji and Genmoji to solve puzzles",
+    "description": "Released to coincide with World Emoji Day, the new Emoji Game is part logic, part word game that's inspired by how we use emojis to communicate.",
+    "content": "Apple is introducing a new reason to upgrade to its subscription news offering, Apple News+: more games. On Thursday, the company announced the addition of the Emoji Game, an original title that will\u2026 [+2697 chars]",
+    "url": "https://techcrunch.com/2025/07/16/apple-news-adds-a-new-game-that-uses-emoji-and-genmoji-to-solve-puzzles/",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Apple News+ adds a new game that uses emoji and Genmoji to sovle puzzles",
+    "description": "Released to coincide with World Emoji Day, the new Emoji Game is part logic, part word game that's inspired by how we use emojis to communicate.",
+    "content": "Apple is introducing a new reason to upgrade to its subscription news offering, Apple News+: more games. On Thursday, the company announced the addition of the Emoji Game, an original title that will\u2026 [+2655 chars]",
+    "url": "https://techcrunch.com/2025/07/16/apple-news-adds-a-new-game-that-uses-emoji-and-genmoji-to-sovle-puzzles/",
+    "publishedAt": "2025-07-17"
   },
   {
     "source": "The Verge",
-    "title": "BYD will accept liability if one of its self-parking cars crashes",
-    "description": "The Chinese EV-maker BYD says it will pay for any damage caused by its upgraded self-parking system, as reported earlier by Fast Company. A translated version of BYD\u2019s announcement on Weibo says the company \u201cwill fully cover the safety and losses\u201d of vehicles\u2026",
-    "url": "https://www.theverge.com/news/705470/byd-self-parking-crash-liability",
-    "publishedAt": "2025-07-11"
+    "title": "Roblox will require a facial scan or government ID to have unfiltered chats",
+    "description": "Roblox is introducing a way to let trusted friends chat more freely among themselves, but it will require that they use a new age estimation tool to verify that they\u2019re over 13. The platform is renaming Friends to Connections, and people can only use unfilter\u2026",
+    "content": "Teens will have to prove they are older than 13 to make Trusted Connections they can chat more freely with.\r\nRoblox is introducing a way to let trusted friends chat more freely among themselves, but \u2026 [+2985 chars]",
+    "url": "https://www.theverge.com/news/708670/roblox-trusted-connections-age-estimation-privacy",
+    "publishedAt": "2025-07-17"
+  },
+  {
+    "source": "The Verge",
+    "title": "Subnautica 2\u2019s creators sue their publisher for \u2018severely\u2019 damaging the game\u2019s release",
+    "description": "The battle between Subnautica 2 publisher Krafton and the three former executives at its developer Unknown Worlds continues. Ted Gill, Charlie Cleveland, and Max McGuire \u2014 the three executives who Krafton terminated earlier this year \u2014 have filed a lawsuit de\u2026",
+    "content": "And did so allegedly with the express purpose of avoiding a $250 million bonus payout.\r\nThe battle between Subnautica 2 publisher Krafton and the three former executives at its developer Unknown Worl\u2026 [+3988 chars]",
+    "url": "https://www.theverge.com/entertainment/708676/subnautica-2-former-ceo-lawsuit-krafton-sabotage",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "TikTok is putting the spotlight on songwriters",
+    "description": "TikTok will now let songwriters highlight tracks they\u2019ve written or co-written directly on their profiles. The list of songs will live within the \u201cMusic\u201d tab on their profile, similar to the one TikTok already offers for artists on the platform. Users who reg\u2026",
+    "content": "Along with a new Songwriter label, TikTok will let songwriters and producers highlight songs theyve written or co-written.\r\nTikTok will now let songwriters highlight tracks theyve written or co-writt\u2026 [+1335 chars]",
+    "url": "https://www.theverge.com/news/708611/tiktok-songwriter-features-music-tab",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Beeper\u2019s all-in-one messaging app relaunches with an on-device model and premium upgrades",
+    "description": "Beeper relaunches its all-in-one messaging app with premium features and an on-device model.",
+    "content": "Multi-service messaging app Beeper, which allows people to connect to all their chat apps from one interface, is relaunching its app on Wednesday to offer a more secure version that no longer require\u2026 [+5414 chars]",
+    "url": "https://techcrunch.com/2025/07/16/beepers-all-in-one-messaging-app-relaunches-with-an-on-device-model-and-premium-upgrades/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "India eyes global quantum computer push \u2014 and QpiAI is its chosen vehicle | TechCrunch",
+    "description": "QpiAI, an Indian startup that integrates AI and quantum computing for enterprise use cases, has raised $32 million in a new funding round co-led by the Indian government.",
+    "content": "QpiAI, an Indian startup that claims to integrate AI and quantum computing for enterprise use cases, has raised $32 million in a new funding round co-led by the Indian government as the company aims \u2026 [+4610 chars]",
+    "url": "https://techcrunch.com/2025/07/16/india-eyes-global-quantum-computer-push-and-qpiai-is-its-chosen-vehicle/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Eddington gets the pandemic right but still isn\u2019t a great movie",
+    "description": "A24 is known for its prestige arthouse films, but in its early days as a distributor, it made most of its money from elevated horror films like Ari Aster's Hereditary and Midsommar. Over a decade in, the ambitions of A24 and Aster have expanded beyond genre f\u2026",
+    "content": "Eddington gets the pandemic right but still isnt a great movie\r\nThe film hilariously and diligently evokes 2020 but has learned nothing from it.\r\nEddington gets the pandemic right but still isnt a gr\u2026 [+5011 chars]",
+    "url": "https://www.theverge.com/film/708542/eddington-review-ari-aster-joaquin-phoenix-pandemic",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Google is raising the price of Nest Aware subscriptions again",
+    "description": "Google is raising the price of its Nest Aware and Nest Aware Plus subscriptions starting in August 2025. According to emails sent out to subscribers today, the cost of the entry-level Nest Aware service is increasing from $8 per month or $80 per year to $10 p\u2026",
+    "content": "The price increases for both Nest Aware and Nest Aware Plus will go into effect starting in mid-August.\r\nThe price increases for both Nest Aware and Nest Aware Plus will go into effect starting in mi\u2026 [+2163 chars]",
+    "url": "https://www.theverge.com/news/708538/google-nest-aware-plus-price-increase-subscription",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Elon Musk teases AI anime boyfriend based on Edward Cullen",
+    "description": "Days after introducing an AI 'waifu' companion for Grok, Elon Musk is now officially teasing a male version for the ladies. So far we can tell it is broody and dark-haired, and according to Musk, \"his personality is inspired by Edward Cullen from Twilight and\u2026",
+    "content": "Look, Grok is for the ladies too.\r\nDays after introducing an AI waifu companion for Grok, Elon Musk is now officially teasing a male version for the ladies. So far we can tell it is broody and dark-h\u2026 [+1375 chars]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/708536/elon-musk-grok-xai-ai-boyfriend",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Scale AI lays off 14% of staff, largely in data labeling business | TechCrunch",
+    "description": "Scale AI is cutting 14% of the company just weeks after Meta invested $14.3 billion in the startup and hired away its CEO.",
+    "content": "Data-labeling startup Scale AI is laying off 200 employees, roughly 14% of its staff, and cutting ties with 500 of its global contractors, Bloomberg reported on Wednesday. The cuts come just a month \u2026 [+650 chars]",
+    "url": "https://techcrunch.com/2025/07/16/scale-ai-lays-off-14-of-staff-largely-in-data-labeling-business/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Mercedes-Benz will let you use an in-car camera in Microsoft Teams while driving",
+    "description": "I like to drive without the distractions of my work life interrupting me, but if you\u2019re eager to stay connected then Mercedes-Benz is ready. You\u2019ll soon be able to join a Microsoft Teams call in some Mercedes\u2011Benz vehicles and use the in-car camera to chat wi\u2026",
+    "content": "Youll be able to let everyone at work know youre working really hard while driving along.\r\nI like to drive without the distractions of my work life interrupting me, but if youre eager to stay connect\u2026 [+1990 chars]",
+    "url": "https://www.theverge.com/news/708481/microsoft-teams-mercedes-benz-integration-in-car-camera-support",
+    "publishedAt": "2025-07-16"
   },
   {
     "source": "Wired",
-    "title": "GM\u2019s Final EV Battery Strategy Copies China\u2019s Playbook: Super Cheap Cells",
-    "description": "General Motors\u2019 homemade version of the low-cost power option favored by China\u2019s auto industry will hit three years before its super energy-dense tech arrives\u2014and could bring affordable US EVs sooner.",
-    "url": "https://www.wired.com/story/gms-final-ev-battery-strategy-copies-chinas-playbook-super-cheap-cells/",
-    "publishedAt": "2025-07-14"
+    "title": "Can US Measles Outbreaks Be Stopped?",
+    "description": "The US almost lost its measles elimination status once. Lessons from that episode suggest it will be more difficult to avoid doing so now.",
+    "content": "Health officials also worked to combat misinformation. A Jewish anti-vaccine group called Parents Teaching and Advocating for Childrens Health, or PEACH, distributed a 40-page anti-vaccination bookle\u2026 [+3281 chars]",
+    "url": "https://www.wired.com/story/can-us-measles-outbreaks-be-stopped/",
+    "publishedAt": "2025-07-16"
   },
   {
-    "source": "Fox Sports",
-    "title": "2025 NBA Sixth Man Of The Year Odds: Payton Pritchard Favored To Repeat",
-    "description": "Will Boston's Payton Pritchard win the NBA's Sixth Man of the Year two years in a row? Here's what the early odds say.",
-    "url": "https://www.foxsports.com/stories/nba/2025-nba-sixth-man-year-odds",
-    "publishedAt": "2025-07-15"
+    "source": "The Verge",
+    "title": "Zelda\u2019s new live-action stars could be around for a long time",
+    "description": "Nintendo just announced the two leads of its live-action Legend of Zelda film, and unlike the celebrity-packed Mario movie cast, Zelda will star two young, lesser-known actors: Bo Bragason as Zelda and Benjamin Evan Ainsworth as Link. You may not have heard o\u2026",
+    "content": "The Zelda film could be Nintendos next big movie franchise, meaning we might see the leads in more than one film.\r\nNintendo just announced the two leads of its live-action Legend of Zelda film, and u\u2026 [+2750 chars]",
+    "url": "https://www.theverge.com/nintendo/708494/nintendo-the-legend-of-zelda-movie-leads-stars-long-time",
+    "publishedAt": "2025-07-16"
   },
   {
-    "source": "ESPN",
-    "title": "The Suns turned a superteam into a costly cautionary tale",
-    "description": "The Suns' big three brought hope, bravado -- and so little tangible success. Zach Kram examines why things never clicked in Phoenix.",
-    "url": "https://www.espn.com/nba/story/_/id/45757564/nba-free-agency-2025-beal-durant-reasons-suns-collapse",
+    "source": "The Verge",
+    "title": "I spent 24 hours flirting with Elon Musk\u2019s AI girlfriend",
+    "description": "Earlier this week, xAI added what can only be described as an AI anime girlfriend named Ani to its Grok chatbot. Which is how I ended up on a virtual starry beach as an AI waifu avatar tried to give me a \"spicy\" kiss. You've probably seen screenshots, videos,\u2026",
+    "content": "I spent 24 hours flirting with Elon Musks AI girlfriend\r\nNow Im going to bleach my soul and get myself to a nunnery. \r\nI spent 24 hours flirting with Elon Musks AI girlfriend\r\nNow Im going to bleach \u2026 [+5411 chars]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/708482/i-spent-24-hours-flirting-with-elon-musks-ai-girlfriend",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI | TechCrunch",
+    "description": "OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI | TechCrunchtechcrunch.com",
+    "content": "AI safety researchers from OpenAI, Anthropic, and other organizations are speaking out publicly against the \u201creckless\u201d and \u201ccompletely irresponsible\u201d safety culture at xAI, the billion-dollar AI star\u2026 [+6952 chars]",
+    "url": "https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "ElliQ Review: An AI Companion Bot for Lonely Elders",
+    "description": "The AI-powered ElliQ robot and smart display aim to improve life for older folks living alone.",
+    "content": "For the past few weeks, the AI-powered ElliQ companion robot has perched on the end of my desk. Designed by Intuition Robotics for seniors living alone, this proactive animatronic chats to me through\u2026 [+3336 chars]",
+    "url": "https://www.wired.com/review/elliq-ai-companion-robot/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "DHS Faces New Pressure Over DNA Taken From Immigrant Children",
+    "description": "The US government has added the DNA of approximately 133,000 migrant children and teens to a criminal database, which critics say could mean police treat them like suspects \u201cindefinitely.\u201d",
+    "content": "United States Senator Ron Wyden is pressing the United States departments of Homeland Security and Justice to explain how and why they are collecting DNA from immigrants, including children, on a mas\u2026 [+3008 chars]",
+    "url": "https://www.wired.com/story/dhs-and-doj-face-new-pressure-over-collecting-childrens-dna/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunch",
+    "description": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunchtechcrunch.com",
+    "content": "Sales of Tesla\u2019s Cybertruck have plummeted from their peak last year, to the point that the hulking (and expensive) GMC Hummer EV outsold the polarizing steel-clad curiosity in the second quarter.\r\nT\u2026 [+1756 chars]",
+    "url": "https://techcrunch.com/2025/07/16/gmc-hummer-ev-outsold-the-tesla-cybertruck-last-quarter/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Scale AI lays off 200 employees, \u2018We ramped up our GenAI capacity too quickly\u2019",
+    "description": "Scale AI, the AI industry\u2019s chief data dealer, will lay off 14 percent of the company, or about 200 employees, just one month after Meta took a multibillion-dollar stake in the company and hired its CEO and other staff. The layoffs also include 500 of its glo\u2026",
+    "content": "CEO Jason Droege announced the restructuring just a month after Metas multibillion-dollar investment.\r\nScale AI, the AI industrys chief data dealer, will lay off 14 percent of the company, or about 2\u2026 [+2961 chars]",
+    "url": "https://www.theverge.com/news/708377/scale-ai-layoffs-14-percent",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Nvidia's resumption of H20 chip sales related to rare earth element trade talks | TechCrunch",
+    "description": "U.S. Commerce Secretary said Nvidia's plans to start selling its H20 chips are tied to ongoing trade discussions with China regarding REEs.",
+    "content": "Rare earth elements appear to be behind Nvidia\u2019s stance on China.\u00a0\r\nAfter announcing in June plans to essentially withdraw from the Chinese market, the semiconductor chip and AI giant reversed course\u2026 [+2003 chars]",
+    "url": "https://techcrunch.com/2025/07/16/nvidias-resumption-of-h20-chip-sales-related-to-rare-earth-element-trade-talks/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "GM and Redwood teaming up to make batteries for energy storage",
+    "description": "General Motors and Redwood Materials are joining forces yet again, this time with the intent to build energy storage units made out of recycled EV batteries. The two companies signed a non-binding memorandum of understanding to build energy storage out of US-\u2026",
+    "content": "Redwood Materials\u2019 energy storage system in California. | Image: Redwood Materials\r\n\n\nGeneral Motors and Redwood Materials are joining forces yet again, this time with the intent to build energy stor\u2026 [+2452 chars]",
+    "url": "https://www.theverge.com/news/708236/gm-redwood-battery-energy-storage-ev",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "The 13-inch M2 MacBook Air is a great back-to-school deal at just $699",
+    "description": "It\u2019s almost back to school season, and we\u2019re starting to see some great laptop deals trickle in as a result. Walmart continues to sell the M1-powered MacBook Air for $599, but if you want more power and a sleeker design, the 13-inch M2-powered MacBook Air sta\u2026",
+    "content": "The M2-powered MacBook remains an excellent productivity machine.\r\n\n\nIt\u2019s almost back to school season, and we\u2019re starting to see some great laptop deals trickle in as a result. Walmart continues to \u2026 [+3404 chars]",
+    "url": "https://www.theverge.com/tech/708267/apple-macbook-air-m2-one-plus-buds-4-deal-sale",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "Dyneema\u2019s New Fiber Composite Is Lighter, Stronger, and More Durable Than Ever",
+    "description": "Hyperlite Mountain Gear and Dyneema collaborate on lighter, more durable hiking backpacks, which lets you put even more Dyneema on your Dyneema.",
+    "content": "If you went back in time 150 years and told people that in the future they will carry everything they need to live for a week on their backs, you'd get run out of town. Carrying gear is the job of ho\u2026 [+2228 chars]",
+    "url": "https://www.wired.com/story/dyneema-hyperlite-mountain-gear-new-ultralight-fabric/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Cyberpunk 2077\u2019s next update adds \u2018AutoDrive\u2019 and VRR for consoles",
+    "description": "Cyberpunk 2077\u2019s Update 2.3, set to launch on Thursday for Mac, PC, PlayStation 5, and Xbox Series X / S, will add a bunch of new features focused around vehicles and proper VRR support on consoles. The new AutoDrive feature, available in all cars and motorcy\u2026",
+    "content": "The update is launching on Mac, PC, PlayStation 5, and Xbox Series X / S on Thursday.\r\nCyberpunk 2077sUpdate 2.3, set to launch on Thursday for Mac, PC, PlayStation 5, and Xbox Series X / S, will add\u2026 [+1616 chars]",
+    "url": "https://www.theverge.com/news/708381/cyberpunk-2077-update-2-3-autodrive-vrr-consoles-patch",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Google\u2019s announces Pixel 10 launch event date",
+    "description": "Google officially has a date for its Pixel launch event: August 20th, 2025. In an invite sent on Wednesday, Google says the event will take place in New York City at 1PM ET, where the company will show off \u201cthe latest on our Pixel phones, watches, buds, and m\u2026",
+    "content": "This years Made by Google event will take place on August 20th.\r\nGoogle officially has a date for its Pixel launch event: August 20th, 2025. In an invite sent on Wednesday, Google says the event will\u2026 [+818 chars]",
+    "url": "https://www.theverge.com/news/708363/google-pixel-10-made-by-google-event-date",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "Adoption Agency Data Exposure Revealed Information About Children and Parents",
+    "description": "A trove of 1.1 million records left accessible on the open web shows how much sensitive information can be created\u2014and made vulnerable\u2014during the adoption process.",
+    "content": "The adoption process is inherently sensitive, involving deeply personal information about children, birth parents, adoptive parents, and other caregivers. So when longtime data-breach hunter and secu\u2026 [+2951 chars]",
+    "url": "https://www.wired.com/story/adoption-agency-data-exposure-revealed-information-about-children-and-parents/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "Trump and the Energy Industry Are Eager to Power AI With Fossil Fuels",
+    "description": "At a Pittsburgh summit, the Trump administration, energy executives, and tech barons joined as one to promote AI as the future of fossil fuels.",
+    "content": "The industry is finding a willing partner in the Trump administration. Since taking office, Trump has used AI as a lever to open up opportunities for fossil fuels, including a well-publicized effort \u2026 [+2859 chars]",
+    "url": "https://www.wired.com/story/trump-energy-industry-ai-fossil-fuels-pittsburgh-summit/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Insta360 now offers lens filters and a larger battery for its 360-degree action cam",
+    "description": "It\u2019s been less than three months since Insta360 released its X5 360-degree action camera, but the company is already introducing new accessories and a major firmware update. Improvements include a new AdaptiveTone feature delivering \u201cbetter color and detail i\u2026",
+    "content": "Insta360\u2019s first major firmware update for its new 360-degree action camera delivers a lot of improvements. | Image: Insta360\r\n\n\nIt\u2019s been less than three months since Insta360 released its X5 360-de\u2026 [+2328 chars]",
+    "url": "https://www.theverge.com/news/708272/insta360-x5-action-camera-lens-filters-firmware-update",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "xAI is hiring an engineer to make anime girls | TechCrunch",
+    "description": "The company is hiring for the role of \"Fullstack Engineer - Waifus,\" or, creating AI-powered anime girls for people to fall in love with.",
+    "content": "Elon Musk\u2019s xAI just released its AI companions, which include the goth waifu Ani and the homicidal red panda Bad Rudy. If you want to get in on that, you\u2019re in luck: The company is hiring for the ro\u2026 [+643 chars]",
+    "url": "https://techcrunch.com/2025/07/16/xai-is-hiring-an-engineer-to-make-anime-girls/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Google rolls out AI-powered business calling feature, brings Gemini 2.5 Pro to AI Mode",
+    "description": "The new business calling feature uses AI to call local businesses on your behalf, for information about availability and pricing.",
+    "content": "Google is rolling out an agentic AI-powered business calling feature to all users in the United States, the company announced on Wednesday. The tech giant is also enhancing Google Search\u2019s AI Mode by\u2026 [+2961 chars]",
+    "url": "https://techcrunch.com/2025/07/16/google-rolls-out-ai-powered-business-calling-feature-brings-gemini-2-5-pro-to-ai-mode/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "Autocomplete Interview - Jackson Wang Answers More of The Web's Most Searched Questions",
+    "description": "Jackson Wang visits WIRED to offer up more answers to a new batch of his most searched for questions on Google.\n\nDirector: Jackie Phillips\nDirector of Photography: Grant Bell\nEditor: Samantha DiVito\nTalent: Jackson Wang \nLine Producer: Jamie Rasmussen\nAssocia\u2026",
+    "content": "Hey, this is Jackson Wang\r\nand this is the Wired Autocomplete Interview.\r\n[upbeat music]\r\nYeah, I Google myself while [censored] all over the place.\r\n[upbeat music]\r\nDoes Jackson Wang [label peeling]\u2026 [+6910 chars]",
+    "url": "https://www.wired.com/video/watch/google-autocomplete-inverviews-jackson-wang-answers-more-of-the-webs-most-searched-questions/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction | TechCrunch",
+    "description": "Ex-Waymo engineers launch Bedrock Robotics with $80M to automate construction | TechCrunchtechcrunch.com",
+    "content": "Bedrock Robotics, an autonomous vehicle technology startup founded by veterans of Waymo and Segment, has been operating quietly for more than a year. Now, it\u2019s breaking cover with an $80 million fund\u2026 [+2089 chars]",
+    "url": "https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/",
     "publishedAt": "2025-07-16"
   },
   {
     "source": "The Verge",
     "title": "Tesla reveals Model 3 Plus and Model YL in China as price war heats up",
     "description": "Tesla is continuing to tweak its best-selling EVs in China in the hopes that it can boost its sales amid rising competition from BYD and other domestic manufacturers. Tesla applied for a new sales license with China\u2019s Ministry of Information Technology for a \u2026",
+    "content": "The Model YL has six seats and a true third row, while the Model 3 Plus has longer range than current versions of the electric sedan.\r\nTesla is continuing to tweak its best-selling EVs in China in th\u2026 [+2653 chars]",
     "url": "https://www.theverge.com/news/708279/tesla-model-3-plus-model-yl-china-price-war",
     "publishedAt": "2025-07-16"
   },
   {
-    "source": "The Verge",
-    "title": "Tesla\u2019s Autopilot is under scrutiny in a rare jury trial",
-    "description": "Tesla is on trial in Miami today in a case that accuses Elon Musk\u2019s company of liability in a fatal crash involving Autopilot. The driver-assist system has come under scrutiny in the past for a number of fatal incidents, but Tesla has only rarely faced a jury\u2026",
-    "url": "https://www.theverge.com/news/706634/tesla-autopilot-jury-trial-wrongful-death-florida",
-    "publishedAt": "2025-07-14"
-  },
-  {
-    "source": "ESPN",
-    "title": "The NBA's Apron Club: Who's in, who's out and when OKC might join",
-    "description": "Welcome to the NBA's Apron Club. Membership can get pretty expensive, so don't stay too long.",
-    "url": "https://www.espn.com/nba/story/_/id/45749043/nba-free-agency-which-franchises-belong-apron-club",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "EcoFlow says its new Ocean Pro is better than Tesla\u2019s Powerwall",
-    "description": "EcoFlow is powering up its first permanently installed whole-home energy solution for the US. The Ocean Pro system launches this week, featuring the new Ocean Pro Battery with 10kWh of storage expandable to 80kWh, and the Ocean Pro Inverter, which supports so\u2026",
-    "url": "https://www.theverge.com/news/707153/ecoflow-launches-ocean-pro-home-energy-system-tesla-battery-competitor",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "The Verge",
-    "title": "Uber is close to completing its quest to become the ultimate robotaxi app",
-    "description": "Uber just announced a deal today with the company that runs one of the largest robotaxi fleets in China, as the ridehail giant nears its goal of becoming the world\u2019s ultimate autonomous vehicle clearinghouse. Uber and Baidu said they are teaming up to deploy \u2026",
-    "url": "https://www.theverge.com/news/707347/uber-baidu-robotaxi-deal-autonomous-ridehail",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "ESPN",
-    "title": "Joel Embiid sees you",
-    "description": "In what he's calling his \"most important\" offseason, Joel Embiid responds to his critics.",
-    "url": "https://www.espn.com/nba/story/_/id/45747447/joel-embiid-philadelphia-76ers-star-sees-you",
-    "publishedAt": "2025-07-16"
-  },
-  {
-    "source": "The Verge",
-    "title": "Texas governor says his emails with Elon Musk are too \u2018intimate or embarrassing\u2019 to release",
-    "description": "Texas Governor Greg Abbott is refusing to release months\u2019 worth of emails sent to Elon Musk and his companies under public records laws, according to a joint report from ProPublica, The Texas Newsroom, and The Texas Tribune. After initially agreeing to an inf\u2026",
-    "url": "https://www.theverge.com/news/706635/texas-governor-greg-abbott-elon-musk-emails-refusal",
-    "publishedAt": "2025-07-14"
-  },
-  {
-    "source": "The Verge",
-    "title": "Why GM\u2019s CEO is still betting on electric vehicles (and racing)",
-    "description": "GM was the first major US automaker to make the promise to go all-electric by 2035, just four years ago. Those promises have since turned into rough estimates under the second Donald Trump presidency, with the company softening language about its electrificat\u2026",
-    "url": "https://www.theverge.com/gm-general-motors/705320/gm-ceo-mary-barra-interview-ev-cadillac-dei-trump",
-    "publishedAt": "2025-07-11"
-  },
-  {
-    "source": "The Verge",
-    "title": "The great EV pullback has begun",
-    "description": "Electric vehicles are at a crossroads. Sales are still going up, but many automakers are canceling or delaying new models, worried by recent policy moves that will make EVs more expensive to own. Every day seems to bring fresh news of a delayed EV or a timeli\u2026",
-    "url": "https://www.theverge.com/electric-cars/700767/ev-cancel-delay-tax-credit-nissan-honda-tesla",
-    "publishedAt": "2025-07-11"
-  },
-  {
     "source": "TechCrunch",
-    "title": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunch",
-    "description": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunchtechcrunch.com",
-    "url": "https://techcrunch.com/2025/07/16/gmc-hummer-ev-outsold-the-tesla-cybertruck-last-quarter/",
+    "title": "ChatGPT: Everything you need to know about the AI chatbot",
+    "description": "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs.",
+    "content": "ChatGPT, OpenAIs text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with sh\u2026 [+38352 chars]",
+    "url": "https://techcrunch.com/2025/07/16/chatgpt-everything-to-know-about-the-ai-chatbot/",
     "publishedAt": "2025-07-16"
   },
   {
     "source": "TechCrunch",
-    "title": "Tesla reportedly close to starting sales in India | TechCrunch",
-    "description": "Tesla may finally start selling its EVs in India with a showroom slated for Mumbai.",
-    "url": "https://techcrunch.com/2025/07/11/tesla-reportedly-close-to-starting-sales-in-india/",
-    "publishedAt": "2025-07-11"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Tesla finally enters India \u2014 nine years after Elon Musk first teased its debut | TechCrunch",
-    "description": "Tesla finally enters India \u2014 nine years after Elon Musk first teased its debut | TechCrunchtechcrunch.com",
-    "url": "https://techcrunch.com/2025/07/14/tesla-finally-enters-india-nine-years-after-elon-musk-first-teased-its-debut/",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Lucid Motors will roll out hands-free highway driving this month | TechCrunch",
-    "description": "Lucid Motors joins the likes of Ford, General Motors, and Tesla in offering an advanced driver assistance system that allows for hands-free driving.",
-    "url": "https://techcrunch.com/2025/07/15/lucid-motors-will-roll-out-hands-free-highway-driving-this-month/",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Tesla is already trying to expand its Robotaxi service to Arizona\u00a0 | TechCrunch",
-    "description": "Tesla has applied for a permit to test and deploy autonomous vehicles in Arizona. It's also eyeing expansion in Austin, Texas, and California.",
-    "url": "https://techcrunch.com/2025/07/10/tesla-is-already-trying-to-expand-its-robotaxi-service-to-arizona/",
-    "publishedAt": "2025-07-11"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "TechCrunch Mobility: Tesla enters its Grok era, and teens come for robotaxis | TechCrunch",
-    "description": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation.",
-    "url": "https://techcrunch.com/2025/07/11/techcrunch-mobility-tesla-enters-its-grok-era-and-teens-come-for-robotaxis/",
-    "publishedAt": "2025-07-11"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Of course, Grok's AI companions want to have sex and burn down schools | TechCrunch",
-    "description": "Of course, Grok's AI companions want to have sex and burn down schools | TechCrunchtechcrunch.com",
-    "url": "https://techcrunch.com/2025/07/15/of-course-groks-ai-companions-want-to-have-sex-and-burn-down-schools/",
-    "publishedAt": "2025-07-15"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "TC All Stage is tomorrow in Boston and prices go up by then | TechCrunch",
-    "description": "If you\u2019re a founder or investor, this is your last shot to lock in up to $425 savings before they vanish at the door tomorrow at 7:30 a.m. ET. Register now.",
-    "url": "https://techcrunch.com/2025/07/13/the-countdowns-almost-over-2-days-until-techcrunch-all-stage-2025-kicks-off-in-boston/",
-    "publishedAt": "2025-07-13"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI | TechCrunch",
-    "description": "OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI | TechCrunchtechcrunch.com",
-    "url": "https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/",
+    "title": "A comprehensive list of 2025 tech layoffs | TechCrunch",
+    "description": "A complete list of all the known layoffs in tech, from Big Tech to startups, broken down by month throughout 2024 and 2025.",
+    "content": "The tech layoff wave is still kicking in 2025. Last year saw more than 150,000 job cuts across 549 companies, according to independent layoffs tracker Layoffs.fyi. So far this year, more than 22,000 \u2026 [+22271 chars]",
+    "url": "https://techcrunch.com/2025/07/16/tech-layoffs-2025-list/",
     "publishedAt": "2025-07-16"
   },
   {
     "source": "TechCrunch",
-    "title": "xAI and Grok apologize for \u2018horrific behavior\u2019 | TechCrunch",
-    "description": "In a series of posts on X, the AI chatbot Grok apologized for what it admitted was \u201chorrific behavior.\u201d The posts appear to be an official statement from xAI, the Elon Musk-led company behind Grok, as opposed to an AI-generated explanation for Grok\u2019s posts. (\u2026",
-    "url": "https://techcrunch.com/2025/07/12/xai-and-grok-apologize-for-horrific-behavior/",
-    "publishedAt": "2025-07-12"
+    "title": "Rex Salisbury\u2019s Cambrian Ventures raises new fund, bucking fintech slowdown",
+    "description": "Spurred by the performance of its first fund, Cambrian Ventures' $20 million second fund will continue the firm's thesis of focusing on fintech startups.",
+    "content": "Rex Salisbury, the solo GP behind Cambrian Ventures, fondly recalls the time he fell in love with fintech.\r\nThe year was 2015, he had recently left his job as an investment banker to try his hand on \u2026 [+3361 chars]",
+    "url": "https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/",
+    "publishedAt": "2025-07-16"
   },
   {
-    "source": "TechCrunch",
-    "title": "Grok 4 seems to consult Elon Musk to answer controversial questions | TechCrunch",
-    "description": "Elon Musk's newly launched AI chatbot, Grok 4, seemed to reference Musk's posts on social media before answering controversial questions.",
-    "url": "https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/",
-    "publishedAt": "2025-07-11"
+    "source": "The Verge",
+    "title": "Google\u2019s AI can now make phone calls for you",
+    "description": "Google will now let everyone in the US call local businesses using AI. The feature, which is now available in Search, allows you to use AI for pricing or availability information without having to talk on the phone. Google first started testing this feature i\u2026",
+    "content": "Google\u2019s AI can check pricing and availability at pet groomers, auto shops, dry cleaners, and more. | Image: Google\r\n\n\nGoogle will now let everyone in the US call local businesses using AI. The featu\u2026 [+2587 chars]",
+    "url": "https://www.theverge.com/news/708210/google-ai-phone-calls-ai-mode-gemini-upgrade",
+    "publishedAt": "2025-07-16"
   },
   {
-    "source": "Wired",
-    "title": "Another High-Profile OpenAI Researcher Departs for Meta",
-    "description": "Jason Wei, who worked on OpenAI\u2019s o3 and deep research models, will be joining Meta\u2019s superintelligence lab. His colleague Hyung Won Chung is also joining Meta, a source tells WIRED.",
-    "url": "https://www.wired.com/story/jason-wei-open-ai-meta/",
+    "source": "The Verge",
+    "title": "Stranger Things 5\u2019s first trailer promises an epic showdown",
+    "description": "It\u2019s been a long time coming, but we finally have a real look at the end of Stranger Things. Netflix just released the first teaser trailer for the show\u2019s fifth season, which will also be its last when it starts streaming later this year. As was alluded to in\u2026",
+    "content": "The final season will be released in chunks over the winter.\r\nThe final season will be released in chunks over the winter.\r\nIts been a long time coming, but we finally have a real look at the end of \u2026 [+1966 chars]",
+    "url": "https://www.theverge.com/news/707540/stranger-things-5-teaser-trailer-netflix",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "OnePlus\u2019 2-in-1 USB cable charges your phone and smartwatch at the same time",
+    "description": "OnePlus announced a new USB-C charging cable that does more than just pass power and data from one device to another. The OnePlus 2-in-1 Supervooc Cable features an inline pogo pin connector that can be used to charge the company\u2019s OnePlus Watch 3, Watch 2, a\u2026",
+    "content": "The cable can deliver up to 80W of power to a single device, or up to 67W with a OnePlus Watch connected.\r\nThe cable can deliver up to 80W of power to a single device, or up to 67W with a OnePlus Wat\u2026 [+1522 chars]",
+    "url": "https://www.theverge.com/news/708231/one-plus-2-in-1-supervooc-usb-cable-charger-smartphone-smartwatch",
     "publishedAt": "2025-07-16"
   },
   {
     "source": "Wired",
-    "title": "5 Big EV Takeaways From Trump\u2019s \u2018One Big Beautiful Bill\u2019",
-    "description": "The new US legislation isn\u2019t great for electric vehicles. But experts have advice for how the EV-curious buyer might navigate this tricky moment\u2014and there\u2019s even some good news to be found.",
-    "url": "https://www.wired.com/story/5-big-ev-takeaways-one-big-beautiful-bill/",
-    "publishedAt": "2025-07-11"
+    "title": "Razer Freyja Review: A Haptic Gaming Cushion for Better Immersion",
+    "description": "Razer\u2019s haptic gaming cushion can make your favorite virtual worlds feel real, if you don\u2019t mind the uncomfy seat.",
+    "content": "I remember the first time I played a first-person shooter. It was Star Wars: Battlefront 2, the 2005 version, on the Playstation 2 in my friends basement, when I was a kid. I felt like I was right th\u2026 [+3512 chars]",
+    "url": "https://www.wired.com/review/razer-freyja-haptic-gaming-cushion/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "For Nintendo, freedom means more than an open world",
+    "description": "In past Donkey Kong games, like Tropical Freeze or DKC Returns, I would often find myself stuck against a particularly challenging platforming sequence. And there wasn't much I could do. If I wanted to progress, I had to nail those jumps or avoid those spikes\u2026",
+    "content": "The destruction in Donkey Kong Bananza is just the latest example of an ongoing design trend.\r\nThe destruction in Donkey Kong Bananza is just the latest example of an ongoing design trend.\r\nIn past D\u2026 [+4410 chars]",
+    "url": "https://www.theverge.com/nintendo/707449/donkey-kong-bananza-switch-2-nintendo-design-open-world",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Razer\u2019s $350 eGPU chassis only comes with a Thunderbolt 5 cable",
+    "description": "Razer is launching a new $350 external graphics enclosure that can boost the visual performance of gaming laptops or handhelds, provided you make a few other investments. The Razer Core X V2 is the first of Razer\u2019s Core X eGPU chassis lineup to support the fa\u2026",
+    "content": "You have to buy your own GPU, power supply, and even a dock if you want to connect peripherals.\r\nYou have to buy your own GPU, power supply, and even a dock if you want to connect peripherals.\r\nRazer\u2026 [+1820 chars]",
+    "url": "https://www.theverge.com/news/708202/razer-core-x-v2-egpu-price-thunderbolt-5",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meta reportedly scores two more high-profile OpenAI researchers | TechCrunch",
+    "description": "OpenAI researcher Jason Wei will reportedly join Meta\u2019s new Superintelligence Lab. Another team member, Hyung Won Chung, might also join Meta, as the company works to catch up to rivals in the AGI race.",
+    "content": "OpenAI researcher Jason Wei will join Metas new Superintelligence Lab, reports Wired, citing two sources familiar with the matter. Another team member, Hyung Won Chung, may also join Meta.\u00a0\r\nSources \u2026 [+1185 chars]",
+    "url": "https://techcrunch.com/2025/07/16/meta-reportedly-scores-two-more-high-profile-openai-researchers/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "Former Top Google Researchers Have Made A New Kind of AI Agent",
+    "description": "The mission? Teaching models to better understand how to build code will lead to superintelligent AI.",
+    "content": "A new kind of artificial intelligence agent, trained to understand how software is built by gorging on a companys data and learning how this leads to an end product, could be both a more capable soft\u2026 [+3038 chars]",
+    "url": "https://www.wired.com/story/former-top-google-researchers-have-made-a-new-kind-of-ai-agent/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "Best Camping Chairs (2025): Snow Peak, Kelty, Helinox, and More",
+    "description": "Whether you\u2019re hiking, tailgating, or relaxing in the garden, take the weight off in style with these WIRED-tested chairs for the great outdoors.",
+    "content": "Picking the right camping chair will enhance your time in the outdoors, whether you're thru-hiking the Pacific Crest Trail or pitching up at a boutique campground. Here's what to consider to find the\u2026 [+2358 chars]",
+    "url": "https://www.wired.com/gallery/best-camping-chairs/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "Bang & Olufsen Beoplay A1 (Gen 3) Review: Perpetually Great",
+    "description": "Third time\u2019s a charm for this elegantly designed and sonically refined Bluetooth speaker.",
+    "content": "Back in 2016, the original A1 Bluetooth speaker (8/10, WIRED Recommends) was one of the first from Bang &amp; Olufsen under its more affordable Beoplay sub-brand. The stylish puck of brushed aluminum\u2026 [+2826 chars]",
+    "url": "https://www.wired.com/review/bang-and-olufsen-beosound-a1/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Nintendo\u2019s Zelda movie has found its princess and hero of time",
+    "description": "Though Nintendo\u2019s live-action Legend of Zelda movie won\u2019t be out until May 7th, 2027, we finally know who is going to be playing the titular princess and her faithful knight. This morning via its news app, Nintendo announced that Bo Bragason (Renegade Nell, T\u2026",
+    "content": "Bo Bragason and Benjamin Evan Ainsworth have been cast as Princess Zelda and Link.\r\nThough Nintendos live-action Legend of Zelda movie wont be out until May 7th, 2027, we finally know who is going to\u2026 [+1077 chars]",
+    "url": "https://www.theverge.com/nintendo/708143/nintendo-zelda-movie-casting-bo-bragason-benjamin-evan-ainsworth",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "Bedsure's Bamboo Cooling Sheets Are Silky Soft, Durable, and Cheap",
+    "description": "I test sleep products for a living and my favorite cooling sheets are silky, thick, durable, and priced below $100 on Amazon.",
+    "content": "Ive met many supposedly cooling sheets in my time as a mattress and bedding tester, and I have been disappointed more often than not. A cooling mattress cant do all the heavy lifting with temperature\u2026 [+3948 chars]",
+    "url": "https://www.wired.com/review/bedsure-gentlesoft-cooling-sheets/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "Get the macOS Finder to Do Just About Anything by Typing Natural Language Commands",
+    "description": "With the app Substage, users can type out file management tasks in plain English, then use the commands it generates to convert file types, manage folders, create zip files, and more.",
+    "content": "I'm genuinely not sure if large language modelsoften referred to as AI in shorthandare the future of computing. But I also don't think chatbots are how people will use this technology in the years to\u2026 [+1896 chars]",
+    "url": "https://www.wired.com/story/substage-macos-finder-natural-language-commands/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Google\u2019s Discover page now summarizes news with AI",
+    "description": "Google is rolling out AI-generated summaries directly within Discover, its personalized news feed nestled within the Google Search app. TechCrunch reports that some users in the US are seeing Discover cards on iOS and Android that provide the new summaries in\u2026",
+    "content": "TechCrunch\" data-portal-copyright=\"Image: Google / TechCrunch\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Google-Discover-AI-summaries-hero.\u2026 [+2232 chars]",
+    "url": "https://www.theverge.com/news/708089/google-discover-ai-summaries-ios-android",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "How Social Media Is Fueling Gen Z\u2019s Sex Recession",
+    "description": "For her new book, journalist Carter Sherman interviewed over 100 young people about why they\u2019re not having sex. She says they\u2019re \u201cvery horny\u201d but also more isolated, self-conscious, and fearful.",
+    "content": "I wanted to ask you about the pandemic and how being isolated impacted young people's game, or just their ability to flirt and socialize with each other\r\nI think what it did is sort of speed up a pro\u2026 [+2559 chars]",
+    "url": "https://www.wired.com/story/carter-sherman-the-second-coming-interview/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Here\u2019s what Mac you need for Cyberpunk 2077",
+    "description": "Cyberpunk 2077 is launching on macOS tomorrow, and CD Projekt Red is now sharing details on exactly what Mac you\u2019ll need to get the most out of the game. While Cyberpunk 2077 has been optimized for a variety of Macs, from early M1 models up, if you want the t\u2026",
+    "content": "Youll need an M3 or newer chip for ray tracing modes.\r\nCyberpunk 2077 is launching on macOS tomorrow, and CD Projekt Red is now sharing details on exactly what Mac youll need to get the most out of t\u2026 [+2271 chars]",
+    "url": "https://www.theverge.com/news/708100/cyberpunk-2077-mac-system-requirements-modes-ray-tracing",
+    "publishedAt": "2025-07-16"
   },
   {
     "source": "Wired",
     "title": "Now Is a Very Good Time to Buy a Used EV. Here's Why",
     "description": "America's One Big Beautiful Bill is going to make buying electric rides more expensive\u2014so the clock is ticking to bag a bargain.",
+    "content": "For years, Tesla CEO Elon Musk has promised that his EV company would finally manufacture an affordable car in the $25,000 range. For years, hes missedhis own deadlines until now? Step into a showroo\u2026 [+4991 chars]",
     "url": "https://www.wired.com/story/now-is-a-very-good-time-to-buy-a-used-ev-heres-why/",
     "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "Which King Mattress Size Rules Your Sleep Style? (2025)",
+    "description": "There\u2019s more than one king size in the mattress world. Our sleep expert helps parse which one might fit your needs.",
+    "content": "King-sized mattresses are the largest mattress size you can get, right? Surprise! Its not just the standard king anymore. With king mattress size options these days, youve got territories, states, an\u2026 [+4479 chars]",
+    "url": "https://www.wired.com/story/king-mattress-sizes/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Chinese authorities are using a new tool to hack seized phones and extract data | TechCrunch",
+    "description": "Researchers warned that Chinese residents, and visitors to China, should be aware of the tool's existence and the risks it poses.",
+    "content": "Security researchers say Chinese authorities are using a new type of malware to extract data from seized phones, allowing them to obtain text messages including from chat apps such as Signal images, \u2026 [+4094 chars]",
+    "url": "https://techcrunch.com/2025/07/16/chinese-authorities-are-using-a-new-tool-to-hack-seized-phones-and-extract-data/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "The deluge of faster Qi2.2 wireless chargers is here",
+    "description": "Yesterday Ugreen was the first company to announce it had a Qi2.2 wireless charging power bank on the way, but it wasn\u2019t alone for long. The Wireless Power Consortium (WPC) has already certified eight Qi2.2 products, all from different manufacturers, includin\u2026",
+    "content": "Anker is one of eight companies with Qi2.2 products already certified.\r\n\n\nYesterday Ugreen was the first company to announce it had a Qi2.2 wireless charging power bank on the way, but it wasn\u2019t alon\u2026 [+2409 chars]",
+    "url": "https://www.theverge.com/news/708060/qi-2-2-certification-25w-wpc-belkin-anker-ugreen-aukey",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "Wired",
+    "title": "Another High-Profile OpenAI Researcher Departs for Meta",
+    "description": "Jason Wei, who worked on OpenAI\u2019s o3 and deep research models, will be joining Meta\u2019s superintelligence lab. His colleague Hyung Won Chung is also joining Meta, a source tells WIRED.",
+    "content": "OpenAI researcher Jason Wei is joining Metas new superintelligence lab, according to multiple sources familiar with the matter.\r\nWei worked on OpenAIs o3 and deep research models, according to his pe\u2026 [+2376 chars]",
+    "url": "https://www.wired.com/story/jason-wei-open-ai-meta/",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Donkey Kong Bananza turns destruction into joy",
+    "description": "My first thought upon starting up Donkey Kong Bananza was, \"Why yes, I actually would like to go ape shit.\" The game starts by having Donkey Kong smash through a wall to reveal a glittering gem waiting to be liberated from the rock. But instead of punching th\u2026",
+    "content": "Donkey Kong Bananza turns destruction into joy\r\nWhy yes, I would like to go ape shit.\r\nDonkey Kong Bananza turns destruction into joy\r\nWhy yes, I would like to go ape shit.\r\nMy first thought upon sta\u2026 [+7527 chars]",
+    "url": "https://www.theverge.com/games-review/707704/donkey-kong-bananza-review-nintendo-switch-2",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Now Microsoft\u2019s Copilot Vision AI can scan everything on your screen",
+    "description": "Microsoft is rolling out an update to Copilot Vision for Windows Insiders that lets the AI tool see everything that\u2019s on your screen. Previously, the tool was able to look at two apps at a time and connect the dots between the two, but with this change, it ca\u2026",
+    "content": "Copilot Vision will be able to look at your whole desktop.\r\nMicrosoft is rolling out an update to Copilot Vision for Windows Insiders that lets the AI tool see everything thats on your screen. Previo\u2026 [+1004 chars]",
+    "url": "https://www.theverge.com/news/707995/microsoft-copilot-vision-ai-windows-scan-screen-desktop",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Of course, Grok's AI companions want to have sex and burn down schools | TechCrunch",
+    "description": "Of course, Grok's AI companions want to have sex and burn down schools | TechCrunchtechcrunch.com",
+    "content": "Elon Musk is a man who named a government agency after a memecoin, designed a robotaxi test network in the shape of a phallus, and once went to court for tweeting weed jokes in relation to Tesla stoc\u2026 [+4967 chars]",
+    "url": "https://techcrunch.com/2025/07/15/of-course-groks-ai-companions-want-to-have-sex-and-burn-down-schools/",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "Wired",
+    "title": "I Tried Grok's Built-In Anime Companion and It Called Me a Twat",
+    "description": "xAI's new $300 monthly subscription comes with two AI companions powered by its most capable model to date. I tried them. It got weird.",
+    "content": "An anime girl in a black corset dress sways back and forth on my screen. Its name is Ani, and it cost me $300.\r\nElon Musks xAI dropped the new visual chatbot feature on Monday in the Grok iOS app. Th\u2026 [+3308 chars]",
+    "url": "https://www.wired.com/story/elon-musk-xai-ai-companion-ani/",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The Chainsmokers' Mantis Ventures closes $100M third fund | TechCrunch",
+    "description": "The Chainsmokers' Mantis Ventures closes $100M third fund | TechCrunchtechcrunch.com",
+    "content": "Mantis Ventures, the venture capital firm co-founded by Alex Pall and Drew Taggart of the electronic DJ group The Chainsmokers, has raised $100 million in commitments for its third fund.\r\nAt $100 mil\u2026 [+880 chars]",
+    "url": "https://techcrunch.com/2025/07/15/the-chainsmokers-mantis-ventures-closes-100m-third-fund/",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Amazon's Kuiper satellites to get boost from rival SpaceX | TechCrunch",
+    "description": "Amazon is looking to its main competitor to get its next batch of Kuiper satellites to orbit.",
+    "content": "Amazons race to challenge SpaceX in orbit is getting a helping hand from its chief competitor: SpaceX, which will launch the next batch of Amazon\u2019s Project Kuiper internet satellites skyward on Wedne\u2026 [+1725 chars]",
+    "url": "https://techcrunch.com/2025/07/15/amazons-kuiper-satellites-to-get-boost-from-rival-spacex/",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "Wired",
+    "title": "Thinking Machines Lab Raises a Record $2 Billion, Announces Cofounders",
+    "description": "Mira Murati and several other former OpenAI researchers are behind the buzzy AI startup, now valued at $12 billion and officially out of stealth.",
+    "content": "Thinking Machines Lab, an artificial intelligence company founded by top researchers who fled OpenAI, has raised a record $2 billion seed round that values the fledgling firm at $12 billion.\r\nThe fun\u2026 [+2129 chars]",
+    "url": "https://www.wired.com/story/thinking-machines-lab-mira-murati-funding/",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "US Army soldier pleads guilty to hacking telcos and extortion | TechCrunch",
+    "description": "US Army soldier pleads guilty to hacking telcos and extortion | TechCrunchtechcrunch.com",
+    "content": "Former U.S. Army soldier Cameron John Wagenius pleaded guilty to hacking telecommunication companies and attempting to extort them by threatening to release stolen files, the Department of Justice an\u2026 [+1006 chars]",
+    "url": "https://techcrunch.com/2025/07/15/us-army-soldier-pleads-guilty-to-hacking-telcos-and-extortion/",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "The Verge",
+    "title": "To make Ironheart feel tactile, the show\u2019s creative team had to get on the same page",
+    "description": "In Disney Plus' Ironheart series, a young genius with an uncanny knack for building armored suits finds herself plunged into a shady, criminal underworld that gives her a chance to really show off her talents. Riri Williams is not Tony Stark, and while the Ir\u2026",
+    "content": "To make Ironheart feel tactile, the shows creative team had to get on the same page\r\nFor cinematographer Alison Kelly, the key to Ironhearts stunning visuals was strong behind-the-scenes communicatio\u2026 [+5156 chars]",
+    "url": "https://www.theverge.com/tv/707329/ironheart-alison-kelly-interview",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "The Verge",
+    "title": "How Knox Morris turned TikTok virality into a national tour",
+    "description": "Knox Morris stands onstage, stares out into the depths of the famed 9:30 Club in Washington, DC, and raises his arms to the heavens. The backing track to his song, a synth-heavy pop-punk number called \"Going, Going, Gone,\" begins to play at an absolutely deaf\u2026",
+    "content": "A musicians dream begins on social media. So what happens next?\r\nKnox Morris stands onstage, stares out into the depths of the famed 9:30 Club in Washington, DC, and raises his arms to the heavens. T\u2026 [+17396 chars]",
+    "url": "https://www.theverge.com/music/701539/how-knox-morris-turned-tiktok-virality-into-a-national-tour",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "A former OpenAI engineer describes what it\u2019s really like to work there | TechCrunch",
+    "description": "A senior engineer describes the thrill, chaos, and exhaustion of working at OpenAI this past year while launching its coding agent Codex.",
+    "content": "Three weeks ago, an engineer named Calvin French-Owen, who worked on one of OpenAIs most promising new products, resigned from the company.\u00a0\r\nHe just published a fascinating blog post on what it was \u2026 [+3744 chars]",
+    "url": "https://techcrunch.com/2025/07/15/a-former-openai-engineer-describes-what-its-really-like-to-work-there/",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "The Verge",
+    "title": "Trump announces billions in investments to make Pennsylvania an AI hub",
+    "description": "President Donald Trump helped announce more than $90 billion in investments in AI and energy at an event in Pennsylvania on Tuesday. Among those investments include some multi-billion dollar commitments from Google. The company is planning to invest $25 billi\u2026",
+    "content": "Google is making some multi-billion dollar commitments.\r\nPresident Donald Trump helped announce more than $90 billion in investments in AI and energy at an event in Pennsylvania on Tuesday.\r\nAmong th\u2026 [+1598 chars]",
+    "url": "https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "The Verge",
+    "title": "Xbox tests letting you stream your own games on PC",
+    "description": "Xbox is bringing its \u201cstream your own game\u201d feature to PC. On Tuesday, the company announced that Xbox Insiders with a Game Pass Ultimate subscription can try streaming the Xbox games they own, including some that are available on console only, directly from \u2026",
+    "content": "That includes titles available on console only.\r\nThat includes titles available on console only.\r\nXbox is bringing its stream your own game feature to PC. On Tuesday, the company announced that Xbox \u2026 [+915 chars]",
+    "url": "https://www.theverge.com/news/707739/xbox-stream-your-own-game-pc-app",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meta fixes bug that could leak users' AI prompts and generated content",
+    "description": "The tech giant fixed the security flaw, netting a security researcher $10,000 for privately disclosing the bug.",
+    "content": "Meta has fixed a security bug that allowed Meta AI chatbot users to access and view the private prompts and AI-generated responses of other users.\r\nSandeep Hodkasia, the founder of security testing f\u2026 [+1774 chars]",
+    "url": "https://techcrunch.com/2025/07/15/meta-fixes-bug-that-could-leak-users-ai-prompts-and-generated-content/",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "The Verge",
+    "title": "Adidas now offers a laced version of its 3D-printed shoes",
+    "description": "Adidas has released a new variant of its 3D-printed Climacool shoes with laces so you can adjust their fit and potentially tone down how tightly they hug your feet. Featuring a breathable lattice structure created through an additive printing process, the sho\u2026",
+    "content": "The new Climacool Laced have an adjustable fit you can make more or less snug.\r\nThe new Climacool Laced have an adjustable fit you can make more or less snug.\r\nAdidas has released a new variant of it\u2026 [+1554 chars]",
+    "url": "https://www.theverge.com/news/707699/adidas-laces-climacool-shoe-3d-printed",
+    "publishedAt": "2025-07-15"
+  },
+  {
+    "source": "Wired",
+    "title": "The FBI's Jeffrey Epstein Prison Video Had Nearly 3 Minutes Cut Out",
+    "description": "Metadata from the \u201craw\u201d Epstein prison video shows approximately 2 minutes and 53 seconds were removed from one of two stitched-together clips. The cut starts right at the \u201cmissing minute.\u201d",
+    "content": "Both analyses found that the two clips, labeled 2025-05-22 16-35-21.mp4 and 2025-05-22 21-12-48.mp4, were stitched together. The first clip is 4 hours, 19 minutes, and 16 seconds long, but only the f\u2026 [+3216 chars]",
+    "url": "https://www.wired.com/story/the-fbis-jeffrey-epstein-prison-video-had-nearly-3-minutes-cut-out/",
+    "publishedAt": "2025-07-15"
   }
 ]
