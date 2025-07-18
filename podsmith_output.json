@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "categories": [
+      "Technology",
+      "Sports"
+    ],
+    "keywords": [
+      "Tesla",
+      "Knicks"
+    ],
+    "politics": "Center",
+    "sources": [
+      "techcrunch",
+      "wired",
+      "the-verge",
+      "engadget",
+      "ars-technica",
+      "espn",
+      "fox-sports",
+      "the-sport-bible",
+      "bleacher-report",
+      "talksport"
+    ],
+    "start_date": "2025-07-04",
+    "end_date": "2025-07-18",
+    "requested_interval_days": "14 days",
+    "total_results_reported": 13,
+    "filtered_results_reported": 12,
+    "generated_at_utc": "2025-07-18T21:39:31.131479+00:00"
+  },
+  "articles": [
+    {
+      "source": "Wired",
+      "primary_category": "Technology",
+      "title": "OpenAI Poaches 4 High-Ranking Engineers From Tesla, xAI, and Meta",
+      "description": "The new hires are joining OpenAI\u2019s scaling team, according to an internal Slack message sent by cofounder Greg Brockman.",
+      "content": "OpenAI has hired four high-profile engineers away from rivals, including David Lau, former vice president of software engineering at Tesla, to join the companys scaling team, WIRED has learned. The n\u2026 [+3514 chars]",
+      "url": "https://www.wired.com/story/openai-new-hires-scaling/",
+      "publishedAt": "2025-07-08"
+    },
+    {
+      "source": "Wired",
+      "primary_category": "Technology",
+      "title": "Elon Musk Says Grok Is Coming to Tesla EVs",
+      "description": "Get ready for a few hard right turns.",
+      "content": "Grok is coming to Tesla vehicles very soon. Next week at the latest, Elon Musk stated Thursday in a post on X. The EV brand would catch up with the likes of Mercedes-Benz and Volkswagen, which have a\u2026 [+2604 chars]",
+      "url": "https://www.wired.com/story/elon-musk-says-grok-is-coming-to-tesla-evs/",
+      "publishedAt": "2025-07-10"
+    },
+    {
+      "source": "TechCrunch",
+      "primary_category": "Technology",
+      "title": "Grok is coming to Tesla vehicles 'next week,' says Elon Musk\u00a0 | TechCrunch",
+      "description": "Elon Musk said in a post on X early Thursday morning that Grok \u2013 the chatbot from his AI company, xAI \u2013 will be coming to Tesla vehicles \u201cvery soon.\u201d\u00a0\u201cNext week at the latest,\u201d he said.",
+      "content": "Elon Musk said in a post on X early Thursday morning that Grok, the chatbot from his AI company, xAI, will be coming to Tesla vehicles very soon.\u00a0\r\nNext week at the latest, he said.\u00a0\r\nThe news that G\u2026 [+1514 chars]",
+      "url": "https://techcrunch.com/2025/07/10/grok-is-coming-to-tesla-vehicles-next-week-says-elon-musk/",
+      "publishedAt": "2025-07-10"
+    },
+    {
+      "source": "TechCrunch",
+      "primary_category": "Technology",
+      "title": "Tesla reportedly close to starting sales in India | TechCrunch",
+      "description": "Tesla may finally start selling its EVs in India with a showroom slated for Mumbai.",
+      "content": "Tesla is nearly ready to start selling its electric vehicles in India, according to Bloomberg News, after years of flirting with the idea. The company is about to open its first showroom in Mumbai an\u2026 [+924 chars]",
+      "url": "https://techcrunch.com/2025/07/11/tesla-reportedly-close-to-starting-sales-in-india/",
+      "publishedAt": "2025-07-11"
+    },
+    {
+      "source": "TechCrunch",
+      "primary_category": "Technology",
+      "title": "Tesla is already trying to expand its Robotaxi service to Arizona\u00a0 | TechCrunch",
+      "description": "Tesla has applied for a permit to test and deploy autonomous vehicles in Arizona. It's also eyeing expansion in Austin, Texas, and California.",
+      "content": "Tesla has applied to test and operate autonomous vehicles in Arizona in a bid to bring its fledgling robotaxi service to the Metro Phoenix area, the states Department of Transportation confirmed to T\u2026 [+3988 chars]",
+      "url": "https://techcrunch.com/2025/07/10/tesla-is-already-trying-to-expand-its-robotaxi-service-to-arizona/",
+      "publishedAt": "2025-07-11"
+    },
+    {
+      "source": "TechCrunch",
+      "primary_category": "Technology",
+      "title": "TechCrunch Mobility: Tesla enters its Grok era, and teens come for robotaxis | TechCrunch",
+      "description": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation.",
+      "content": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation. Sign up here for free just click TechCrunch Mobility!\r\nIn case you missed my announcement \u2026 [+5847 chars]",
+      "url": "https://techcrunch.com/2025/07/11/techcrunch-mobility-tesla-enters-its-grok-era-and-teens-come-for-robotaxis/",
+      "publishedAt": "2025-07-11"
+    },
+    {
+      "source": "The Verge",
+      "primary_category": "Technology",
+      "title": "xAI explains the Grok Nazi meltdown as Tesla puts Elon\u2019s bot in its cars",
+      "description": "Several days after temporarily shutting down the Grok AI bot that was producing antisemitic posts and praising Hitler in response to user prompts, Elon Musk\u2019s AI company tried to explain why that happened. In a series of posts on X, it said that \u201c\u2026we discover\u2026",
+      "content": "xAI blamed an upstream code update that triggered an unintended action.\r\nSeveral days after temporarily shutting down the Grok AI bot that was producing antisemitic posts and praising Hitler in respo\u2026 [+2535 chars]",
+      "url": "https://www.theverge.com/news/706498/xai-grok-hitler-antisemitism-tesla-ai-bot",
+      "publishedAt": "2025-07-13"
+    },
+    {
+      "source": "TechCrunch",
+      "primary_category": "Technology",
+      "title": "Tesla finally enters India \u2014 nine years after Elon Musk first teased its debut | TechCrunch",
+      "description": "Tesla finally enters India \u2014 nine years after Elon Musk first teased its debut | TechCrunchtechcrunch.com",
+      "content": "Tesla has made its long-awaited entry into India with the opening of its first showroom nine years after CEO Elon Musk first teased the move in April 2016 and following years of delays and shifting t\u2026 [+4568 chars]",
+      "url": "https://techcrunch.com/2025/07/14/tesla-finally-enters-india-nine-years-after-elon-musk-first-teased-its-debut/",
+      "publishedAt": "2025-07-15"
+    },
+    {
+      "source": "The Verge",
+      "primary_category": "Technology",
+      "title": "Tesla reveals Model 3 Plus and Model YL in China as price war heats up",
+      "description": "Tesla is continuing to tweak its best-selling EVs in China in the hopes that it can boost its sales amid rising competition from BYD and other domestic manufacturers. Tesla applied for a new sales license with China\u2019s Ministry of Information Technology for a \u2026",
+      "content": "The Model YL has six seats and a true third row, while the Model 3 Plus has longer range than current versions of the electric sedan.\r\nTesla is continuing to tweak its best-selling EVs in China in th\u2026 [+2653 chars]",
+      "url": "https://www.theverge.com/news/708279/tesla-model-3-plus-model-yl-china-price-war",
+      "publishedAt": "2025-07-16"
+    },
+    {
+      "source": "TechCrunch",
+      "primary_category": "Technology",
+      "title": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunch",
+      "description": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunchtechcrunch.com",
+      "content": "Sales of Tesla\u2019s Cybertruck have plummeted from their peak last year, to the point that the hulking (and expensive) GMC Hummer EV outsold the polarizing steel-clad curiosity in the second quarter.\r\nT\u2026 [+1756 chars]",
+      "url": "https://techcrunch.com/2025/07/16/gmc-hummer-ev-outsold-the-tesla-cybertruck-last-quarter/",
+      "publishedAt": "2025-07-16"
+    },
+    {
+      "source": "ESPN",
+      "primary_category": "Sports",
+      "title": "Brown brings 'championship pedigree' to Knicks",
+      "description": "The Knicks officially hired Mike Brown as their head coach, turning to the two-time NBA Coach of the Year after firing Tom Thibodeau.",
+      "content": "NEW YORK -- The New York Knicks hired Mike Brown on Monday, turning to the two-time NBA Coach of the Year after firing Tom Thibodeau.\r\n\"After a thorough and extensive search process, we are pleased t\u2026 [+2131 chars]",
+      "url": "https://www.espn.com/nba/story/_/id/45690579/new-york-knicks-officially-hire-mike-brown-head-coach",
+      "publishedAt": "2025-07-07"
+    },
+    {
+      "source": "ESPN",
+      "primary_category": "Sports",
+      "title": "Brown to 'embrace' Knicks' high expectations",
+      "description": "Mike Brown said he is ready to \"embrace the expectations\" of taking over a Knicks team looking to build on their best finish in 25 years last season.",
+      "content": "NEW YORK -- In his introductory news conference, new Knicks coach Mike Brown said he was making a point to take his fianc\u00e9e to a handful of the city's restaurants upon getting the job.\r\nThat was nece\u2026 [+3344 chars]",
+      "url": "https://www.espn.com/nba/story/_/id/45696841/new-coach-mike-brown-embrace-knicks-high-expectations",
+      "publishedAt": "2025-07-08"
+    }
+  ]
+}
