@@ -89,7 +89,7 @@ speed_map = {
 }
 chosen_time_interval = "14 days"
 interval_map = {
-    "1 day": 2,
+    "2 days": 2,
     "3 days": 3,
     "7 days": 7,
     "14 days": 14,
