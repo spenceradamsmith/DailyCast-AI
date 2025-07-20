@@ -1,8 +1,10 @@
 import os
 import requests
+import re
 import json
 from dotenv import load_dotenv
 from datetime import datetime, timedelta, timezone
+from collections import defaultdict
 from difflib import SequenceMatcher
 
 load_dotenv()
@@ -37,9 +39,44 @@ removals_by_category = {
     }
 }
 
+# Map NewsAPI source IDs to real names
+source_display_names = {
+    "breitbart-news": "Breitbart News",
+    "fox-news": "Fox News",
+    "usa-today": "USA Today",
+    "cnn": "CNN",
+    "associated-press": "Associated Press",
+    "the-hill": "The Hill",
+    "msnbc": "MSNBC",
+    "financial-post": "Financial Post",
+    "business-insider": "Business Insider",
+    "fortune": "Fortune",
+    "bloomberg": "Bloomberg",
+    "the-wall-street-journal": "The Wall Street Journal",
+    "techcrunch": "TechCrunch",
+    "wired": "Wired",
+    "the-verge": "The Verge",
+    "engadget": "Engadget",
+    "ars-technica": "Ars Technica",
+    "national-geographic": "National Geographic",
+    "new-scientist": "New Scientist",
+    "next-big-future": "Next Big Future",
+    "medical-news-today": "Medical News Today",
+    "buzzfeed": "BuzzFeed",
+    "mtv-news": "MTV News",
+    "entertainment-weekly": "Entertainment Weekly",
+    "ign": "IGN",
+    "polygon": "Polygon",
+    "espn": "ESPN",
+    "fox-sports": "Fox Sports",
+    "the-sport-bible": "SportBible",
+    "bleacher-report": "Bleacher Report",
+    "talksport": "talkSPORT",
+}
+
 # Choose options
 chosen_categories = ["Technology", "Sports"]
-chosen_keywords = ["Tesla", "Knicks"]
+chosen_keywords = ["Tesla", "Apple", "Knicks"]
 chosen_politics = "Center"
 chosen_time = "5 minutes"
 chosen_speed = "Normal"
@@ -69,6 +106,10 @@ for category in chosen_categories:
     for cat in categories[category]:
         chosen_sources.append(cat)
 chosen_sources = list(dict.fromkeys(chosen_sources))
+
+display_sources = [
+    source_display_names.get(src_id, src_id) for src_id in chosen_sources
+]
 
 source_removals = set()
 for category in chosen_categories:
@@ -134,6 +175,7 @@ for a in raw_articles:
         "description": a.get("description") or "",
         "content": a.get("content") or "",
         "url": a.get("url"),
+        "image": a.get("urlToImage"),
         "publishedAt": published_date,
     })
 
@@ -158,34 +200,94 @@ def to_date(s):
     except Exception:
         return datetime.max
 
-final_articles.sort(
-    key = lambda a: (
-        category_order.get(a.get("primary_category"), len(category_order)),
-        to_date(a.get("publishedAt", "")).timestamp()
-    )
-)
-
 # Output
 output = {
     "meta": {
         "categories": chosen_categories,
         "keywords": chosen_keywords,
         "politics": chosen_politics,
-        "sources": chosen_sources,
+        "sources": display_sources,
         "start_date": start_date,
         "end_date": end_date,
         "requested_interval_days": chosen_time_interval,
         "total_results_reported": total_reported,
         "filtered_results_reported": len(final_articles),
         "generated_at_utc": today.isoformat()
-    },
-    "articles": final_articles
+    }
+}
+
+def clean_field(s: str) -> str:
+    if s is None:
+        return ""
+    s = s.replace('\r', ' ')
+    s = s.replace('\n', '')
+    s = re.sub(r'\s+', ' ', s).strip()
+    return s
+
+# Clean text before grouping
+for art in final_articles:
+    for field in ("title", "description", "content"):
+        art[field] = clean_field(art.get(field, ""))
+
+# Group articles
+keyword_patterns = {
+    kw: re.compile(r'\b' + re.escape(kw) + r'\b', re.IGNORECASE)
+    for kw in chosen_keywords
+}
+
+grouped = defaultdict(lambda: defaultdict(list))
+
+for art in final_articles:
+    cat = art.get("primary_category", "Unknown")
+    title_lc = (art.get("title") or "").lower()
+    matched_any = False
+    for kw, pat in keyword_patterns.items():
+        if pat.search(title_lc):
+            grouped[cat][kw].append(art)
+            matched_any = True
+    if not chosen_keywords:
+        grouped[cat]["__NO_KEYWORDS__"].append(art)
+    elif not matched_any:
+        grouped[cat]["__UNMATCHED__"].append(art)
+
+def to_date(s):
+    try:
+        return datetime.strptime(s, "%Y-%m-%d")
+    except Exception:
+        return datetime.min
+
+# Sort each group by date
+for kwdict in grouped.values():
+    for arts in kwdict.values():
+        arts.sort(key=lambda a: to_date(a.get("publishedAt", "")), reverse = False)
+
+keyword_position = {kw: i for i, kw in enumerate(chosen_keywords)}
+def keyword_order_key(kw):
+    if kw == "__UNMATCHED__":
+        return (1_000_000, kw)
+    if kw == "__NO_KEYWORDS__":
+        return (1_000_001, kw)
+    return (0, keyword_position.get(kw, 9_999_999))
+
+# Preserve chosen category order
+ordered_grouped = {}
+for cat in chosen_categories:
+    if cat in grouped:
+        kwdict = grouped[cat]
+        ordered_grouped[cat] = {
+            kw: kwdict[kw] for kw in sorted(kwdict.keys(), key = keyword_order_key)
+        }
+
+output["artices"] = ordered_grouped
+output["grouped_counts"] = {
+    cat: {kw: len(arts) for kw, arts in kwdict.items()}
+    for cat, kwdict in ordered_grouped.items()
 }
 
 with open("podsmith_output.json", "w", encoding = "utf-8") as f:
-    json.dump(output, f, indent = 2)
+    json.dump(output, f, indent = 2, ensure_ascii = False)
 
 print(
-    f"Wrote podsmith_output.json with {len(final_articles)} articles "
-    f"(reported {total_reported}, after exact {len(exact_dedup)})"
+    f"Wrote podsmith_output.json with grouped output only "
+    f"(total raw articles {len(final_articles)}, reported {total_reported})"
 )

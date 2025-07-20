@@ -6,136 +6,338 @@
     ],
     "keywords": [
       "Tesla",
+      "Apple",
       "Knicks"
     ],
     "politics": "Center",
     "sources": [
-      "techcrunch",
-      "wired",
-      "the-verge",
-      "engadget",
-      "ars-technica",
-      "espn",
-      "fox-sports",
-      "the-sport-bible",
-      "bleacher-report",
-      "talksport"
+      "TechCrunch",
+      "Wired",
+      "The Verge",
+      "Engadget",
+      "Ars Technica",
+      "ESPN",
+      "Fox Sports",
+      "SportBible",
+      "Bleacher Report",
+      "talkSPORT"
     ],
-    "start_date": "2025-07-04",
-    "end_date": "2025-07-18",
+    "start_date": "2025-07-06",
+    "end_date": "2025-07-20",
     "requested_interval_days": "14 days",
-    "total_results_reported": 13,
-    "filtered_results_reported": 12,
-    "generated_at_utc": "2025-07-18T21:39:31.131479+00:00"
+    "total_results_reported": 53,
+    "filtered_results_reported": 29,
+    "generated_at_utc": "2025-07-20T20:10:53.074261+00:00"
   },
-  "articles": [
-    {
-      "source": "Wired",
-      "primary_category": "Technology",
-      "title": "OpenAI Poaches 4 High-Ranking Engineers From Tesla, xAI, and Meta",
-      "description": "The new hires are joining OpenAI\u2019s scaling team, according to an internal Slack message sent by cofounder Greg Brockman.",
-      "content": "OpenAI has hired four high-profile engineers away from rivals, including David Lau, former vice president of software engineering at Tesla, to join the companys scaling team, WIRED has learned. The n\u2026 [+3514 chars]",
-      "url": "https://www.wired.com/story/openai-new-hires-scaling/",
-      "publishedAt": "2025-07-08"
+  "artices": {
+    "Technology": {
+      "Tesla": [
+        {
+          "source": "Wired",
+          "primary_category": "Technology",
+          "title": "OpenAI Poaches 4 High-Ranking Engineers From Tesla, xAI, and Meta",
+          "description": "The new hires are joining OpenAI’s scaling team, according to an internal Slack message sent by cofounder Greg Brockman.",
+          "content": "OpenAI has hired four high-profile engineers away from rivals, including David Lau, former vice president of software engineering at Tesla, to join the companys scaling team, WIRED has learned. The n… [+3514 chars]",
+          "url": "https://www.wired.com/story/openai-new-hires-scaling/",
+          "image": "https://media.wired.com/photos/686d03805eae299ccafb3578/191:100/w_1280,c_limit/OpenAI_TopArt.png",
+          "publishedAt": "2025-07-08"
+        },
+        {
+          "source": "Wired",
+          "primary_category": "Technology",
+          "title": "Elon Musk Says Grok Is Coming to Tesla EVs",
+          "description": "Get ready for a few hard right turns.",
+          "content": "Grok is coming to Tesla vehicles very soon. Next week at the latest, Elon Musk stated Thursday in a post on X. The EV brand would catch up with the likes of Mercedes-Benz and Volkswagen, which have a… [+2604 chars]",
+          "url": "https://www.wired.com/story/elon-musk-says-grok-is-coming-to-tesla-evs/",
+          "image": "https://media.wired.com/photos/686fc453919e0eaf669acd27/191:100/w_1280,c_limit/groktopart.png",
+          "publishedAt": "2025-07-10"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Grok is coming to Tesla vehicles 'next week,' says Elon Musk | TechCrunch",
+          "description": "Elon Musk said in a post on X early Thursday morning that Grok – the chatbot from his AI company, xAI – will be coming to Tesla vehicles “very soon.” “Next week at the latest,” he said.",
+          "content": "Elon Musk said in a post on X early Thursday morning that Grok, the chatbot from his AI company, xAI, will be coming to Tesla vehicles very soon. Next week at the latest, he said. The news that G… [+1514 chars]",
+          "url": "https://techcrunch.com/2025/07/10/grok-is-coming-to-tesla-vehicles-next-week-says-elon-musk/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804",
+          "publishedAt": "2025-07-10"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Tesla reportedly close to starting sales in India | TechCrunch",
+          "description": "Tesla may finally start selling its EVs in India with a showroom slated for Mumbai.",
+          "content": "Tesla is nearly ready to start selling its electric vehicles in India, according to Bloomberg News, after years of flirting with the idea. The company is about to open its first showroom in Mumbai an… [+924 chars]",
+          "url": "https://techcrunch.com/2025/07/11/tesla-reportedly-close-to-starting-sales-in-india/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/tesla-model-y-juniper-north-america.jpg?resize=1200,850",
+          "publishedAt": "2025-07-11"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Tesla is already trying to expand its Robotaxi service to Arizona | TechCrunch",
+          "description": "Tesla has applied for a permit to test and deploy autonomous vehicles in Arizona. It's also eyeing expansion in Austin, Texas, and California.",
+          "content": "Tesla has applied to test and operate autonomous vehicles in Arizona in a bid to bring its fledgling robotaxi service to the Metro Phoenix area, the states Department of Transportation confirmed to T… [+3988 chars]",
+          "url": "https://techcrunch.com/2025/07/10/tesla-is-already-trying-to-expand-its-robotaxi-service-to-arizona/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
+          "publishedAt": "2025-07-11"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "TechCrunch Mobility: Tesla enters its Grok era, and teens come for robotaxis | TechCrunch",
+          "description": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation.",
+          "content": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation. Sign up here for free just click TechCrunch Mobility! In case you missed my announcement … [+5847 chars]",
+          "url": "https://techcrunch.com/2025/07/11/techcrunch-mobility-tesla-enters-its-grok-era-and-teens-come-for-robotaxis/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/Waymo_teens_3.png?resize=1200,675",
+          "publishedAt": "2025-07-11"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "xAI explains the Grok Nazi meltdown as Tesla puts Elon’s bot in its cars",
+          "description": "Several days after temporarily shutting down the Grok AI bot that was producing antisemitic posts and praising Hitler in response to user prompts, Elon Musk’s AI company tried to explain why that happened. In a series of posts on X, it said that “…we discover…",
+          "content": "xAI blamed an upstream code update that triggered an unintended action. Several days after temporarily shutting down the Grok AI bot that was producing antisemitic posts and praising Hitler in respo… [+2535 chars]",
+          "url": "https://www.theverge.com/news/706498/xai-grok-hitler-antisemitism-tesla-ai-bot",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "publishedAt": "2025-07-13"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Tesla finally enters India — nine years after Elon Musk first teased its debut | TechCrunch",
+          "description": "Tesla finally enters India — nine years after Elon Musk first teased its debut | TechCrunchtechcrunch.com",
+          "content": "Tesla has made its long-awaited entry into India with the opening of its first showroom nine years after CEO Elon Musk first teased the move in April 2016 and following years of delays and shifting t… [+4568 chars]",
+          "url": "https://techcrunch.com/2025/07/14/tesla-finally-enters-india-nine-years-after-elon-musk-first-teased-its-debut/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/Tesla-sign-Getty.jpg?resize=1200,800",
+          "publishedAt": "2025-07-15"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "Tesla reveals Model 3 Plus and Model YL in China as price war heats up",
+          "description": "Tesla is continuing to tweak its best-selling EVs in China in the hopes that it can boost its sales amid rising competition from BYD and other domestic manufacturers. Tesla applied for a new sales license with China’s Ministry of Information Technology for a …",
+          "content": "The Model YL has six seats and a true third row, while the Model 3 Plus has longer range than current versions of the electric sedan. Tesla is continuing to tweak its best-selling EVs in China in th… [+2653 chars]",
+          "url": "https://www.theverge.com/news/708279/tesla-model-3-plus-model-yl-china-price-war",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Gv_HN93XEAAMtWs.jpeg?quality=90&strip=all&crop=0%2C10.671533564388%2C100%2C78.656932871224&w=1200",
+          "publishedAt": "2025-07-16"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunch",
+          "description": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunchtechcrunch.com",
+          "content": "Sales of Tesla’s Cybertruck have plummeted from their peak last year, to the point that the hulking (and expensive) GMC Hummer EV outsold the polarizing steel-clad curiosity in the second quarter. T… [+1756 chars]",
+          "url": "https://techcrunch.com/2025/07/16/gmc-hummer-ev-outsold-the-tesla-cybertruck-last-quarter/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1200,800",
+          "publishedAt": "2025-07-16"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "An electric scooter that accelerates faster than a Tesla Model 3? No thanks!",
+          "description": "Personally, I think electric scooters are a little goofy, but I’m glad they exist. I know a lot of people who don’t want to drop a couple thousand dollars on an electric bike, but still want the joy and freedom of zipping around town at a modest 18mph, while …",
+          "content": "UK-based Bo claims its experimental Turbo scooter can hit 100mph and has a higher power-to-weight ratio than a Bugatti Veyron. Personally, I think electric scooters are a little goofy, but Im glad t… [+3529 chars]",
+          "url": "https://www.theverge.com/news/709934/bo-turbo-electric-scooter-100-mph-speed",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Goodwood_04.jpg?quality=90&strip=all&crop=0%2C10.739558379199%2C100%2C78.520883241603&w=1200",
+          "publishedAt": "2025-07-18"
+        }
+      ],
+      "Apple": [
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "Apple just added more frost to its Liquid Glass design",
+          "description": "Apple’s new Liquid Glass design language just got a little more… frosted. In the third iOS 26 developer beta, Apple dialed back the transparency of navigation bars, buttons, and tabs that once allowed you to clearly see the content beneath them. Apple already…",
+          "content": "The latest iOS 26 developer beta makes Apples new UI a little less transparent and easier to read. Apples new Liquid Glass design language just got a little more frosted. In the third iOS 26 develop… [+1090 chars]",
+          "url": "https://www.theverge.com/news/700066/apple-liquid-glass-frosted-ios-26-developer-beta",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/apple-liquid-glass.jpg?quality=90&strip=all&crop=0%2C3.4216870907457%2C100%2C93.156625818509&w=1200",
+          "publishedAt": "2025-07-07"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Apple appeals EU’s €500M fine over App Store payment restraints",
+          "description": "Apple has filed appealed the EU's decision to fine the company €500 million (about $580 million) for not complying with competition rules.",
+          "content": "Apple on Monday filed an appeal against the EU’s decision to fine the company 500 million (about $580 million) for not complying with rules that mandate companies to let developers steer users outsid… [+973 chars]",
+          "url": "https://techcrunch.com/2025/07/07/apple-appeals-eus-e500m-fine-over-app-store-payment-restraints/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
+          "publishedAt": "2025-07-07"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Apple COO Jeff Williams to step down later this month",
+          "description": "Jeff Williams, Apple’s chief operating officer, is stepping down from his role later this month.",
+          "content": "Jeff Williams, Apples chief operating officer, is stepping down from his role later this month, as announced by the company on Tuesday. Sabih Khan, who currently serves as the senior vice president o… [+712 chars]",
+          "url": "https://techcrunch.com/2025/07/08/apple-coo-jeff-williams-to-step-down-later-this-month/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/jeff_williams.png.og_.jpg?w=1200",
+          "publishedAt": "2025-07-08"
+        },
+        {
+          "source": "Wired",
+          "primary_category": "Technology",
+          "title": "Best Prime Day Apple Deals on iPads, AirPods, and MacBooks (2025)",
+          "description": "The best Prime Day Apple deals range from laptops to earbuds. Whether you're looking to invest in a new device or replace an old one, now is the time to shop.",
+          "content": "If you have one Apple product, you usually have them allwhether that's AirPods, an iPhone, an iPad, the Apple Watch, or the ubiquitous MacBook. One, or all of them, probably needs updating at any giv… [+2674 chars]",
+          "url": "https://www.wired.com/story/prime-day-apple-deals-2025/",
+          "image": "https://media.wired.com/photos/686b639b38087d19315e9e5b/191:100/w_1280,c_limit/4-%20Apple%20Deals.mp4",
+          "publishedAt": "2025-07-08"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "One of Tim Cook’s possible successors is leaving Apple",
+          "description": "Apple has announced that Sabih Khan, the company’s vice president of operations, will take over for Jeff Williams as chief operating officer later this month. In an announcement on Tuesday, Apple said the move is part of a “long-planned succession” that has W…",
+          "content": "Jeff Williams will retire later this year. | Image: David Paul Morris/Bloomberg via Getty Images Apple has announced that Sabih Khan, the company’s vice president of operations, will take over for… [+1048 chars]",
+          "url": "https://www.theverge.com/news/701576/apple-coo-jeff-williams-retiring-sabih-khan",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1973655840.jpg?quality=90&strip=all&crop=0%2C10.664146549656%2C100%2C78.671706900689&w=1200",
+          "publishedAt": "2025-07-08"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "The best Apple Watch Prime Day deals",
+          "description": "Apple typically doesn’t discount its own hardware, which makes Prime Day deals on its gear so appealing. We’ve rounded up the best Apple Watch Prime Day deals, and we’re particularly struck by the discount on the Apple Watch Series 10. The 42mm aluminum GPS m…",
+          "content": "Apple typically doesn’t discount its own hardware, which makes Prime Day deals on its gear so appealing. We’ve rounded up the best Apple Watch Prime Day deals, and we’re particularly struck by the di… [+3165 chars]",
+          "url": "https://www.theverge.com/tech/698764/best-apple-watch-prime-day-deals-sale-2025",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623076/247270_Apple_watch_series_10_AKrales_0557.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "publishedAt": "2025-07-09"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Apple looks to bid on becoming US home for Formula 1",
+          "description": "Formula 1 could have a new U.S. streaming service home soon. Apple is in talks to purchase the rights as it looks to further invest in live sports, the Financial Times reports. Apple already has deals for Major League Baseball and Major League Soccer. ESPN’s …",
+          "content": "Formula 1 could have a new U.S. streaming service home soon. Apple is in talks to purchase the rights as it looks to further invest in live sports, the Financial Times reports. Apple already has dea… [+602 chars]",
+          "url": "https://techcrunch.com/2025/07/09/apple-looks-to-bid-on-becoming-us-home-for-formula-1/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223835102.jpg?w=1024",
+          "publishedAt": "2025-07-09"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "Murderbot is getting a season 2 on Apple TV Plus",
+          "description": "Apple TV Plus’ adaptation of Martha Wells’ Murderbot Diaries has been one of this year’s surprisingly great sci-fi series, and the streamer has plans to keep the story going with a new batch of episodes. Ahead of Murderbot‘s season 1 finale out July 11th, App…",
+          "content": "The renewal comes just ahead of the shows season 1 finale. Apple TV Plus adaptation of Martha Wells Murderbot Diaries has been one of this years surprisingly great sci-fi series, and the streamer ha… [+1252 chars]",
+          "url": "https://www.theverge.com/news/704047/murderbot-season-2-apple-tv-plus",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Murderbot_Photo_010804.jpg?quality=90&strip=all&crop=10.059114583333%2C0%2C79.881770833333%2C100&w=1200",
+          "publishedAt": "2025-07-10"
+        },
+        {
+          "source": "Wired",
+          "primary_category": "Technology",
+          "title": "22 Best Prime Day Apple Deals—Including 40% Off AirPods",
+          "description": "The best Prime Day Apple deals range from laptops to earbuds. Whether you’re looking to invest in a new device or replace an old one, now is the time to shop.",
+          "content": "If you have one Apple product, you usually have them allwhether that's AirPods, an iPhone, an iPad, the Apple Watch, or the ubiquitous MacBook. One, or all of them, probably needs updating at any giv… [+9250 chars]",
+          "url": "https://www.wired.com/story/prime-day-apple-deals-2025-3/",
+          "image": "https://media.wired.com/photos/686cfbbf58d6a014028d3564/191:100/w_1280,c_limit/4.jpg",
+          "publishedAt": "2025-07-11"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "Why I love my Apple EarPods",
+          "description": "Jay Peters is a news editor for The Verge, which means, he explains, “I write and edit news about tech, gaming, and all of the many things The Verge covers. I also write a lot about indie video games. And I’m taking over David Pierce’s Installer newsletter wh…",
+          "content": "Jay Peters is a news editor for The Verge, which means, he explains, “I write and edit news about tech, gaming, and all of the many things The Verge covers. I also write a lot about indie video games… [+2168 chars]",
+          "url": "https://www.theverge.com/tech/704616/apple-earpods-favorites",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/EarPods.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "publishedAt": "2025-07-15"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Apple commits $500M to U.S.-based rare earth recycling firm MP Materials",
+          "description": "The factory will develop a series of neodymium magnet manufacturing lines specifically designed for Apple products.",
+          "content": "Apple is investing $500 million in MP Materials, the only fully integrated rare earth mining company currently operating in the United States, as part of a broader effort to strengthen the domestic r… [+1276 chars]",
+          "url": "https://techcrunch.com/2025/07/15/apple-commits-500m-to-u-s-based-rare-earth-recycling-firm-mp-materials/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/apple-logo-pedestrian.jpg?resize=1200,798",
+          "publishedAt": "2025-07-15"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "Apple cuts a deal for recycling rare earth magnets in the US",
+          "description": "Apple has announced a $500 million investment in MP Materials, a rare earth mining company based in the US. With the deal, the two companies will partner on the development of a rare earth magnet recycling line in Mountain Pass, California, allowing Apple to …",
+          "content": "Apple’s investment will go toward building a dedicated rare earth recycling line at MP Materials’ Mountain Pass, California facility. | Photo by Michael Tessler / MP Materials Apple has announced … [+2102 chars]",
+          "url": "https://www.theverge.com/news/707249/apple-rare-earth-magnet-mp-materials-recycling",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/mpmaterials-mountain-pass.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+          "publishedAt": "2025-07-15"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "Apple launches new emoji word game to take on Wordle and the NYT",
+          "description": "Ever since the New York Times acquired Wordle and went all-in on games, there's been something of a slow-brewing arms race in the space. The Times continues to release new games, and it's now up against intriguing competitors like Puzzmo, Netflix, The Atlanti…",
+          "content": "Daily puzzle games continue to be a competitive space, and Apple News Plus just expanded its offerings. Ever since the New York Times acquired Wordle and went all-in on games, theres been something … [+2610 chars]",
+          "url": "https://www.theverge.com/games/708935/apple-news-plus-emoji-game-wordle",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/slack-imgs.jpg?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+          "publishedAt": "2025-07-17"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Apple News+ adds a new game that uses emoji and Genmoji to solve puzzles",
+          "description": "Released to coincide with World Emoji Day, the new Emoji Game is part logic, part word game that's inspired by how we use emojis to communicate.",
+          "content": "Apple is introducing a new reason to upgrade to its subscription news offering, Apple News+: more games. On Thursday, the company announced the addition of the Emoji Game, an original title that will… [+2697 chars]",
+          "url": "https://techcrunch.com/2025/07/16/apple-news-adds-a-new-game-that-uses-emoji-and-genmoji-to-solve-puzzles/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/emoji-GettyImages-1226007274.jpg?w=1024",
+          "publishedAt": "2025-07-17"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "Apple sues leaker Jon Prosser for stealing iOS secrets",
+          "description": "Apple has sued the well-known leaker Jon Prosser for the alleged theft of trade secrets related to iOS 26. Prosser has been accused of tasking another man, Michael Ramacciotti, with secretly accessing an Apple employee’s development iPhone and using that info…",
+          "content": "Prosser is accused of stealing trade secrets to leak details of iOS 26’s design before its announcement at WWDC. Apple has sued the well-known leaker Jon Prosser for the alleged theft of trade sec… [+2447 chars]",
+          "url": "https://www.theverge.com/news/709550/apple-jon-prosser-lawsuit-michael-ramacciotti-ios-26-trade-secrets",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/image_864192.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "publishedAt": "2025-07-18"
+        },
+        {
+          "source": "Wired",
+          "primary_category": "Technology",
+          "title": "Apple Sues the YouTuber Who Leaked iOS 26",
+          "description": "In a lawsuit filed against prominent leaker Jon Prosser, Apple alleges a conspiracy to break into a development device and steal its trade secrets. Prosser insists Apple has it all wrong.",
+          "content": "Leaks are a constant part of big product news cycles, particularly for companies like Apple. Online soothsayers like Jon Prosser and Bloombergs Mark Gurman have long predicted the content of upcoming… [+4085 chars]",
+          "url": "https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/",
+          "image": "https://media.wired.com/photos/687a7bee93808b4bb00b60b6/191:100/w_1280,c_limit/Apple-WWDC25-iOS-26-hero-250609.jpg",
+          "publishedAt": "2025-07-18"
+        }
+      ]
     },
-    {
-      "source": "Wired",
-      "primary_category": "Technology",
-      "title": "Elon Musk Says Grok Is Coming to Tesla EVs",
-      "description": "Get ready for a few hard right turns.",
-      "content": "Grok is coming to Tesla vehicles very soon. Next week at the latest, Elon Musk stated Thursday in a post on X. The EV brand would catch up with the likes of Mercedes-Benz and Volkswagen, which have a\u2026 [+2604 chars]",
-      "url": "https://www.wired.com/story/elon-musk-says-grok-is-coming-to-tesla-evs/",
-      "publishedAt": "2025-07-10"
-    },
-    {
-      "source": "TechCrunch",
-      "primary_category": "Technology",
-      "title": "Grok is coming to Tesla vehicles 'next week,' says Elon Musk\u00a0 | TechCrunch",
-      "description": "Elon Musk said in a post on X early Thursday morning that Grok \u2013 the chatbot from his AI company, xAI \u2013 will be coming to Tesla vehicles \u201cvery soon.\u201d\u00a0\u201cNext week at the latest,\u201d he said.",
-      "content": "Elon Musk said in a post on X early Thursday morning that Grok, the chatbot from his AI company, xAI, will be coming to Tesla vehicles very soon.\u00a0\r\nNext week at the latest, he said.\u00a0\r\nThe news that G\u2026 [+1514 chars]",
-      "url": "https://techcrunch.com/2025/07/10/grok-is-coming-to-tesla-vehicles-next-week-says-elon-musk/",
-      "publishedAt": "2025-07-10"
-    },
-    {
-      "source": "TechCrunch",
-      "primary_category": "Technology",
-      "title": "Tesla reportedly close to starting sales in India | TechCrunch",
-      "description": "Tesla may finally start selling its EVs in India with a showroom slated for Mumbai.",
-      "content": "Tesla is nearly ready to start selling its electric vehicles in India, according to Bloomberg News, after years of flirting with the idea. The company is about to open its first showroom in Mumbai an\u2026 [+924 chars]",
-      "url": "https://techcrunch.com/2025/07/11/tesla-reportedly-close-to-starting-sales-in-india/",
-      "publishedAt": "2025-07-11"
-    },
-    {
-      "source": "TechCrunch",
-      "primary_category": "Technology",
-      "title": "Tesla is already trying to expand its Robotaxi service to Arizona\u00a0 | TechCrunch",
-      "description": "Tesla has applied for a permit to test and deploy autonomous vehicles in Arizona. It's also eyeing expansion in Austin, Texas, and California.",
-      "content": "Tesla has applied to test and operate autonomous vehicles in Arizona in a bid to bring its fledgling robotaxi service to the Metro Phoenix area, the states Department of Transportation confirmed to T\u2026 [+3988 chars]",
-      "url": "https://techcrunch.com/2025/07/10/tesla-is-already-trying-to-expand-its-robotaxi-service-to-arizona/",
-      "publishedAt": "2025-07-11"
-    },
-    {
-      "source": "TechCrunch",
-      "primary_category": "Technology",
-      "title": "TechCrunch Mobility: Tesla enters its Grok era, and teens come for robotaxis | TechCrunch",
-      "description": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation.",
-      "content": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation. Sign up here for free just click TechCrunch Mobility!\r\nIn case you missed my announcement \u2026 [+5847 chars]",
-      "url": "https://techcrunch.com/2025/07/11/techcrunch-mobility-tesla-enters-its-grok-era-and-teens-come-for-robotaxis/",
-      "publishedAt": "2025-07-11"
-    },
-    {
-      "source": "The Verge",
-      "primary_category": "Technology",
-      "title": "xAI explains the Grok Nazi meltdown as Tesla puts Elon\u2019s bot in its cars",
-      "description": "Several days after temporarily shutting down the Grok AI bot that was producing antisemitic posts and praising Hitler in response to user prompts, Elon Musk\u2019s AI company tried to explain why that happened. In a series of posts on X, it said that \u201c\u2026we discover\u2026",
-      "content": "xAI blamed an upstream code update that triggered an unintended action.\r\nSeveral days after temporarily shutting down the Grok AI bot that was producing antisemitic posts and praising Hitler in respo\u2026 [+2535 chars]",
-      "url": "https://www.theverge.com/news/706498/xai-grok-hitler-antisemitism-tesla-ai-bot",
-      "publishedAt": "2025-07-13"
-    },
-    {
-      "source": "TechCrunch",
-      "primary_category": "Technology",
-      "title": "Tesla finally enters India \u2014 nine years after Elon Musk first teased its debut | TechCrunch",
-      "description": "Tesla finally enters India \u2014 nine years after Elon Musk first teased its debut | TechCrunchtechcrunch.com",
-      "content": "Tesla has made its long-awaited entry into India with the opening of its first showroom nine years after CEO Elon Musk first teased the move in April 2016 and following years of delays and shifting t\u2026 [+4568 chars]",
-      "url": "https://techcrunch.com/2025/07/14/tesla-finally-enters-india-nine-years-after-elon-musk-first-teased-its-debut/",
-      "publishedAt": "2025-07-15"
-    },
-    {
-      "source": "The Verge",
-      "primary_category": "Technology",
-      "title": "Tesla reveals Model 3 Plus and Model YL in China as price war heats up",
-      "description": "Tesla is continuing to tweak its best-selling EVs in China in the hopes that it can boost its sales amid rising competition from BYD and other domestic manufacturers. Tesla applied for a new sales license with China\u2019s Ministry of Information Technology for a \u2026",
-      "content": "The Model YL has six seats and a true third row, while the Model 3 Plus has longer range than current versions of the electric sedan.\r\nTesla is continuing to tweak its best-selling EVs in China in th\u2026 [+2653 chars]",
-      "url": "https://www.theverge.com/news/708279/tesla-model-3-plus-model-yl-china-price-war",
-      "publishedAt": "2025-07-16"
-    },
-    {
-      "source": "TechCrunch",
-      "primary_category": "Technology",
-      "title": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunch",
-      "description": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunchtechcrunch.com",
-      "content": "Sales of Tesla\u2019s Cybertruck have plummeted from their peak last year, to the point that the hulking (and expensive) GMC Hummer EV outsold the polarizing steel-clad curiosity in the second quarter.\r\nT\u2026 [+1756 chars]",
-      "url": "https://techcrunch.com/2025/07/16/gmc-hummer-ev-outsold-the-tesla-cybertruck-last-quarter/",
-      "publishedAt": "2025-07-16"
-    },
-    {
-      "source": "ESPN",
-      "primary_category": "Sports",
-      "title": "Brown brings 'championship pedigree' to Knicks",
-      "description": "The Knicks officially hired Mike Brown as their head coach, turning to the two-time NBA Coach of the Year after firing Tom Thibodeau.",
-      "content": "NEW YORK -- The New York Knicks hired Mike Brown on Monday, turning to the two-time NBA Coach of the Year after firing Tom Thibodeau.\r\n\"After a thorough and extensive search process, we are pleased t\u2026 [+2131 chars]",
-      "url": "https://www.espn.com/nba/story/_/id/45690579/new-york-knicks-officially-hire-mike-brown-head-coach",
-      "publishedAt": "2025-07-07"
-    },
-    {
-      "source": "ESPN",
-      "primary_category": "Sports",
-      "title": "Brown to 'embrace' Knicks' high expectations",
-      "description": "Mike Brown said he is ready to \"embrace the expectations\" of taking over a Knicks team looking to build on their best finish in 25 years last season.",
-      "content": "NEW YORK -- In his introductory news conference, new Knicks coach Mike Brown said he was making a point to take his fianc\u00e9e to a handful of the city's restaurants upon getting the job.\r\nThat was nece\u2026 [+3344 chars]",
-      "url": "https://www.espn.com/nba/story/_/id/45696841/new-coach-mike-brown-embrace-knicks-high-expectations",
-      "publishedAt": "2025-07-08"
+    "Sports": {
+      "Knicks": [
+        {
+          "source": "ESPN",
+          "primary_category": "Sports",
+          "title": "Brown brings 'championship pedigree' to Knicks",
+          "description": "The Knicks officially hired Mike Brown as their head coach, turning to the two-time NBA Coach of the Year after firing Tom Thibodeau.",
+          "content": "NEW YORK -- The New York Knicks hired Mike Brown on Monday, turning to the two-time NBA Coach of the Year after firing Tom Thibodeau. \"After a thorough and extensive search process, we are pleased t… [+2131 chars]",
+          "url": "https://www.espn.com/nba/story/_/id/45690579/new-york-knicks-officially-hire-mike-brown-head-coach",
+          "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0904%2Fr1381972_1296x729_16%2D9.jpg",
+          "publishedAt": "2025-07-07"
+        },
+        {
+          "source": "ESPN",
+          "primary_category": "Sports",
+          "title": "Brown to 'embrace' Knicks' high expectations",
+          "description": "Mike Brown said he is ready to \"embrace the expectations\" of taking over a Knicks team looking to build on their best finish in 25 years last season.",
+          "content": "NEW YORK -- In his introductory news conference, new Knicks coach Mike Brown said he was making a point to take his fiancée to a handful of the city's restaurants upon getting the job. That was nece… [+3344 chars]",
+          "url": "https://www.espn.com/nba/story/_/id/45696841/new-coach-mike-brown-embrace-knicks-high-expectations",
+          "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0708%2Fr1516557_1024x576_16%2D9.jpg",
+          "publishedAt": "2025-07-08"
+        }
+      ]
     }
-  ]
+  },
+  "grouped_counts": {
+    "Technology": {
+      "Tesla": 11,
+      "Apple": 16
+    },
+    "Sports": {
+      "Knicks": 2
+    }
+  }
 }
