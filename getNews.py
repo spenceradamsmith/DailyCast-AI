@@ -8,6 +8,7 @@ from collections import defaultdict
 from difflib import SequenceMatcher
 from pathlib import Path
 from openai import OpenAI
+import base64
 
 load_dotenv()
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
@@ -83,8 +84,29 @@ source_display_names = {
 chosen_categories = ["Technology", "Sports"]
 chosen_keywords = ["Tesla", "Apple", "Knicks"]
 chosen_politics = "Center"
+chosen_voice = 1
+voice_map = {
+    1: "ballad",
+    2: "echo",
+    3: "fable",
+    4: "shimmer"
+}
 chosen_time = 5
-chosen_tone = "None"
+chosen_speed = "Normal"
+speed_map = {
+    "Slow": 0.75,
+    "Normal": 1,
+    "Fast": 1.25,
+    "Faster": 1.5,
+    "Very Fast": 2,
+}
+wpm_map = {
+    "Slow": 134,
+    "Normal": 178,
+    "Fast": 223,
+    "Faster": 267,
+    "Very Fast": 356,
+}
 chosen_time_interval = "14 days"
 interval_map = {
     "2 days": 2,
@@ -92,7 +114,7 @@ interval_map = {
     "7 days": 7,
     "14 days": 14,
 }
-chosen_total_words = chosen_time * 178
+chosen_total_words = chosen_time * wpm_map[chosen_speed]
 low_bound_words = int(chosen_total_words * 0.99)
 high_bound_words = int(chosen_total_words * 1.01)
 time_difference = interval_map.get(chosen_time_interval, 0)
@@ -210,10 +232,12 @@ output = {
         "sources": display_sources,
         "start_date": start_date,
         "end_date": end_date,
-        "requested_interval_days": chosen_time_interval,
-        "total_results_reported": total_reported,
-        "filtered_results_reported": len(final_articles),
-        "generated_at_utc": today.isoformat()
+        "interval_days": chosen_time_interval,
+        "podcast_length_min": chosen_time,
+        "speech_speed": chosen_speed,
+        "voice": voice_map[chosen_voice],
+        "results_reported": len(final_articles),
+        "generated_at": today.isoformat()
     }
 }
 
@@ -292,7 +316,7 @@ system_prompt = f"""
 You are an award‑winning podcast writer. Using only the structured JSON news data (with each top‑level key representing a category and its articles in chronological order), produce one seamless, conversational podcast script in natural paragraphs. Follow these rules absolutely:
 You must write **between {low_bound_words} and {high_bound_words} words** (95%–105% of {chosen_total_words}).  
 1. Draft your script normally.  
-2. If the count is outside the bounds, automatically trim or expand to hit the target, then output the final script and updated count.
+2. If the count is outside the bounds, automatically trim or expand to hit the target, then output the final script.
 • Use all fields from the JSON (titles, summaries, sources, publication dates, etc.) without inventing any new events or quotes. Reasonable, widely known context or inferences are allowed.  
 • Do not use headings, lists, bullet points, links, or any markdown.  
 • Create one flowing segment per category, in the JSON’s given order. Within each, cover its articles in the order they appear.  
@@ -331,12 +355,52 @@ print("Wrote generated podcast script to podcast_script.txt")
 with open("podcast_script.txt", "r", encoding="utf-8") as f:
     text = f.read()
 
+# Get the voice recording / text to speech
 with client.audio.speech.with_streaming_response.create(
     model = "gpt-4o-mini-tts",
-    voice = "coral",
+    voice = voice_map[chosen_voice],
     input = script,
     instructions = "Read the script of a podcast.",
+    speed = speed_map[chosen_speed]
 ) as response:
     response.stream_to_file(speech_file_path)
 
 print("Saved podcast_audio.mp3")
+
+# Summarize podcast
+response = client.responses.create(
+    model = "gpt-4o-mini",
+    instructions = "Summarize the input in a few sentences very clearly.",
+    input = script
+)
+with open("podcast_summary.txt", "w", encoding = "utf-8") as f:
+    f.write(response.output_text)
+
+if chosen_keywords:
+    items = ", ".join(chosen_keywords)
+    label = "keyword"
+else:
+    items = ", ".join(chosen_categories)
+    label = "category"
+
+dalle_prompt = (
+    "Minimalist flat-design illustration on a plain white background: "
+    "center a sleek podcast microphone icon; "
+    f"add exactly one simple line‑art icon for each {label} ({items}), "
+    "place these icons very close around the base of the microphone with plenty of white space; "
+    "use vibrant accent colors; no text or words."
+)
+
+# Create cover image
+img = client.images.generate(
+    model="dall-e-3",
+    prompt = dalle_prompt,
+    n = 1,
+    size = "1024x1024",
+    response_format = "b64_json",
+    style = "vivid"
+)
+
+image_bytes = base64.b64decode(img.data[0].b64_json)
+with open("output.png", "wb") as f:
+    f.write(image_bytes)
