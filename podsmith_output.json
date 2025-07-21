@@ -24,12 +24,12 @@
     ],
     "start_date": "2025-07-07",
     "end_date": "2025-07-21",
-    "interval_days": "14 days",
+    "range_days": "14 days",
     "podcast_length_min": 5,
     "speech_speed": "Normal",
     "voice": "ballad",
     "results_reported": 31,
-    "generated_at": "2025-07-21T22:59:03.841432+00:00"
+    "generated_at": "2025-07-21T23:30:14.241351+00:00"
   },
   "articles/output": {
     "Technology": {

@@ -350,10 +350,35 @@ script = response.output_text
 with open("podcast_script.txt", "w", encoding = "utf-8") as f:
     f.write(response.output_text)
 
-print("Wrote generated podcast script to podcast_script.txt")
+print("Saved podcast_script.txt")
 
 with open("podcast_script.txt", "r", encoding="utf-8") as f:
     text = f.read()
+
+# Summarize podcast
+response = client.responses.create(
+    model = "gpt-4o-mini",
+    instructions = "Summarize the input in a few sentences very clearly.",
+    input = script
+)
+with open("podcast_summary.txt", "w", encoding = "utf-8") as f:
+    f.write(response.output_text)
+print("Saved podcast_summary.txt")
+
+# Create podcast title
+title_resp = client.responses.create(
+    model = "gpt-4o-mini",
+    instructions = (
+        "Create a concise, compelling podcast episode title (max 30 characters) "
+        "based on the following script."
+        "No quotation marks; return only the title."
+    ),
+    input = script
+)
+episode_title = title_resp.output_text.strip()
+with open("podcast_title.txt", "w", encoding="utf-8") as f:
+    f.write(episode_title)
+print("Saved podcast_title.txt")
 
 # Get the voice recording / text to speech
 with client.audio.speech.with_streaming_response.create(
@@ -367,15 +392,7 @@ with client.audio.speech.with_streaming_response.create(
 
 print("Saved podcast_audio.mp3")
 
-# Summarize podcast
-response = client.responses.create(
-    model = "gpt-4o-mini",
-    instructions = "Summarize the input in a few sentences very clearly.",
-    input = script
-)
-with open("podcast_summary.txt", "w", encoding = "utf-8") as f:
-    f.write(response.output_text)
-
+# Create cover image
 if chosen_keywords:
     items = ", ".join(chosen_keywords)
     label = "keyword"
@@ -390,10 +407,8 @@ dalle_prompt = (
     "place these icons very close around the base of the microphone with plenty of white space; "
     "use vibrant accent colors; no text or words."
 )
-
-# Create cover image
 img = client.images.generate(
-    model="dall-e-3",
+    model = "dall-e-3",
     prompt = dalle_prompt,
     n = 1,
     size = "1792x1024",
@@ -402,5 +417,6 @@ img = client.images.generate(
 )
 
 image_bytes = base64.b64decode(img.data[0].b64_json)
-with open("output.png", "wb") as f:
+with open("cover_image.png", "wb") as f:
     f.write(image_bytes)
+print("Saved cover_image.png")
