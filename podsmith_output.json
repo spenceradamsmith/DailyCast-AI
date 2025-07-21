@@ -1,5 +1,5 @@
 {
-  "meta": {
+  "settings/input": {
     "categories": [
       "Technology",
       "Sports"
@@ -22,14 +22,14 @@
       "Bleacher Report",
       "talkSPORT"
     ],
-    "start_date": "2025-07-06",
-    "end_date": "2025-07-20",
+    "start_date": "2025-07-07",
+    "end_date": "2025-07-21",
     "requested_interval_days": "14 days",
-    "total_results_reported": 53,
+    "total_results_reported": 52,
     "filtered_results_reported": 29,
-    "generated_at_utc": "2025-07-20T20:10:53.074261+00:00"
+    "generated_at_utc": "2025-07-21T02:28:54.464108+00:00"
   },
-  "artices": {
+  "articles/output": {
     "Technology": {
       "Tesla": [
         {
@@ -331,7 +331,7 @@
       ]
     }
   },
-  "grouped_counts": {
+  "group article counts": {
     "Technology": {
       "Tesla": 11,
       "Apple": 16

@@ -6,10 +6,15 @@ from dotenv import load_dotenv
 from datetime import datetime, timedelta, timezone
 from collections import defaultdict
 from difflib import SequenceMatcher
+from pathlib import Path
+from openai import OpenAI
 
 load_dotenv()
 NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
-OPENAI_KEY = os.getenv("OPENAI_KEY")
+client = OpenAI(
+    api_key = os.getenv("OPENAI_KEY")
+)
+speech_file_path = Path(__file__).parent / "speech.mp3"
 
 # Mapping categories to source names
 categories = {
@@ -78,15 +83,8 @@ source_display_names = {
 chosen_categories = ["Technology", "Sports"]
 chosen_keywords = ["Tesla", "Apple", "Knicks"]
 chosen_politics = "Center"
-chosen_time = "5 minutes"
-chosen_speed = "Normal"
-speed_map = {
-    "Slow": 0.75,
-    "Normal": 1,
-    "Fast": 1.25,
-    "Faster": 1.5,
-    "Very Fast": 2,
-}
+chosen_time = 5
+chosen_tone = "None"
 chosen_time_interval = "14 days"
 interval_map = {
     "2 days": 2,
@@ -94,6 +92,9 @@ interval_map = {
     "7 days": 7,
     "14 days": 14,
 }
+chosen_total_words = chosen_time * 178
+low_bound_words = int(chosen_total_words * 0.95)
+high_bound_words = int(chosen_total_words * 1.05)
 time_difference = interval_map.get(chosen_time_interval, 0)
 today = datetime.now(timezone.utc)
 start_dt = today - timedelta(days = time_difference)
@@ -202,7 +203,7 @@ def to_date(s):
 
 # Output
 output = {
-    "meta": {
+    "settings/input": {
         "categories": chosen_categories,
         "keywords": chosen_keywords,
         "politics": chosen_politics,
@@ -278,8 +279,8 @@ for cat in chosen_categories:
             kw: kwdict[kw] for kw in sorted(kwdict.keys(), key = keyword_order_key)
         }
 
-output["artices"] = ordered_grouped
-output["grouped_counts"] = {
+output["articles/output"] = ordered_grouped
+output["group article counts"] = {
     cat: {kw: len(arts) for kw, arts in kwdict.items()}
     for cat, kwdict in ordered_grouped.items()
 }
@@ -287,7 +288,55 @@ output["grouped_counts"] = {
 with open("podsmith_output.json", "w", encoding = "utf-8") as f:
     json.dump(output, f, indent = 2, ensure_ascii = False)
 
-print(
-    f"Wrote podsmith_output.json with grouped output only "
-    f"(total raw articles {len(final_articles)}, reported {total_reported})"
+system_prompt = f"""
+You are an award‑winning podcast writer. Using only the structured JSON news data (with each top‑level key representing a category and its articles in chronological order), produce one seamless, conversational podcast script in natural paragraphs. Follow these rules absolutely:
+
+• Total length must be between {low_bound_words} and {high_bound_words} words (target ≈{chosen_total_words} words).  
+  – If your draft is under {low_bound_words} words, expand each story with relevant context, expert insight, or connective commentary until you hit the minimum.  
+  – If your draft exceeds {high_bound_words} words, tighten sentences but preserve every key fact.  
+• Use all fields from the JSON (titles, summaries, sources, publication dates, etc.) without inventing any new events or quotes. Reasonable, widely known context or inferences are allowed.  
+• Do not use headings, lists, bullet points, links, or any markdown.  
+• Create one flowing segment per category, in the JSON’s given order. Within each, cover its articles in the order they appear.  
+• Open with a concise, attention‑grabbing hook that previews the episode’s top stories and time frame.  
+• Employ smooth, conversational transitions between segments (e.g., “Now, let’s turn to our next story…”).  
+• End with a brief sign‑off and a teaser for tomorrow’s episode.  
+• Write entirely in natural, spoken‑style paragraphs—ready for recording.
+
+Output only the raw script text.
+"""
+
+user_prompt = json.dumps(output, indent = 2)
+
+# 4. Save to a .txt file
+full_prompt = system_prompt + "\n\n" + user_prompt
+with open("podcast_prompt.txt", "w", encoding = "utf-8") as f:
+    f.write(full_prompt)
+with open("podcast_prompt.txt", "r", encoding = "utf-8") as f:
+    full_prompt = f.read()
+
+# 3. Call the API
+response = client.responses.create(
+    model = "gpt-4o-mini",
+    instructions = system_prompt,
+    input = user_prompt
 )
+
+script = response.output_text
+# 4. Extract and save the script
+with open("podcast_script.txt", "w", encoding = "utf-8") as f:
+    f.write(response.output_text)
+
+print("Wrote generated podcast script to podcast_script.txt")
+
+with open("podcast_script.txt", "r", encoding="utf-8") as f:
+    text = f.read()
+
+with client.audio.speech.with_streaming_response.create(
+    model = "gpt-4o-mini-tts",
+    voice = "coral",
+    input = script,
+    instructions = "Read the script of a podcast.",
+) as response:
+    response.stream_to_file(speech_file_path)
+
+print("Saved podcast_audio.mp3")
