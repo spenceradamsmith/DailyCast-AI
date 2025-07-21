@@ -28,8 +28,8 @@
     "podcast_length_min": 5,
     "speech_speed": "Normal",
     "voice": "ballad",
-    "results_reported": 29,
-    "generated_at": "2025-07-21T05:33:02.999466+00:00"
+    "results_reported": 31,
+    "generated_at": "2025-07-21T22:59:03.841432+00:00"
   },
   "articles/output": {
     "Technology": {
@@ -143,6 +143,26 @@
           "url": "https://www.theverge.com/news/709934/bo-turbo-electric-scooter-100-mph-speed",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Goodwood_04.jpg?quality=90&strip=all&crop=0%2C10.739558379199%2C100%2C78.520883241603&w=1200",
           "publishedAt": "2025-07-18"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Former Tesla president discloses the secret to scaling a company | TechCrunch",
+          "description": "“We scaled Tesla in 30 months from $2 billion in revenue to $20 billion in revenue,” said Jon McNeil, who is now co-founder and CEO of DVx Ventures.",
+          "content": "Few companies have grown as quickly as Tesla, especially just before and after the company launched the Model 3, its first affordable EV. We scaled Tesla in 30 months from $2 billion in revenue to $… [+2045 chars]",
+          "url": "https://techcrunch.com/2025/07/20/former-tesla-president-discloses-the-secret-to-scaling-a-company/",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1422219759.jpg?resize=1200,800",
+          "publishedAt": "2025-07-20"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Tesla loses its charm for India's loyalists — even as Musk finally delivers | TechCrunch",
+          "description": "Tesla's debut in India has not convinced its early backers, who waited for the company to enter the market for nearly a decade.",
+          "content": "Tesla opened the doors to its first showroom in India this week, and among the first visitors was Vishal Gondal a longtime Tesla and Elon Musk loyalist who pre-booked a Model 3 in April 2016, just ho… [+10318 chars]",
+          "url": "https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/tesla-india-store.jpg?resize=1200,800",
+          "publishedAt": "2025-07-20"
         }
       ],
       "Apple": [
@@ -335,7 +355,7 @@
   },
   "group article counts": {
     "Technology": {
-      "Tesla": 11,
+      "Tesla": 13,
       "Apple": 16
     },
     "Sports": {

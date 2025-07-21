@@ -107,8 +107,8 @@ wpm_map = {
     "Faster": 267,
     "Very Fast": 356,
 }
-chosen_time_interval = "14 days"
-interval_map = {
+chosen_time_range = "14 days"
+range_map = {
     "2 days": 2,
     "3 days": 3,
     "7 days": 7,
@@ -117,7 +117,7 @@ interval_map = {
 chosen_total_words = chosen_time * wpm_map[chosen_speed]
 low_bound_words = int(chosen_total_words * 0.99)
 high_bound_words = int(chosen_total_words * 1.01)
-time_difference = interval_map.get(chosen_time_interval, 0)
+time_difference = range_map.get(chosen_time_range, 0)
 today = datetime.now(timezone.utc)
 start_dt = today - timedelta(days = time_difference)
 start_date = start_dt.strftime('%Y-%m-%d')
@@ -232,7 +232,7 @@ output = {
         "sources": display_sources,
         "start_date": start_date,
         "end_date": end_date,
-        "interval_days": chosen_time_interval,
+        "range_days": chosen_time_range,
         "podcast_length_min": chosen_time,
         "speech_speed": chosen_speed,
         "voice": voice_map[chosen_voice],
@@ -396,7 +396,7 @@ img = client.images.generate(
     model="dall-e-3",
     prompt = dalle_prompt,
     n = 1,
-    size = "1024x1024",
+    size = "1792x1024",
     response_format = "b64_json",
     style = "vivid"
 )
