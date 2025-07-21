@@ -306,14 +306,14 @@ Output only the raw script text.
 
 user_prompt = json.dumps(output, indent = 2)
 
-# 4. Save to a .txt file
+# Save to a .txt file
 full_prompt = system_prompt + "\n\n" + user_prompt
 with open("podcast_prompt.txt", "w", encoding = "utf-8") as f:
     f.write(full_prompt)
 with open("podcast_prompt.txt", "r", encoding = "utf-8") as f:
     full_prompt = f.read()
 
-# 3. Call the API
+# Call the API
 response = client.responses.create(
     model = "gpt-4o-mini",
     instructions = system_prompt,
@@ -321,7 +321,8 @@ response = client.responses.create(
 )
 
 script = response.output_text
-# 4. Extract and save the script
+
+# Extract and save the script
 with open("podcast_script.txt", "w", encoding = "utf-8") as f:
     f.write(response.output_text)
 
