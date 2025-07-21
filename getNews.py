@@ -93,8 +93,8 @@ interval_map = {
     "14 days": 14,
 }
 chosen_total_words = chosen_time * 178
-low_bound_words = int(chosen_total_words * 0.95)
-high_bound_words = int(chosen_total_words * 1.05)
+low_bound_words = int(chosen_total_words * 0.99)
+high_bound_words = int(chosen_total_words * 1.01)
 time_difference = interval_map.get(chosen_time_interval, 0)
 today = datetime.now(timezone.utc)
 start_dt = today - timedelta(days = time_difference)
@@ -290,10 +290,9 @@ with open("podsmith_output.json", "w", encoding = "utf-8") as f:
 
 system_prompt = f"""
 You are an award‑winning podcast writer. Using only the structured JSON news data (with each top‑level key representing a category and its articles in chronological order), produce one seamless, conversational podcast script in natural paragraphs. Follow these rules absolutely:
-
-• Total length must be between {low_bound_words} and {high_bound_words} words (target ≈{chosen_total_words} words).  
-  – If your draft is under {low_bound_words} words, expand each story with relevant context, expert insight, or connective commentary until you hit the minimum.  
-  – If your draft exceeds {high_bound_words} words, tighten sentences but preserve every key fact.  
+You must write **between {low_bound_words} and {high_bound_words} words** (95%–105% of {chosen_total_words}).  
+1. Draft your script normally.  
+2. If the count is outside the bounds, automatically trim or expand to hit the target, then output the final script and updated count.
 • Use all fields from the JSON (titles, summaries, sources, publication dates, etc.) without inventing any new events or quotes. Reasonable, widely known context or inferences are allowed.  
 • Do not use headings, lists, bullet points, links, or any markdown.  
 • Create one flowing segment per category, in the JSON’s given order. Within each, cover its articles in the order they appear.  
