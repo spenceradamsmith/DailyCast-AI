@@ -98,7 +98,7 @@ speed_map = {
     "Normal": 1,
     "Fast": 1.25,
     "Faster": 1.5,
-    "Very Fast": 2,
+    "Very Fast": 1.75,
 }
 wpm_map = {
     "Slow": 134,

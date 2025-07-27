@@ -22,78 +22,18 @@
       "Bleacher Report",
       "talkSPORT"
     ],
-    "start_date": "2025-07-07",
-    "end_date": "2025-07-21",
+    "start_date": "2025-07-13",
+    "end_date": "2025-07-27",
     "range_days": "14 days",
     "podcast_length_min": 5,
     "speech_speed": "Normal",
     "voice": "ballad",
-    "results_reported": 31,
-    "generated_at": "2025-07-21T23:30:14.241351+00:00"
+    "results_reported": 38,
+    "generated_at": "2025-07-27T17:53:30.696104+00:00"
   },
   "articles/output": {
     "Technology": {
       "Tesla": [
-        {
-          "source": "Wired",
-          "primary_category": "Technology",
-          "title": "OpenAI Poaches 4 High-Ranking Engineers From Tesla, xAI, and Meta",
-          "description": "The new hires are joining OpenAI’s scaling team, according to an internal Slack message sent by cofounder Greg Brockman.",
-          "content": "OpenAI has hired four high-profile engineers away from rivals, including David Lau, former vice president of software engineering at Tesla, to join the companys scaling team, WIRED has learned. The n… [+3514 chars]",
-          "url": "https://www.wired.com/story/openai-new-hires-scaling/",
-          "image": "https://media.wired.com/photos/686d03805eae299ccafb3578/191:100/w_1280,c_limit/OpenAI_TopArt.png",
-          "publishedAt": "2025-07-08"
-        },
-        {
-          "source": "Wired",
-          "primary_category": "Technology",
-          "title": "Elon Musk Says Grok Is Coming to Tesla EVs",
-          "description": "Get ready for a few hard right turns.",
-          "content": "Grok is coming to Tesla vehicles very soon. Next week at the latest, Elon Musk stated Thursday in a post on X. The EV brand would catch up with the likes of Mercedes-Benz and Volkswagen, which have a… [+2604 chars]",
-          "url": "https://www.wired.com/story/elon-musk-says-grok-is-coming-to-tesla-evs/",
-          "image": "https://media.wired.com/photos/686fc453919e0eaf669acd27/191:100/w_1280,c_limit/groktopart.png",
-          "publishedAt": "2025-07-10"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Grok is coming to Tesla vehicles 'next week,' says Elon Musk | TechCrunch",
-          "description": "Elon Musk said in a post on X early Thursday morning that Grok – the chatbot from his AI company, xAI – will be coming to Tesla vehicles “very soon.” “Next week at the latest,” he said.",
-          "content": "Elon Musk said in a post on X early Thursday morning that Grok, the chatbot from his AI company, xAI, will be coming to Tesla vehicles very soon. Next week at the latest, he said. The news that G… [+1514 chars]",
-          "url": "https://techcrunch.com/2025/07/10/grok-is-coming-to-tesla-vehicles-next-week-says-elon-musk/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804",
-          "publishedAt": "2025-07-10"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Tesla reportedly close to starting sales in India | TechCrunch",
-          "description": "Tesla may finally start selling its EVs in India with a showroom slated for Mumbai.",
-          "content": "Tesla is nearly ready to start selling its electric vehicles in India, according to Bloomberg News, after years of flirting with the idea. The company is about to open its first showroom in Mumbai an… [+924 chars]",
-          "url": "https://techcrunch.com/2025/07/11/tesla-reportedly-close-to-starting-sales-in-india/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/01/tesla-model-y-juniper-north-america.jpg?resize=1200,850",
-          "publishedAt": "2025-07-11"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Tesla is already trying to expand its Robotaxi service to Arizona | TechCrunch",
-          "description": "Tesla has applied for a permit to test and deploy autonomous vehicles in Arizona. It's also eyeing expansion in Austin, Texas, and California.",
-          "content": "Tesla has applied to test and operate autonomous vehicles in Arizona in a bid to bring its fledgling robotaxi service to the Metro Phoenix area, the states Department of Transportation confirmed to T… [+3988 chars]",
-          "url": "https://techcrunch.com/2025/07/10/tesla-is-already-trying-to-expand-its-robotaxi-service-to-arizona/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
-          "publishedAt": "2025-07-11"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "TechCrunch Mobility: Tesla enters its Grok era, and teens come for robotaxis | TechCrunch",
-          "description": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation.",
-          "content": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation. Sign up here for free just click TechCrunch Mobility! In case you missed my announcement … [+5847 chars]",
-          "url": "https://techcrunch.com/2025/07/11/techcrunch-mobility-tesla-enters-its-grok-era-and-teens-come-for-robotaxis/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/07/Waymo_teens_3.png?resize=1200,675",
-          "publishedAt": "2025-07-11"
-        },
         {
           "source": "The Verge",
           "primary_category": "Technology",
@@ -163,99 +103,129 @@
           "url": "https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/",
           "image": "https://techcrunch.com/wp-content/uploads/2025/07/tesla-india-store.jpg?resize=1200,800",
           "publishedAt": "2025-07-20"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "Honda and Acura EV owners can now use Tesla Superchargers",
+          "description": "Honda has launched a new EV charging adapter that will allow its all-electric Prologue and Acura ZDX to power up at over 23,500 Tesla Supercharger stations. The $225 adapter lets vehicles equipped with Combined Charging System (CCS) plugs use Tesla’s North Am…",
+          "content": "<ul><li></li><li></li><li></li></ul> A $225 adapter gives Honda Prologue and Acura ZDX owners access to more than 23,000 Tesla Supercharger stations. A $225 adapter gives Honda Prologue and Acura Z… [+2395 chars]",
+          "url": "https://www.theverge.com/news/711472/honda-acura-ev-tesla-supercharger-access-adapter",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/IMG_2931.webp?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+          "publishedAt": "2025-07-22"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Lucid Air owners will be able to use Tesla Superchargers from July 31 | TechCrunch",
+          "description": "Owners of the Lucid Air sedan will be able to charge their luxury EVs at thousands of Tesla Supercharger stations in North America starting July 31. But there is a notable caveat: Lucid Air vehicles won't be able to charge as fast as Tesla vehicles.",
+          "content": "Owners of the Lucid Air sedan will be able to charge their luxury EVs at thousands of Tesla Supercharger stations in North America starting July 31, nearly two years since the automakers reached an a… [+2382 chars]",
+          "url": "https://techcrunch.com/2025/07/22/lucid-air-owners-will-be-able-to-use-tesla-superchargers-starting-july-31/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/lucid-tesla.jpg?resize=1200,900",
+          "publishedAt": "2025-07-22"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Lucid Air owners will soon be able to use Tesla Superchargers — but there's a catch | TechCrunch",
+          "description": "Owners of the Lucid Air sedan will be able to charge their luxury EVs at thousands of Tesla Supercharger stations in North America starting July 31. But there is a notable caveat: Lucid Air vehicles won't be able to charge as fast as Tesla vehicles.",
+          "content": "Owners of the Lucid Air sedan will be able to charge their luxury EVs at thousands of Tesla Supercharger stations in North America starting July 31, nearly two years since the automakers reached an a… [+2382 chars]",
+          "url": "https://techcrunch.com/2025/07/22/lucid-air-owners-will-soon-be-able-to-use-tesla-superchargers-but-theres-a-catch/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/lucid-tesla.jpg?resize=1200,900",
+          "publishedAt": "2025-07-22"
+        },
+        {
+          "source": "Wired",
+          "primary_category": "Technology",
+          "title": "A $17 Hotdog and a Humanoid Robot Serving Popcorn: WIRED's Day at the Tesla Diner",
+          "description": "WIRED stopped by the new Tesla Diner in Hollywood to talk to people who still stan Elon Musk. \"I want to go to Mars, and he is going to take us,\" one visitor told us.",
+          "content": "Elon definitely snapped, Jamel Bullock says, conveying a compliment of high praise, a cultural colloquialism. A Silverlake-based design creative who works in fashion and tech, Bullock bought a Model … [+3158 chars]",
+          "url": "https://www.wired.com/story/searching-for-humanitys-last-hope-and-a-taste-of-the-future-at-the-tesla-diner/",
+          "image": "https://media.wired.com/photos/68801c376dfe7bb37a06091f/191:100/w_1280,c_limit/GettyImages-2226425544.jpg",
+          "publishedAt": "2025-07-23"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Tesla profits pulled down by falling EV sales and regulatory credits | TechCrunch",
+          "description": "Tesla saw a 17% growth in its services business, but it was not enough to close the gap in falling EV sales, fewer regulatory credits, and a decline in solar and energy storage sales.",
+          "content": "Falling EV sales combined with a lower average selling price, less cash from regulatory credits, and a decline in solar and energy storage revenue took a toll on Tesla’s bottom line in the second qua… [+3618 chars]",
+          "url": "https://techcrunch.com/2025/07/23/tesla-profits-pulled-down-by-falling-ev-sales-and-regulatory-credits/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1200,800",
+          "publishedAt": "2025-07-23"
+        },
+        {
+          "source": "Wired",
+          "primary_category": "Technology",
+          "title": "It Looks Like the Tesla Model Y Refresh Has Bombed",
+          "description": "The high-selling Model Y is crucial for both Elon Musk and Tesla, but a half-hearted reskin of the car hasn’t reversed the company’s sales woes. Would a complete overhaul have been a better bet?",
+          "content": "Tesla did not respond to WIREDs request for comment on this article. For Nagley, it's too early to talk about Tesla failing to survive, but the question is, can they thrive? One of the iron rules ab… [+2724 chars]",
+          "url": "https://www.wired.com/story/it-looks-like-the-tesla-model-y-refresh-has-bombed/",
+          "image": "https://media.wired.com/photos/687ac34fd0967758dfc95a77/191:100/w_1280,c_limit/Model-Y-Refresh-Gear-NewModelY_53.jpg",
+          "publishedAt": "2025-07-23"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "How can Tesla make a cheaper Model Y?",
+          "description": "In an earnings call Wednesday, Tesla CEO Elon Musk \"let the cat out of the bag\": The new, more affordable electric vehicle the company has been touting for over a year, and that has been singled out as the one thing that could pull Tesla out of its sales rut,…",
+          "content": "<ul><li></li><li></li><li></li></ul> Elon Musk finally admitted that Teslas long-promised, more affordable EV is just a stripped-down Model Y. Unsurprisingly, Verge readers had some thoughts. Elon … [+5932 chars]",
+          "url": "https://www.theverge.com/tesla/713026/tesla-cheaper-model-y-stripped-down",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25434354/Screenshot_2024_05_05_at_10.54.59_AM.png?quality=90&strip=all&crop=0%2C2.7955638884958%2C100%2C94.408872223008&w=1200",
+          "publishedAt": "2025-07-24"
+        },
+        {
+          "source": "Wired",
+          "primary_category": "Technology",
+          "title": "Tesla Readies a Taxi Service in San Francisco—but Not With Robotaxis",
+          "description": "The electric carmaker informed California that it will operate a limited public taxi service. But it’s not legally allowed to do this with self-driving cars.",
+          "content": "Tesla has publicly staked its future on its robotaxis. Now the company is planning to launch a public car service in the San Francisco Bay Area. Tesla is calling it a robotaxi service, but legally, t… [+2947 chars]",
+          "url": "https://www.wired.com/story/tesla-robotaxi-san-francisco-bay-area/",
+          "image": "https://media.wired.com/photos/6883dd17961105cb77fcf552/191:100/w_1280,c_limit/Tesla-Robotaxi-SF-Gear-2220716767.jpg",
+          "publishedAt": "2025-07-25"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Tesla is reportedly behind on its pledge to build 5,000 Optimus bots this year | TechCrunch",
+          "description": "Tesla is reportedly behind on its pledge to build 5,000 Optimus bots this year | TechCrunchtechcrunch.com",
+          "content": "Tesla is well behind the pace needed to meet its earlier stated goal of producing at least 5,000 Optimus humanoid robots this year, The Information reports. Nearly eight months into 2025, and the num… [+1009 chars]",
+          "url": "https://techcrunch.com/2025/07/25/tesla-is-reportedly-behind-on-its-pledge-to-build-5000-optimus-bots-this-year/",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/12/musk-promises-2024.jpg?resize=1200,800",
+          "publishedAt": "2025-07-25"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Tesla is reportedly bringing a limited version of its robotaxi service to San Francisco | TechCrunch",
+          "description": "Tesla is reportedly bringing a limited version of its robotaxi service to San Francisco | TechCrunchtechcrunch.com",
+          "content": "Tesla is launching an even-more-limited version of its early robotaxi service in San Francisco this weekend, according to Business Insider, after an initial rollout began last month in Austin, Texas.… [+2055 chars]",
+          "url": "https://techcrunch.com/2025/07/25/tesla-is-reportedly-bringing-a-limited-version-of-its-robotaxi-service-to-san-francisco/",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2159532501.jpg?resize=1200,801",
+          "publishedAt": "2025-07-25"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Tesla wants to bring its robotaxis to San Francisco. Here is what's standing in the way. | TechCrunch",
+          "description": "Tesla wants to bring its robotaxis to San Francisco. Here is what's standing in the way. | TechCrunchtechcrunch.com",
+          "content": "Tesla is launching an even-more-limited version of its early robotaxi service in San Francisco this weekend, according to Business Insider, after an initial rollout began last month in Austin, Texas.… [+3857 chars]",
+          "url": "https://techcrunch.com/2025/07/25/tesla-wants-to-bring-its-robotaxis-to-san-francisco-heres-whats-standing-in-the-way/",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2159532501.jpg?resize=1200,801",
+          "publishedAt": "2025-07-25"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Tesla vet says that 'reviewing real products' — not mockups — is the key to staying innovative | TechCrunch",
+          "description": "“No slides was our first rule,” McNeil told the audience earlier this month at TC All Stage in Boston. “You have to be reviewing real product.”",
+          "content": "GMs EVs have been on a roll lately. After selling just the Chevy Bolt for years, a wave of new models now up to 17 fully electrified vehicles has pushed the automaker into second place in the U.S. be… [+3328 chars]",
+          "url": "https://techcrunch.com/2025/07/26/tesla-vet-says-that-reviewing-real-products-not-mockups-is-the-key-to-staying-innovative/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/54657606368_03394f3070_o.jpg?resize=1200,800",
+          "publishedAt": "2025-07-26"
         }
       ],
       "Apple": [
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "Apple just added more frost to its Liquid Glass design",
-          "description": "Apple’s new Liquid Glass design language just got a little more… frosted. In the third iOS 26 developer beta, Apple dialed back the transparency of navigation bars, buttons, and tabs that once allowed you to clearly see the content beneath them. Apple already…",
-          "content": "The latest iOS 26 developer beta makes Apples new UI a little less transparent and easier to read. Apples new Liquid Glass design language just got a little more frosted. In the third iOS 26 develop… [+1090 chars]",
-          "url": "https://www.theverge.com/news/700066/apple-liquid-glass-frosted-ios-26-developer-beta",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/apple-liquid-glass.jpg?quality=90&strip=all&crop=0%2C3.4216870907457%2C100%2C93.156625818509&w=1200",
-          "publishedAt": "2025-07-07"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Apple appeals EU’s €500M fine over App Store payment restraints",
-          "description": "Apple has filed appealed the EU's decision to fine the company €500 million (about $580 million) for not complying with competition rules.",
-          "content": "Apple on Monday filed an appeal against the EU’s decision to fine the company 500 million (about $580 million) for not complying with rules that mandate companies to let developers steer users outsid… [+973 chars]",
-          "url": "https://techcrunch.com/2025/07/07/apple-appeals-eus-e500m-fine-over-app-store-payment-restraints/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
-          "publishedAt": "2025-07-07"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Apple COO Jeff Williams to step down later this month",
-          "description": "Jeff Williams, Apple’s chief operating officer, is stepping down from his role later this month.",
-          "content": "Jeff Williams, Apples chief operating officer, is stepping down from his role later this month, as announced by the company on Tuesday. Sabih Khan, who currently serves as the senior vice president o… [+712 chars]",
-          "url": "https://techcrunch.com/2025/07/08/apple-coo-jeff-williams-to-step-down-later-this-month/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/07/jeff_williams.png.og_.jpg?w=1200",
-          "publishedAt": "2025-07-08"
-        },
-        {
-          "source": "Wired",
-          "primary_category": "Technology",
-          "title": "Best Prime Day Apple Deals on iPads, AirPods, and MacBooks (2025)",
-          "description": "The best Prime Day Apple deals range from laptops to earbuds. Whether you're looking to invest in a new device or replace an old one, now is the time to shop.",
-          "content": "If you have one Apple product, you usually have them allwhether that's AirPods, an iPhone, an iPad, the Apple Watch, or the ubiquitous MacBook. One, or all of them, probably needs updating at any giv… [+2674 chars]",
-          "url": "https://www.wired.com/story/prime-day-apple-deals-2025/",
-          "image": "https://media.wired.com/photos/686b639b38087d19315e9e5b/191:100/w_1280,c_limit/4-%20Apple%20Deals.mp4",
-          "publishedAt": "2025-07-08"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "One of Tim Cook’s possible successors is leaving Apple",
-          "description": "Apple has announced that Sabih Khan, the company’s vice president of operations, will take over for Jeff Williams as chief operating officer later this month. In an announcement on Tuesday, Apple said the move is part of a “long-planned succession” that has W…",
-          "content": "Jeff Williams will retire later this year. | Image: David Paul Morris/Bloomberg via Getty Images Apple has announced that Sabih Khan, the company’s vice president of operations, will take over for… [+1048 chars]",
-          "url": "https://www.theverge.com/news/701576/apple-coo-jeff-williams-retiring-sabih-khan",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1973655840.jpg?quality=90&strip=all&crop=0%2C10.664146549656%2C100%2C78.671706900689&w=1200",
-          "publishedAt": "2025-07-08"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "The best Apple Watch Prime Day deals",
-          "description": "Apple typically doesn’t discount its own hardware, which makes Prime Day deals on its gear so appealing. We’ve rounded up the best Apple Watch Prime Day deals, and we’re particularly struck by the discount on the Apple Watch Series 10. The 42mm aluminum GPS m…",
-          "content": "Apple typically doesn’t discount its own hardware, which makes Prime Day deals on its gear so appealing. We’ve rounded up the best Apple Watch Prime Day deals, and we’re particularly struck by the di… [+3165 chars]",
-          "url": "https://www.theverge.com/tech/698764/best-apple-watch-prime-day-deals-sale-2025",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623076/247270_Apple_watch_series_10_AKrales_0557.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "publishedAt": "2025-07-09"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Apple looks to bid on becoming US home for Formula 1",
-          "description": "Formula 1 could have a new U.S. streaming service home soon. Apple is in talks to purchase the rights as it looks to further invest in live sports, the Financial Times reports. Apple already has deals for Major League Baseball and Major League Soccer. ESPN’s …",
-          "content": "Formula 1 could have a new U.S. streaming service home soon. Apple is in talks to purchase the rights as it looks to further invest in live sports, the Financial Times reports. Apple already has dea… [+602 chars]",
-          "url": "https://techcrunch.com/2025/07/09/apple-looks-to-bid-on-becoming-us-home-for-formula-1/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223835102.jpg?w=1024",
-          "publishedAt": "2025-07-09"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "Murderbot is getting a season 2 on Apple TV Plus",
-          "description": "Apple TV Plus’ adaptation of Martha Wells’ Murderbot Diaries has been one of this year’s surprisingly great sci-fi series, and the streamer has plans to keep the story going with a new batch of episodes. Ahead of Murderbot‘s season 1 finale out July 11th, App…",
-          "content": "The renewal comes just ahead of the shows season 1 finale. Apple TV Plus adaptation of Martha Wells Murderbot Diaries has been one of this years surprisingly great sci-fi series, and the streamer ha… [+1252 chars]",
-          "url": "https://www.theverge.com/news/704047/murderbot-season-2-apple-tv-plus",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Murderbot_Photo_010804.jpg?quality=90&strip=all&crop=10.059114583333%2C0%2C79.881770833333%2C100&w=1200",
-          "publishedAt": "2025-07-10"
-        },
-        {
-          "source": "Wired",
-          "primary_category": "Technology",
-          "title": "22 Best Prime Day Apple Deals—Including 40% Off AirPods",
-          "description": "The best Prime Day Apple deals range from laptops to earbuds. Whether you’re looking to invest in a new device or replace an old one, now is the time to shop.",
-          "content": "If you have one Apple product, you usually have them allwhether that's AirPods, an iPhone, an iPad, the Apple Watch, or the ubiquitous MacBook. One, or all of them, probably needs updating at any giv… [+9250 chars]",
-          "url": "https://www.wired.com/story/prime-day-apple-deals-2025-3/",
-          "image": "https://media.wired.com/photos/686cfbbf58d6a014028d3564/191:100/w_1280,c_limit/4.jpg",
-          "publishedAt": "2025-07-11"
-        },
         {
           "source": "The Verge",
           "primary_category": "Technology",
@@ -325,41 +295,134 @@
           "url": "https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/",
           "image": "https://media.wired.com/photos/687a7bee93808b4bb00b60b6/191:100/w_1280,c_limit/Apple-WWDC25-iOS-26-hero-250609.jpg",
           "publishedAt": "2025-07-18"
-        }
-      ]
-    },
-    "Sports": {
-      "Knicks": [
-        {
-          "source": "ESPN",
-          "primary_category": "Sports",
-          "title": "Brown brings 'championship pedigree' to Knicks",
-          "description": "The Knicks officially hired Mike Brown as their head coach, turning to the two-time NBA Coach of the Year after firing Tom Thibodeau.",
-          "content": "NEW YORK -- The New York Knicks hired Mike Brown on Monday, turning to the two-time NBA Coach of the Year after firing Tom Thibodeau. \"After a thorough and extensive search process, we are pleased t… [+2131 chars]",
-          "url": "https://www.espn.com/nba/story/_/id/45690579/new-york-knicks-officially-hire-mike-brown-head-coach",
-          "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0904%2Fr1381972_1296x729_16%2D9.jpg",
-          "publishedAt": "2025-07-07"
         },
         {
-          "source": "ESPN",
-          "primary_category": "Sports",
-          "title": "Brown to 'embrace' Knicks' high expectations",
-          "description": "Mike Brown said he is ready to \"embrace the expectations\" of taking over a Knicks team looking to build on their best finish in 25 years last season.",
-          "content": "NEW YORK -- In his introductory news conference, new Knicks coach Mike Brown said he was making a point to take his fiancée to a handful of the city's restaurants upon getting the job. That was nece… [+3344 chars]",
-          "url": "https://www.espn.com/nba/story/_/id/45696841/new-coach-mike-brown-embrace-knicks-high-expectations",
-          "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0708%2Fr1516557_1024x576_16%2D9.jpg",
-          "publishedAt": "2025-07-08"
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "UK wants to weasel out of demand for Apple encryption back door",
+          "description": "The UK government is reportedly set to back down from its battle with Apple to obtain back door access to secure user data protected by the company’s iCloud encryption. Victory hasn’t come through the courts, or government figures changing their minds on priv…",
+          "content": "US government opposition has the UKs back against the wall. The UK government is reportedly set to back down from its battle with Apple to obtain back door access to secure user data protected by th… [+1435 chars]",
+          "url": "https://www.theverge.com/news/710504/uk-apple-encryption-back-door-icloud-adp-backing-down",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS498_ENCRYPTION_CVIRGINIA_C.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "publishedAt": "2025-07-21"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "Apple Intelligence tries summarizing news again after botching BBC stories",
+          "description": "Apple’s fourth iOS 26 developer beta has reintroduced Apple Intelligence-powered notification summaries for news and entertainment apps, MacRumors reports. The company temporarily switched off the feature earlier this year after botching some headlines and pr…",
+          "content": "<ul><li></li><li></li><li></li></ul> Apples latest iOS 26 developer beta brings back AI-summarized notifications for news apps. Apples latest iOS 26 developer beta brings back AI-summarized notific… [+2495 chars]",
+          "url": "https://www.theverge.com/news/711678/apple-ios-26-beta-ai-notification-summaries-news-liquid-glass",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK071_apple_K_Radtke_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "publishedAt": "2025-07-22"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "Apple brings its online retail store to Saudi Arabia",
+          "description": "Apple has launched its online store in Saudi Arabia, according to an announcement on Tuesday. The move, set to be followed by physical retail locations, will let users in the country browse through and purchase Apple products on its site for the first time. …",
+          "content": "<ul><li></li><li></li><li></li></ul> Big Tech has invested billions into Saudi Arabia in recent months. Big Tech has invested billions into Saudi Arabia in recent months. by Emma RothClose Emma … [+2350 chars]",
+          "url": "https://www.theverge.com/news/711672/apple-saudi-arabia-online-store-launch",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/DSC08442.webp?quality=90&strip=all&crop=0,11.073590377392,100,77.852819245217",
+          "publishedAt": "2025-07-22"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Apple alerted Iranians to iPhone spyware attacks, say researchers",
+          "description": "Researchers say Apple sent out threat notifications to several Iranians in recent months, saying their iPhones had been hacked. Iran is likely behind the attacks.",
+          "content": "Apple notified more than a dozen Iranians in recent months that their iPhones had been targeted with government spyware, according to security researchers. Miian Group, a digital rights organization… [+3297 chars]",
+          "url": "https://techcrunch.com/2025/07/22/apple-alerted-iranians-to-iphone-spyware-attacks-say-researchers/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/iran-flag-iranians-with-phones.jpg?resize=1200,853",
+          "publishedAt": "2025-07-22"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "UK targets Apple and Google’s mobile platforms for regulation",
+          "description": "The move is designed to create a more open, competitive environment for the app economy and user choice.",
+          "content": "The U.K.’s Competition and Markets Authority (CMA) announced on Wednesday a proposal that would give Apple and Google’s mobile platforms “strategic market status” — a designation that allows the regu… [+974 chars]",
+          "url": "https://techcrunch.com/2025/07/23/uk-targets-apple-and-googles-mobile-platforms-for-regulation/",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675",
+          "publishedAt": "2025-07-23"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Apple launches $19.99 monthly AppleCare One subscription with coverage for three devices",
+          "description": "Until now, people have had to enroll their Apple devices into separate AppleCare+ plans if they wanted additional coverage for their products beyond the standard warranty.",
+          "content": "Apple announced on Wednesday that it’s launching AppleCare One, a new $19.99 monthly subscription plan that includes coverage for up to three products. Customers can choose to add protection for more… [+2141 chars]",
+          "url": "https://techcrunch.com/2025/07/23/apple-launches-19-99-monthly-applecare-one-subscription-with-coverage-for-three-devices/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/AppleCare-One_Hero.png?resize=1200,675",
+          "publishedAt": "2025-07-23"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "Apple launches $20 subscription service to protect your gadgets",
+          "description": "Apple is announcing a new AppleCare subscription called AppleCare One that lets you cover multiple products with a single plan. For $19.99 per month, AppleCare One covers up to three products, and tacking on a new product costs $5.99 per month each. With the …",
+          "content": "<ul><li></li><li></li><li></li></ul> AppleCare One will also let you cover products that are up to four years old. AppleCare One will also let you cover products that are up to four years old. by … [+2471 chars]",
+          "url": "https://www.theverge.com/news/711972/apple-applecare-one-subscription-multiple-devices",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Apple-AppleCare-One-hero_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C3.4824111300451%2C100%2C93.03517773991&w=1200",
+          "publishedAt": "2025-07-23"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "Apple releases public betas of its new software updates with Liquid Glass",
+          "description": "Apple has officially released the first public betas for its next major software updates. The list of new betas includes iOS 26, iPadOS 26, macOS Tahoe 26, watchOS 26, and tvOS 26. The biggest thing you’ll notice about the software updates is that they have a…",
+          "content": "<ul><li></li><li></li><li></li></ul> The public betas for iOS 26, macOS Tahoe 26, watchOS 26, and more are here. The public betas for iOS 26, macOS Tahoe 26, watchOS 26, and more are here. by Jay… [+2097 chars]",
+          "url": "https://www.theverge.com/news/695142/apple-public-betas-liquid-glass-ios-macos-26",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/lcimg-340beb97-4c1a-48e8-9883-41f7c43a2b9e.jpeg?quality=90&strip=all&crop=0%2C10.597538331207%2C100%2C78.804923337586&w=1200",
+          "publishedAt": "2025-07-24"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Apple iOS 26 public beta arrives",
+          "description": "Apple released iOS 26 in public beta. Here's everything you can expect, from the Liquid Glass design to features powered by Apple Intelligence.",
+          "content": "Apple released the first public beta of its new mobile operating system, iOS 26, featuring its “Liquid Glass” user interface and improved AI features. The release allows early adopters to get their h… [+4591 chars]",
+          "url": "https://techcrunch.com/2025/07/24/apple-ios-26-public-beta-arrives/",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/06/Apple-WWDC25-iOS-26-hero-250609_big.jpg.large_.jpg?w=980",
+          "publishedAt": "2025-07-24"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "Apple beta season is here",
+          "description": "Hi, friends! Welcome to Installer No. 91, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, how is summer more than a month over already, and also you can read all the old editions at the Installer homepage.) This week, I…",
+          "content": "<ul><li></li><li></li></ul> Plus: a retro-styled PC, phone cases, DDR in 2025, and more. Plus: a retro-styled PC, phone cases, DDR in 2025, and more. by Jay PetersClose Jay Peters Posts from th… [+13640 chars]",
+          "url": "https://www.theverge.com/installer-newsletter/714227/apple-ios-26-beta-retro95-pc-phone-cases-ddr-installer",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/installer_cba3c2.png?quality=90&strip=all&crop=0%2C10.788682187813%2C100%2C78.422635624373&w=1200",
+          "publishedAt": "2025-07-25"
+        },
+        {
+          "source": "The Verge",
+          "primary_category": "Technology",
+          "title": "Breaking Bad creator’s new sci-fi show hits Apple in November",
+          "description": "As promised, Apple has finally revealed Pluribus, a new show from Breaking Bad creator Vince Gilligan that’s coming to Apple TV Plus. In addition to a very brief teaser involving some gross donut behavior, the streamer also confirmed that the show will premie…",
+          "content": "<ul><li></li><li></li><li></li></ul> Apples science fiction lineup continues to grow with the addition of Vince Gilligans Pluribus. Apples science fiction lineup continues to grow with the addition… [+2488 chars]",
+          "url": "https://www.theverge.com/news/714080/pluribus-trailer-date-apple-tv-plus",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Pluribus_Photo_010101.jpg?quality=90&strip=all&crop=10.108854166667%2C0%2C79.782291666667%2C100&w=1200",
+          "publishedAt": "2025-07-25"
+        },
+        {
+          "source": "TechCrunch",
+          "primary_category": "Technology",
+          "title": "Apple broadens App Store’s age rating system",
+          "description": "Apple has expanded its age rating system to include 13+, 16+, and 18+ ratings, in addition to the existing ratings for younger users.",
+          "content": "Apple is expanding its age rating system for apps. The company on Thursday said it has updated its age rating system to add 13+, 16+, and 18+ ratings to the existing slate of 4+ and 9+ ratings, and r… [+3430 chars]",
+          "url": "https://techcrunch.com/2025/07/25/apple-broadens-app-stores-age-rating-system/",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?resize=1200,675",
+          "publishedAt": "2025-07-25"
         }
       ]
     }
   },
   "group article counts": {
     "Technology": {
-      "Tesla": 13,
-      "Apple": 16
-    },
-    "Sports": {
-      "Knicks": 2
+      "Tesla": 19,
+      "Apple": 19
     }
   }
 }
