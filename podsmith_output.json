@@ -11,7 +11,7 @@
     "sources": [
       "Breitbart News",
       "Fox News",
-      "cnnn",
+      "CNN",
       "Associated Press",
       "ESPN",
       "Fox Sports",
@@ -19,98 +19,18 @@
       "Bleacher Report",
       "talkSPORT"
     ],
-    "start_date": "2025-07-14",
+    "start_date": "2025-07-26",
     "end_date": "2025-07-28",
-    "range_days": "14 days",
+    "range_days": 2,
     "podcast_length_min": 5,
     "speech_speed": "Normal",
     "voice": "ballad",
-    "results_reported": 9,
-    "generated_at": "2025-07-28T21:16:03.121767+00:00"
+    "results_reported": 2,
+    "generated_at": "2025-07-28T22:56:36.934865+00:00"
   },
   "articles/output": {
     "General": {
       "Tesla": [
-        {
-          "source": "Breitbart News",
-          "primary_category": "General",
-          "title": "Elon Paying Elon: Musk Proposes Tesla Invest in His AI Startup xAI",
-          "description": "Elon Musk, the billionaire tech tycoon and Tesla CEO, has suggested that Tesla shareholders will vote on investing in his AI startup, xAI, as the company seeks additional funding to keep pace with competitors in the rapidly evolving AI landscape.The post Elo…",
-          "content": "Elon Musk, the billionaire tech tycoon and Tesla CEO, has suggested that Tesla shareholders will vote on investing in his AI startup, xAI, as the company seeks additional funding to keep pace with co… [+3164 chars]",
-          "url": "https://www.breitbart.com/tech/2025/07/14/elon-paying-elon-musk-proposes-tesla-invest-in-his-ai-startup-xai/",
-          "image": "https://media.breitbart.com/media/2025/07/Elon-Musk-with-a-big-smile-640x335.jpg",
-          "publishedAt": "2025-07-14"
-        },
-        {
-          "source": "Breitbart News",
-          "primary_category": "General",
-          "title": "Elon Musk's Tesla to Face First Federal Jury Trial over Fatal Crash Involving 'Autopilot' System",
-          "description": "Elon Musk's Tesla is facing its first jury trial over a fatal crash involving its \"Autopilot\" driver-assist system, marking a significant legal challenge for the EV giant. The post Elon Musk’s Tesla to Face First Federal Jury Trial over Fatal Crash Involving…",
-          "content": "Elon Musk’s Tesla is facing its first federal jury trial over a fatal crash involving its “Autopilot” driver-assist system, marking a significant legal challenge for the EV giant. The New York Times… [+3191 chars]",
-          "url": "https://www.breitbart.com/tech/2025/07/15/elon-musks-tesla-to-face-first-jury-trial-over-fatal-crash-involving-autopilot-system/",
-          "image": "https://media.breitbart.com/media/2025/07/Elon-Musk-will-testify-in-Autopilot-lawsuit-640x335.jpg",
-          "publishedAt": "2025-07-15"
-        },
-        {
-          "source": "Breitbart News",
-          "primary_category": "General",
-          "title": "Elon Musk's Tesla Autopilot System Under Scrutiny as Safety Expert Testifies in Fatal Crash Trial",
-          "description": "A safety expert has testified that Elon Musk's Tesla failed to adequately protect against the misuse of its Autopilot system, which a lawsuit claimed caused a fatal crash in 2019.The post Elon Musk’s Tesla Autopilot System Under Scrutiny as Safety Expert Tes…",
-          "content": "A safety expert has testified that Elon Musk’s Tesla failed to adequately protect against the misuse of its Autopilot system, which a lawsuit claimed caused a fatal crash in 2019. Bloomberg reports … [+3844 chars]",
-          "url": "https://www.breitbart.com/tech/2025/07/17/elon-musks-tesla-autopilot-system-under-scrutiny-as-safety-expert-testifies-in-fatal-crash-trial/",
-          "image": "https://media.breitbart.com/media/2025/07/Elon-Musk-looks-concerned-640x335.jpg",
-          "publishedAt": "2025-07-17"
-        },
-        {
-          "source": "Breitbart News",
-          "primary_category": "General",
-          "title": "Elon's Inventory Piles Up: Tesla Cybertruck Sales Plummet 51% in Second Quarter",
-          "description": "Demand for Tesla's Cybertruck has taken a significant hit in the second quarter of 2025, with sales dropping by 51 percent year-over-year to a mere 4,300 vehicles, according to data from Cox Automotive.The post Elon’s Inventory Piles Up: Tesla Cybertruck Sal…",
-          "content": "Demand for Tesla’s Cybertruck has taken a significant hit in the second quarter of 2025, with sales dropping by 51 percent year-over-year to a mere 4,300 vehicles, according to data from Cox Automoti… [+1769 chars]",
-          "url": "https://www.breitbart.com/tech/2025/07/19/elons-inventory-piles-up-tesla-cybertruck-sales-plummet-51-in-second-quarter/",
-          "image": "https://media.breitbart.com/media/2025/07/Elon-Musk-with-his-battered-Cybertruck-640x335.jpg",
-          "publishedAt": "2025-07-19"
-        },
-        {
-          "source": "Fox News",
-          "primary_category": "General",
-          "title": "Tesla charging unit sparks massive inferno in Texas garage, severely damaging home, officials say",
-          "description": "The city of Lewisville, Texas, confirmed a Tesla charging device ignited an \"intense\" house fire that engulfed a Lexus and the home's upper floors Monday.",
-          "content": "The city of Lewisville, Texas, confirmed Tuesday that a Tesla charging unit sparked a massive garage fire that caused extensive damage to a home. The two-alarm fire broke out around 12:30 p.m. on Mo… [+1657 chars]",
-          "url": "https://www.foxnews.com/us/tesla-charging-unit-sparks-massive-inferno-texas-garage-severely-damaging-home-officials-say",
-          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/tesla-fire-thumb.jpg",
-          "publishedAt": "2025-07-22"
-        },
-        {
-          "source": "Breitbart News",
-          "primary_category": "General",
-          "title": "EV Inferno: Tesla Charging Unit Sparks Garage Fire, Extensively Damaging Texas Home",
-          "description": "A Tesla charging unit sparked a two-alarm garage fire in Lewisville, Texas, on Monday, causing significant damage to the upper floors of the home and a second vehicle in the garage, according to fire officials.The post EV Inferno: Tesla Charging Unit Sparks …",
-          "content": "A Tesla charging unit sparked a two-alarm garage fire in Lewisville, Texas, on Monday, causing significant damage to the upper floors of the home and a second vehicle in the garage, according to fire… [+1736 chars]",
-          "url": "https://www.breitbart.com/tech/2025/07/23/tesla-charging-unit-sparks-garage-fire-extensively-damaging-texas-home/",
-          "image": "https://media.breitbart.com/media/2025/07/Elon-Musk-Shrugs-at-Tesla-news-640x335.jpg",
-          "publishedAt": "2025-07-23"
-        },
-        {
-          "source": "Breitbart News",
-          "primary_category": "General",
-          "title": "Elon's Red Ink: Tesla Reports 16% EV Revenue Drop, Stock Dives 9%",
-          "description": "Elon Musk's Tesla reported a 16 percent decline in automotive revenue as sales fell for a second straight quarter and again failed to meet analysts' estimates. The stock is down more than nine percent in morning trading.The post Elon’s Red Ink: Tesla Reports…",
-          "content": "Elon Musk’s Tesla reported a 16 percent decline in automotive revenue as sales fell for a second straight quarter and again failed to meet analysts’ estimates. The stock is down more than nine percen… [+3736 chars]",
-          "url": "https://www.breitbart.com/tech/2025/07/24/elons-red-ink-tesla-reports-16-ev-revenue-drop-stock-dives-9/",
-          "image": "https://media.breitbart.com/media/2025/07/Elon-Musk-is-struggling-with-Tesla-640x335.jpg",
-          "publishedAt": "2025-07-24"
-        },
-        {
-          "source": "Fox News",
-          "primary_category": "General",
-          "title": "Lucid joins Tesla and GM with hands-free highway driving",
-          "description": "Electric vehicle maker Lucid adds hands-free driving through an over-the-air update for Air sedan owners with the DreamDrive Pro package and Gravity SUV support coming later.",
-          "content": "Lucid Motors is about to make highway driving a lot more relaxing. The electric vehicle startup is rolling out a major upgrade to its driver-assistance technology, placing it squarely alongside Tes… [+4797 chars]",
-          "url": "https://www.foxnews.com/tech/lucid-joins-tesla-gm-hands-free-highway-driving",
-          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/1-lucid-joins-tesla-and-gm-with-hands-free-highway-driving.jpg",
-          "publishedAt": "2025-07-25"
-        },
         {
           "source": "Fox News",
           "primary_category": "General",
@@ -120,13 +40,23 @@
           "url": "https://www.foxnews.com/tech/grok-ai-now-part-new-tesla-vehicles",
           "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/3-grok-ai-is-now-part-of-new-tesla-vehicles.jpg",
           "publishedAt": "2025-07-26"
+        },
+        {
+          "source": "CNN",
+          "primary_category": "General",
+          "title": "‘Tesla Takedown’ protestors have a new target: Elon Musk’s Tesla Diner | CNN Business",
+          "description": "For months, protesters have gathered outside Tesla showrooms in response to Elon Musk’s role in reducing US government spending as part of the Department of Government Efficiency.",
+          "content": "For months, protesters have gathered outside Tesla showrooms in response to Elon Musks role in reducing US government spending as part of the Department of Government Efficiency. This weekend, prote… [+2510 chars]",
+          "url": "https://www.cnn.com/2025/07/27/business/musk-tesla-diner-protest",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25206783635180.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2025-07-27"
         }
       ]
     }
   },
   "group article counts": {
     "General": {
-      "Tesla": 9
+      "Tesla": 2
     }
   }
 }

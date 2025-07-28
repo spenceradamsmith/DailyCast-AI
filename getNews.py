@@ -118,19 +118,12 @@ wpm_map = {
     "Fast": 223,
     "Very Fast": 267,
 }
-chosen_time_range = "14 days"
-range_map = {
-    "2 days": 2,
-    "3 days": 3,
-    "7 days": 7,
-    "14 days": 14,
-}
+chosen_time_range = 2
 chosen_total_words = chosen_time * wpm_map[chosen_speed]
 low_bound_words = int(chosen_total_words * 0.99)
 high_bound_words = int(chosen_total_words * 1.01)
-time_difference = range_map.get(chosen_time_range, 0)
 today = datetime.now(timezone.utc)
-start_dt = today - timedelta(days = time_difference)
+start_dt = today - timedelta(days = chosen_time_range)
 start_date = start_dt.strftime('%Y-%m-%d')
 end_date = today.strftime('%Y-%m-%d')
 
