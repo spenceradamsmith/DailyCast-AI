@@ -17,428 +17,132 @@ Output only the raw script text.
 {
   "settings/input": {
     "categories": [
-      "Technology",
+      "General",
       "Sports"
     ],
     "keywords": [
       "Tesla",
-      "Apple",
       "Knicks"
     ],
-    "politics": "Center",
     "sources": [
-      "TechCrunch",
-      "Wired",
-      "The Verge",
-      "Engadget",
-      "Ars Technica",
+      "Breitbart News",
+      "Fox News",
+      "cnnn",
+      "Associated Press",
       "ESPN",
       "Fox Sports",
       "SportBible",
       "Bleacher Report",
       "talkSPORT"
     ],
-    "start_date": "2025-07-13",
-    "end_date": "2025-07-27",
+    "start_date": "2025-07-14",
+    "end_date": "2025-07-28",
     "range_days": "14 days",
     "podcast_length_min": 5,
     "speech_speed": "Normal",
     "voice": "ballad",
-    "results_reported": 38,
-    "generated_at": "2025-07-27T17:53:30.696104+00:00"
+    "results_reported": 9,
+    "generated_at": "2025-07-28T21:16:03.121767+00:00"
   },
   "articles/output": {
-    "Technology": {
+    "General": {
       "Tesla": [
         {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "xAI explains the Grok Nazi meltdown as Tesla puts Elon\u2019s bot in its cars",
-          "description": "Several days after temporarily shutting down the Grok AI bot that was producing antisemitic posts and praising Hitler in response to user prompts, Elon Musk\u2019s AI company tried to explain why that happened. In a series of posts on X, it said that \u201c\u2026we discover\u2026",
-          "content": "xAI blamed an upstream code update that triggered an unintended action. Several days after temporarily shutting down the Grok AI bot that was producing antisemitic posts and praising Hitler in respo\u2026 [+2535 chars]",
-          "url": "https://www.theverge.com/news/706498/xai-grok-hitler-antisemitism-tesla-ai-bot",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "publishedAt": "2025-07-13"
+          "source": "Breitbart News",
+          "primary_category": "General",
+          "title": "Elon Paying Elon: Musk Proposes Tesla Invest in His AI Startup xAI",
+          "description": "Elon Musk, the billionaire tech tycoon and Tesla CEO, has suggested that Tesla shareholders will vote on investing in his AI startup, xAI, as the company seeks additional funding to keep pace with competitors in the rapidly evolving AI landscape.The post Elo\u2026",
+          "content": "Elon Musk, the billionaire tech tycoon and Tesla CEO, has suggested that Tesla shareholders will vote on investing in his AI startup, xAI, as the company seeks additional funding to keep pace with co\u2026 [+3164 chars]",
+          "url": "https://www.breitbart.com/tech/2025/07/14/elon-paying-elon-musk-proposes-tesla-invest-in-his-ai-startup-xai/",
+          "image": "https://media.breitbart.com/media/2025/07/Elon-Musk-with-a-big-smile-640x335.jpg",
+          "publishedAt": "2025-07-14"
         },
         {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Tesla finally enters India \u2014 nine years after Elon Musk first teased its debut | TechCrunch",
-          "description": "Tesla finally enters India \u2014 nine years after Elon Musk first teased its debut | TechCrunchtechcrunch.com",
-          "content": "Tesla has made its long-awaited entry into India with the opening of its first showroom nine years after CEO Elon Musk first teased the move in April 2016 and following years of delays and shifting t\u2026 [+4568 chars]",
-          "url": "https://techcrunch.com/2025/07/14/tesla-finally-enters-india-nine-years-after-elon-musk-first-teased-its-debut/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/01/Tesla-sign-Getty.jpg?resize=1200,800",
+          "source": "Breitbart News",
+          "primary_category": "General",
+          "title": "Elon Musk's Tesla to Face First Federal Jury Trial over Fatal Crash Involving 'Autopilot' System",
+          "description": "Elon Musk's Tesla is facing its first jury trial over a fatal crash involving its \"Autopilot\" driver-assist system, marking a significant legal challenge for the EV giant. The post Elon Musk\u2019s Tesla to Face First Federal Jury Trial over Fatal Crash Involving\u2026",
+          "content": "Elon Musk\u2019s Tesla is facing its first federal jury trial over a fatal crash involving its \u201cAutopilot\u201d driver-assist system, marking a significant legal challenge for the EV giant. The New York Times\u2026 [+3191 chars]",
+          "url": "https://www.breitbart.com/tech/2025/07/15/elon-musks-tesla-to-face-first-jury-trial-over-fatal-crash-involving-autopilot-system/",
+          "image": "https://media.breitbart.com/media/2025/07/Elon-Musk-will-testify-in-Autopilot-lawsuit-640x335.jpg",
           "publishedAt": "2025-07-15"
         },
         {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "Tesla reveals Model 3 Plus and Model YL in China as price war heats up",
-          "description": "Tesla is continuing to tweak its best-selling EVs in China in the hopes that it can boost its sales amid rising competition from BYD and other domestic manufacturers. Tesla applied for a new sales license with China\u2019s Ministry of Information Technology for a \u2026",
-          "content": "The Model YL has six seats and a true third row, while the Model 3 Plus has longer range than current versions of the electric sedan. Tesla is continuing to tweak its best-selling EVs in China in th\u2026 [+2653 chars]",
-          "url": "https://www.theverge.com/news/708279/tesla-model-3-plus-model-yl-china-price-war",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Gv_HN93XEAAMtWs.jpeg?quality=90&strip=all&crop=0%2C10.671533564388%2C100%2C78.656932871224&w=1200",
-          "publishedAt": "2025-07-16"
+          "source": "Breitbart News",
+          "primary_category": "General",
+          "title": "Elon Musk's Tesla Autopilot System Under Scrutiny as Safety Expert Testifies in Fatal Crash Trial",
+          "description": "A safety expert has testified that Elon Musk's Tesla failed to adequately protect against the misuse of its Autopilot system, which a lawsuit claimed caused a fatal crash in 2019.The post Elon Musk\u2019s Tesla Autopilot System Under Scrutiny as Safety Expert Tes\u2026",
+          "content": "A safety expert has testified that Elon Musk\u2019s Tesla failed to adequately protect against the misuse of its Autopilot system, which a lawsuit claimed caused a fatal crash in 2019. Bloomberg reports \u2026 [+3844 chars]",
+          "url": "https://www.breitbart.com/tech/2025/07/17/elon-musks-tesla-autopilot-system-under-scrutiny-as-safety-expert-testifies-in-fatal-crash-trial/",
+          "image": "https://media.breitbart.com/media/2025/07/Elon-Musk-looks-concerned-640x335.jpg",
+          "publishedAt": "2025-07-17"
         },
         {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunch",
-          "description": "GMC Hummer EV outsold the Tesla Cybertruck last quarter | TechCrunchtechcrunch.com",
-          "content": "Sales of Tesla\u2019s Cybertruck have plummeted from their peak last year, to the point that the hulking (and expensive) GMC Hummer EV outsold the polarizing steel-clad curiosity in the second quarter. T\u2026 [+1756 chars]",
-          "url": "https://techcrunch.com/2025/07/16/gmc-hummer-ev-outsold-the-tesla-cybertruck-last-quarter/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1200,800",
-          "publishedAt": "2025-07-16"
+          "source": "Breitbart News",
+          "primary_category": "General",
+          "title": "Elon's Inventory Piles Up: Tesla Cybertruck Sales Plummet 51% in Second Quarter",
+          "description": "Demand for Tesla's Cybertruck has taken a significant hit in the second quarter of 2025, with sales dropping by 51 percent year-over-year to a mere 4,300 vehicles, according to data from Cox Automotive.The post Elon\u2019s Inventory Piles Up: Tesla Cybertruck Sal\u2026",
+          "content": "Demand for Tesla\u2019s Cybertruck has taken a significant hit in the second quarter of 2025, with sales dropping by 51 percent year-over-year to a mere 4,300 vehicles, according to data from Cox Automoti\u2026 [+1769 chars]",
+          "url": "https://www.breitbart.com/tech/2025/07/19/elons-inventory-piles-up-tesla-cybertruck-sales-plummet-51-in-second-quarter/",
+          "image": "https://media.breitbart.com/media/2025/07/Elon-Musk-with-his-battered-Cybertruck-640x335.jpg",
+          "publishedAt": "2025-07-19"
         },
         {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "An electric scooter that accelerates faster than a Tesla Model 3? No thanks!",
-          "description": "Personally, I think electric scooters are a little goofy, but I\u2019m glad they exist. I know a lot of people who don\u2019t want to drop a couple thousand dollars on an electric bike, but still want the joy and freedom of zipping around town at a modest 18mph, while \u2026",
-          "content": "UK-based Bo claims its experimental Turbo scooter can hit 100mph and has a higher power-to-weight ratio than a Bugatti Veyron. Personally, I think electric scooters are a little goofy, but Im glad t\u2026 [+3529 chars]",
-          "url": "https://www.theverge.com/news/709934/bo-turbo-electric-scooter-100-mph-speed",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Goodwood_04.jpg?quality=90&strip=all&crop=0%2C10.739558379199%2C100%2C78.520883241603&w=1200",
-          "publishedAt": "2025-07-18"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Former Tesla president discloses the secret to scaling a company | TechCrunch",
-          "description": "\u201cWe scaled Tesla in 30 months from $2 billion in revenue to $20 billion in revenue,\u201d said Jon McNeil, who is now co-founder and CEO of DVx Ventures.",
-          "content": "Few companies have grown as quickly as Tesla, especially just before and after the company launched the Model 3, its first affordable EV. We scaled Tesla in 30 months from $2 billion in revenue to $\u2026 [+2045 chars]",
-          "url": "https://techcrunch.com/2025/07/20/former-tesla-president-discloses-the-secret-to-scaling-a-company/",
-          "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1422219759.jpg?resize=1200,800",
-          "publishedAt": "2025-07-20"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Tesla loses its charm for India's loyalists \u2014 even as Musk finally delivers | TechCrunch",
-          "description": "Tesla's debut in India has not convinced its early backers, who waited for the company to enter the market for nearly a decade.",
-          "content": "Tesla opened the doors to its first showroom in India this week, and among the first visitors was Vishal Gondal a longtime Tesla and Elon Musk loyalist who pre-booked a Model 3 in April 2016, just ho\u2026 [+10318 chars]",
-          "url": "https://techcrunch.com/2025/07/20/tesla-loses-its-charm-for-indias-loyalists-even-as-musk-finally-delivers/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/07/tesla-india-store.jpg?resize=1200,800",
-          "publishedAt": "2025-07-20"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "Honda and Acura EV owners can now use Tesla Superchargers",
-          "description": "Honda has launched a new EV charging adapter that will allow its all-electric Prologue and Acura ZDX to power up at over 23,500 Tesla Supercharger stations. The $225 adapter lets vehicles equipped with Combined Charging System (CCS) plugs use Tesla\u2019s North Am\u2026",
-          "content": "<ul><li></li><li></li><li></li></ul> A $225 adapter gives Honda Prologue and Acura ZDX owners access to more than 23,000 Tesla Supercharger stations. A $225 adapter gives Honda Prologue and Acura Z\u2026 [+2395 chars]",
-          "url": "https://www.theverge.com/news/711472/honda-acura-ev-tesla-supercharger-access-adapter",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/IMG_2931.webp?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+          "source": "Fox News",
+          "primary_category": "General",
+          "title": "Tesla charging unit sparks massive inferno in Texas garage, severely damaging home, officials say",
+          "description": "The city of Lewisville, Texas, confirmed a Tesla charging device ignited an \"intense\" house fire that engulfed a Lexus and the home's upper floors Monday.",
+          "content": "The city of Lewisville, Texas, confirmed Tuesday that a Tesla charging unit sparked a massive garage fire that caused extensive damage to a home. The two-alarm fire broke out around 12:30 p.m. on Mo\u2026 [+1657 chars]",
+          "url": "https://www.foxnews.com/us/tesla-charging-unit-sparks-massive-inferno-texas-garage-severely-damaging-home-officials-say",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/tesla-fire-thumb.jpg",
           "publishedAt": "2025-07-22"
         },
         {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Lucid Air owners will be able to use Tesla Superchargers from July 31 | TechCrunch",
-          "description": "Owners of the Lucid Air sedan will be able to charge their luxury EVs at thousands of Tesla Supercharger stations in North America starting July 31. But there is a notable caveat: Lucid Air vehicles won't be able to charge as fast as Tesla vehicles.",
-          "content": "Owners of the Lucid Air sedan will be able to charge their luxury EVs at thousands of Tesla Supercharger stations in North America starting July 31, nearly two years since the automakers reached an a\u2026 [+2382 chars]",
-          "url": "https://techcrunch.com/2025/07/22/lucid-air-owners-will-be-able-to-use-tesla-superchargers-starting-july-31/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/07/lucid-tesla.jpg?resize=1200,900",
-          "publishedAt": "2025-07-22"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Lucid Air owners will soon be able to use Tesla Superchargers \u2014 but there's a catch | TechCrunch",
-          "description": "Owners of the Lucid Air sedan will be able to charge their luxury EVs at thousands of Tesla Supercharger stations in North America starting July 31. But there is a notable caveat: Lucid Air vehicles won't be able to charge as fast as Tesla vehicles.",
-          "content": "Owners of the Lucid Air sedan will be able to charge their luxury EVs at thousands of Tesla Supercharger stations in North America starting July 31, nearly two years since the automakers reached an a\u2026 [+2382 chars]",
-          "url": "https://techcrunch.com/2025/07/22/lucid-air-owners-will-soon-be-able-to-use-tesla-superchargers-but-theres-a-catch/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/07/lucid-tesla.jpg?resize=1200,900",
-          "publishedAt": "2025-07-22"
-        },
-        {
-          "source": "Wired",
-          "primary_category": "Technology",
-          "title": "A $17 Hotdog and a Humanoid Robot Serving Popcorn: WIRED's Day at the Tesla Diner",
-          "description": "WIRED stopped by the new Tesla Diner in Hollywood to talk to people who still stan Elon Musk. \"I want to go to Mars, and he is going to take us,\" one visitor told us.",
-          "content": "Elon definitely snapped, Jamel Bullock says, conveying a compliment of high praise, a cultural colloquialism. A Silverlake-based design creative who works in fashion and tech, Bullock bought a Model \u2026 [+3158 chars]",
-          "url": "https://www.wired.com/story/searching-for-humanitys-last-hope-and-a-taste-of-the-future-at-the-tesla-diner/",
-          "image": "https://media.wired.com/photos/68801c376dfe7bb37a06091f/191:100/w_1280,c_limit/GettyImages-2226425544.jpg",
+          "source": "Breitbart News",
+          "primary_category": "General",
+          "title": "EV Inferno: Tesla Charging Unit Sparks Garage Fire, Extensively Damaging Texas Home",
+          "description": "A Tesla charging unit sparked a two-alarm garage fire in Lewisville, Texas, on Monday, causing significant damage to the upper floors of the home and a second vehicle in the garage, according to fire officials.The post EV Inferno: Tesla Charging Unit Sparks \u2026",
+          "content": "A Tesla charging unit sparked a two-alarm garage fire in Lewisville, Texas, on Monday, causing significant damage to the upper floors of the home and a second vehicle in the garage, according to fire\u2026 [+1736 chars]",
+          "url": "https://www.breitbart.com/tech/2025/07/23/tesla-charging-unit-sparks-garage-fire-extensively-damaging-texas-home/",
+          "image": "https://media.breitbart.com/media/2025/07/Elon-Musk-Shrugs-at-Tesla-news-640x335.jpg",
           "publishedAt": "2025-07-23"
         },
         {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Tesla profits pulled down by falling EV sales and regulatory credits | TechCrunch",
-          "description": "Tesla saw a 17% growth in its services business, but it was not enough to close the gap in falling EV sales, fewer regulatory credits, and a decline in solar and energy storage sales.",
-          "content": "Falling EV sales combined with a lower average selling price, less cash from regulatory credits, and a decline in solar and energy storage revenue took a toll on Tesla\u2019s bottom line in the second qua\u2026 [+3618 chars]",
-          "url": "https://techcrunch.com/2025/07/23/tesla-profits-pulled-down-by-falling-ev-sales-and-regulatory-credits/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1200,800",
-          "publishedAt": "2025-07-23"
-        },
-        {
-          "source": "Wired",
-          "primary_category": "Technology",
-          "title": "It Looks Like the Tesla Model Y Refresh Has Bombed",
-          "description": "The high-selling Model Y is crucial for both Elon Musk and Tesla, but a half-hearted reskin of the car hasn\u2019t reversed the company\u2019s sales woes. Would a complete overhaul have been a better bet?",
-          "content": "Tesla did not respond to WIREDs request for comment on this article. For Nagley, it's too early to talk about Tesla failing to survive, but the question is, can they thrive? One of the iron rules ab\u2026 [+2724 chars]",
-          "url": "https://www.wired.com/story/it-looks-like-the-tesla-model-y-refresh-has-bombed/",
-          "image": "https://media.wired.com/photos/687ac34fd0967758dfc95a77/191:100/w_1280,c_limit/Model-Y-Refresh-Gear-NewModelY_53.jpg",
-          "publishedAt": "2025-07-23"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "How can Tesla make a cheaper Model Y?",
-          "description": "In an earnings call Wednesday, Tesla CEO Elon Musk \"let the cat out of the bag\": The new, more affordable electric vehicle the company has been touting for over a year, and that has been singled out as the one thing that could pull Tesla out of its sales rut,\u2026",
-          "content": "<ul><li></li><li></li><li></li></ul> Elon Musk finally admitted that Teslas long-promised, more affordable EV is just a stripped-down Model Y. Unsurprisingly, Verge readers had some thoughts. Elon \u2026 [+5932 chars]",
-          "url": "https://www.theverge.com/tesla/713026/tesla-cheaper-model-y-stripped-down",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25434354/Screenshot_2024_05_05_at_10.54.59_AM.png?quality=90&strip=all&crop=0%2C2.7955638884958%2C100%2C94.408872223008&w=1200",
+          "source": "Breitbart News",
+          "primary_category": "General",
+          "title": "Elon's Red Ink: Tesla Reports 16% EV Revenue Drop, Stock Dives 9%",
+          "description": "Elon Musk's Tesla reported a 16 percent decline in automotive revenue as sales fell for a second straight quarter and again failed to meet analysts' estimates. The stock is down more than nine percent in morning trading.The post Elon\u2019s Red Ink: Tesla Reports\u2026",
+          "content": "Elon Musk\u2019s Tesla reported a 16 percent decline in automotive revenue as sales fell for a second straight quarter and again failed to meet analysts\u2019 estimates. The stock is down more than nine percen\u2026 [+3736 chars]",
+          "url": "https://www.breitbart.com/tech/2025/07/24/elons-red-ink-tesla-reports-16-ev-revenue-drop-stock-dives-9/",
+          "image": "https://media.breitbart.com/media/2025/07/Elon-Musk-is-struggling-with-Tesla-640x335.jpg",
           "publishedAt": "2025-07-24"
         },
         {
-          "source": "Wired",
-          "primary_category": "Technology",
-          "title": "Tesla Readies a Taxi Service in San Francisco\u2014but Not With Robotaxis",
-          "description": "The electric carmaker informed California that it will operate a limited public taxi service. But it\u2019s not legally allowed to do this with self-driving cars.",
-          "content": "Tesla has publicly staked its future on its robotaxis. Now the company is planning to launch a public car service in the San Francisco Bay Area. Tesla is calling it a robotaxi service, but legally, t\u2026 [+2947 chars]",
-          "url": "https://www.wired.com/story/tesla-robotaxi-san-francisco-bay-area/",
-          "image": "https://media.wired.com/photos/6883dd17961105cb77fcf552/191:100/w_1280,c_limit/Tesla-Robotaxi-SF-Gear-2220716767.jpg",
+          "source": "Fox News",
+          "primary_category": "General",
+          "title": "Lucid joins Tesla and GM with hands-free highway driving",
+          "description": "Electric vehicle maker Lucid adds hands-free driving through an over-the-air update for Air sedan owners with the DreamDrive Pro package and Gravity SUV support coming later.",
+          "content": "Lucid Motors is about to make highway driving a lot more relaxing. The electric vehicle startup is rolling out a major upgrade to its driver-assistance technology, placing it squarely alongside Tes\u2026 [+4797 chars]",
+          "url": "https://www.foxnews.com/tech/lucid-joins-tesla-gm-hands-free-highway-driving",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/1-lucid-joins-tesla-and-gm-with-hands-free-highway-driving.jpg",
           "publishedAt": "2025-07-25"
         },
         {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Tesla is reportedly behind on its pledge to build 5,000 Optimus bots this year | TechCrunch",
-          "description": "Tesla is reportedly behind on its pledge to build 5,000 Optimus bots this year | TechCrunchtechcrunch.com",
-          "content": "Tesla is well behind the pace needed to meet its earlier stated goal of producing at least 5,000 Optimus humanoid robots this year, The Information reports. Nearly eight months into 2025, and the num\u2026 [+1009 chars]",
-          "url": "https://techcrunch.com/2025/07/25/tesla-is-reportedly-behind-on-its-pledge-to-build-5000-optimus-bots-this-year/",
-          "image": "https://techcrunch.com/wp-content/uploads/2024/12/musk-promises-2024.jpg?resize=1200,800",
-          "publishedAt": "2025-07-25"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Tesla is reportedly bringing a limited version of its robotaxi service to San Francisco | TechCrunch",
-          "description": "Tesla is reportedly bringing a limited version of its robotaxi service to San Francisco | TechCrunchtechcrunch.com",
-          "content": "Tesla is launching an even-more-limited version of its early robotaxi service in San Francisco this weekend, according to Business Insider, after an initial rollout began last month in Austin, Texas.\u2026 [+2055 chars]",
-          "url": "https://techcrunch.com/2025/07/25/tesla-is-reportedly-bringing-a-limited-version-of-its-robotaxi-service-to-san-francisco/",
-          "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2159532501.jpg?resize=1200,801",
-          "publishedAt": "2025-07-25"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Tesla wants to bring its robotaxis to San Francisco. Here is what's standing in the way. | TechCrunch",
-          "description": "Tesla wants to bring its robotaxis to San Francisco. Here is what's standing in the way. | TechCrunchtechcrunch.com",
-          "content": "Tesla is launching an even-more-limited version of its early robotaxi service in San Francisco this weekend, according to Business Insider, after an initial rollout began last month in Austin, Texas.\u2026 [+3857 chars]",
-          "url": "https://techcrunch.com/2025/07/25/tesla-wants-to-bring-its-robotaxis-to-san-francisco-heres-whats-standing-in-the-way/",
-          "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2159532501.jpg?resize=1200,801",
-          "publishedAt": "2025-07-25"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Tesla vet says that 'reviewing real products' \u2014 not mockups \u2014 is the key to staying innovative | TechCrunch",
-          "description": "\u201cNo slides was our first rule,\u201d McNeil told the audience earlier this month at TC All Stage in Boston. \u201cYou have to be reviewing real product.\u201d",
-          "content": "GMs EVs have been on a roll lately. After selling just the Chevy Bolt for years, a wave of new models now up to 17 fully electrified vehicles has pushed the automaker into second place in the U.S. be\u2026 [+3328 chars]",
-          "url": "https://techcrunch.com/2025/07/26/tesla-vet-says-that-reviewing-real-products-not-mockups-is-the-key-to-staying-innovative/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/07/54657606368_03394f3070_o.jpg?resize=1200,800",
+          "source": "Fox News",
+          "primary_category": "General",
+          "title": "Grok AI is now part of new Tesla vehicles",
+          "description": "Tesla vehicles manufactured since mid-2021 with AMD Ryzen processors can now access Grok 4, xAI's witty conversational assistant designed to make drives more engaging.",
+          "content": "Chatting with Grok while cruising in your Tesla is now a reality. The conversational artificial intelligence is being included in newer models, according to Elon Musk. Having Grok around will hop\u2026 [+4021 chars]",
+          "url": "https://www.foxnews.com/tech/grok-ai-now-part-new-tesla-vehicles",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/3-grok-ai-is-now-part-of-new-tesla-vehicles.jpg",
           "publishedAt": "2025-07-26"
-        }
-      ],
-      "Apple": [
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "Why I love my Apple EarPods",
-          "description": "Jay Peters is a news editor for The Verge, which means, he explains, \u201cI write and edit news about tech, gaming, and all of the many things The Verge covers. I also write a lot about indie video games. And I\u2019m taking over David Pierce\u2019s Installer newsletter wh\u2026",
-          "content": "Jay Peters is a news editor for The Verge, which means, he explains, \u201cI write and edit news about tech, gaming, and all of the many things The Verge covers. I also write a lot about indie video games\u2026 [+2168 chars]",
-          "url": "https://www.theverge.com/tech/704616/apple-earpods-favorites",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/EarPods.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "publishedAt": "2025-07-15"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Apple commits $500M to U.S.-based rare earth recycling firm MP Materials",
-          "description": "The factory will develop a series of neodymium magnet manufacturing lines specifically designed for Apple products.",
-          "content": "Apple is investing $500 million in MP Materials, the only fully integrated rare earth mining company currently operating in the United States, as part of a broader effort to strengthen the domestic r\u2026 [+1276 chars]",
-          "url": "https://techcrunch.com/2025/07/15/apple-commits-500m-to-u-s-based-rare-earth-recycling-firm-mp-materials/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/04/apple-logo-pedestrian.jpg?resize=1200,798",
-          "publishedAt": "2025-07-15"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "Apple cuts a deal for recycling rare earth magnets in the US",
-          "description": "Apple has announced a $500 million investment in MP Materials, a rare earth mining company based in the US. With the deal, the two companies will partner on the development of a rare earth magnet recycling line in Mountain Pass, California, allowing Apple to \u2026",
-          "content": "Apple\u2019s investment will go toward building a dedicated rare earth recycling line at MP Materials\u2019 Mountain Pass, California facility. | Photo by Michael Tessler / MP Materials Apple has announced \u2026 [+2102 chars]",
-          "url": "https://www.theverge.com/news/707249/apple-rare-earth-magnet-mp-materials-recycling",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/mpmaterials-mountain-pass.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-          "publishedAt": "2025-07-15"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "Apple launches new emoji word game to take on Wordle and the NYT",
-          "description": "Ever since the New York Times acquired Wordle and went all-in on games, there's been something of a slow-brewing arms race in the space. The Times continues to release new games, and it's now up against intriguing competitors like Puzzmo, Netflix, The Atlanti\u2026",
-          "content": "Daily puzzle games continue to be a competitive space, and Apple News Plus just expanded its offerings. Ever since the New York Times acquired Wordle and went all-in on games, theres been something \u2026 [+2610 chars]",
-          "url": "https://www.theverge.com/games/708935/apple-news-plus-emoji-game-wordle",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/slack-imgs.jpg?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-          "publishedAt": "2025-07-17"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Apple News+ adds a new game that uses emoji and Genmoji to solve puzzles",
-          "description": "Released to coincide with World Emoji Day, the new Emoji Game is part logic, part word game that's inspired by how we use emojis to communicate.",
-          "content": "Apple is introducing a new reason to upgrade to its subscription news offering, Apple News+: more games. On Thursday, the company announced the addition of the Emoji Game, an original title that will\u2026 [+2697 chars]",
-          "url": "https://techcrunch.com/2025/07/16/apple-news-adds-a-new-game-that-uses-emoji-and-genmoji-to-solve-puzzles/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/07/emoji-GettyImages-1226007274.jpg?w=1024",
-          "publishedAt": "2025-07-17"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "Apple sues leaker Jon Prosser for stealing iOS secrets",
-          "description": "Apple has sued the well-known leaker Jon Prosser for the alleged theft of trade secrets related to iOS 26. Prosser has been accused of tasking another man, Michael Ramacciotti, with secretly accessing an Apple employee\u2019s development iPhone and using that info\u2026",
-          "content": "Prosser is accused of stealing trade secrets to leak details of iOS 26\u2019s design before its announcement at WWDC. Apple has sued the well-known leaker Jon Prosser for the alleged theft of trade sec\u2026 [+2447 chars]",
-          "url": "https://www.theverge.com/news/709550/apple-jon-prosser-lawsuit-michael-ramacciotti-ios-26-trade-secrets",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/image_864192.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-          "publishedAt": "2025-07-18"
-        },
-        {
-          "source": "Wired",
-          "primary_category": "Technology",
-          "title": "Apple Sues the YouTuber Who Leaked iOS 26",
-          "description": "In a lawsuit filed against prominent leaker Jon Prosser, Apple alleges a conspiracy to break into a development device and steal its trade secrets. Prosser insists Apple has it all wrong.",
-          "content": "Leaks are a constant part of big product news cycles, particularly for companies like Apple. Online soothsayers like Jon Prosser and Bloombergs Mark Gurman have long predicted the content of upcoming\u2026 [+4085 chars]",
-          "url": "https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/",
-          "image": "https://media.wired.com/photos/687a7bee93808b4bb00b60b6/191:100/w_1280,c_limit/Apple-WWDC25-iOS-26-hero-250609.jpg",
-          "publishedAt": "2025-07-18"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "UK wants to weasel out of demand for Apple encryption back door",
-          "description": "The UK government is reportedly set to back down from its battle with Apple to obtain back door access to secure user data protected by the company\u2019s iCloud encryption. Victory hasn\u2019t come through the courts, or government figures changing their minds on priv\u2026",
-          "content": "US government opposition has the UKs back against the wall. The UK government is reportedly set to back down from its battle with Apple to obtain back door access to secure user data protected by th\u2026 [+1435 chars]",
-          "url": "https://www.theverge.com/news/710504/uk-apple-encryption-back-door-icloud-adp-backing-down",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS498_ENCRYPTION_CVIRGINIA_C.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "publishedAt": "2025-07-21"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "Apple Intelligence tries summarizing news again after botching BBC stories",
-          "description": "Apple\u2019s fourth iOS 26 developer beta has reintroduced Apple Intelligence-powered notification summaries for news and entertainment apps, MacRumors reports. The company temporarily switched off the feature earlier this year after botching some headlines and pr\u2026",
-          "content": "<ul><li></li><li></li><li></li></ul> Apples latest iOS 26 developer beta brings back AI-summarized notifications for news apps. Apples latest iOS 26 developer beta brings back AI-summarized notific\u2026 [+2495 chars]",
-          "url": "https://www.theverge.com/news/711678/apple-ios-26-beta-ai-notification-summaries-news-liquid-glass",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK071_apple_K_Radtke_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "publishedAt": "2025-07-22"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "Apple brings its online retail store to Saudi Arabia",
-          "description": "Apple has launched its online store in Saudi Arabia, according to an announcement on Tuesday. The move, set to be followed by physical retail locations, will let users in the country browse through and purchase Apple products on its site for the first time. \u2026",
-          "content": "<ul><li></li><li></li><li></li></ul> Big Tech has invested billions into Saudi Arabia in recent months. Big Tech has invested billions into Saudi Arabia in recent months. by Emma RothClose Emma \u2026 [+2350 chars]",
-          "url": "https://www.theverge.com/news/711672/apple-saudi-arabia-online-store-launch",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/DSC08442.webp?quality=90&strip=all&crop=0,11.073590377392,100,77.852819245217",
-          "publishedAt": "2025-07-22"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Apple alerted Iranians to iPhone spyware attacks, say researchers",
-          "description": "Researchers say Apple sent out threat notifications to several Iranians in recent months, saying their iPhones had been hacked. Iran is likely behind the attacks.",
-          "content": "Apple notified more than a dozen Iranians in recent months that their iPhones had been targeted with government spyware, according to security researchers. Miian Group, a digital rights organization\u2026 [+3297 chars]",
-          "url": "https://techcrunch.com/2025/07/22/apple-alerted-iranians-to-iphone-spyware-attacks-say-researchers/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/07/iran-flag-iranians-with-phones.jpg?resize=1200,853",
-          "publishedAt": "2025-07-22"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "UK targets Apple and Google\u2019s mobile platforms for regulation",
-          "description": "The move is designed to create a more open, competitive environment for the app economy and user choice.",
-          "content": "The U.K.\u2019s Competition and Markets Authority (CMA) announced on Wednesday a proposal that would give Apple and Google\u2019s mobile platforms \u201cstrategic market status\u201d \u2014 a designation that allows the regu\u2026 [+974 chars]",
-          "url": "https://techcrunch.com/2025/07/23/uk-targets-apple-and-googles-mobile-platforms-for-regulation/",
-          "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675",
-          "publishedAt": "2025-07-23"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Apple launches $19.99 monthly AppleCare One subscription with coverage for three devices",
-          "description": "Until now, people have had to enroll their Apple devices into separate AppleCare+ plans if they wanted additional coverage for their products beyond the standard warranty.",
-          "content": "Apple announced on Wednesday that it\u2019s launching AppleCare One, a new $19.99 monthly subscription plan that includes coverage for up to three products. Customers can choose to add protection for more\u2026 [+2141 chars]",
-          "url": "https://techcrunch.com/2025/07/23/apple-launches-19-99-monthly-applecare-one-subscription-with-coverage-for-three-devices/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/07/AppleCare-One_Hero.png?resize=1200,675",
-          "publishedAt": "2025-07-23"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "Apple launches $20 subscription service to protect your gadgets",
-          "description": "Apple is announcing a new AppleCare subscription called AppleCare One that lets you cover multiple products with a single plan. For $19.99 per month, AppleCare One covers up to three products, and tacking on a new product costs $5.99 per month each. With the \u2026",
-          "content": "<ul><li></li><li></li><li></li></ul> AppleCare One will also let you cover products that are up to four years old. AppleCare One will also let you cover products that are up to four years old. by \u2026 [+2471 chars]",
-          "url": "https://www.theverge.com/news/711972/apple-applecare-one-subscription-multiple-devices",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Apple-AppleCare-One-hero_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C3.4824111300451%2C100%2C93.03517773991&w=1200",
-          "publishedAt": "2025-07-23"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "Apple releases public betas of its new software updates with Liquid Glass",
-          "description": "Apple has officially released the first public betas for its next major software updates. The list of new betas includes iOS 26, iPadOS 26, macOS Tahoe 26, watchOS 26, and tvOS 26. The biggest thing you\u2019ll notice about the software updates is that they have a\u2026",
-          "content": "<ul><li></li><li></li><li></li></ul> The public betas for iOS 26, macOS Tahoe 26, watchOS 26, and more are here. The public betas for iOS 26, macOS Tahoe 26, watchOS 26, and more are here. by Jay\u2026 [+2097 chars]",
-          "url": "https://www.theverge.com/news/695142/apple-public-betas-liquid-glass-ios-macos-26",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/lcimg-340beb97-4c1a-48e8-9883-41f7c43a2b9e.jpeg?quality=90&strip=all&crop=0%2C10.597538331207%2C100%2C78.804923337586&w=1200",
-          "publishedAt": "2025-07-24"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Apple iOS 26 public beta arrives",
-          "description": "Apple released iOS 26 in public beta. Here's everything you can expect, from the Liquid Glass design to features powered by Apple Intelligence.",
-          "content": "Apple released the first public beta of its new mobile operating system, iOS 26, featuring its \u201cLiquid Glass\u201d user interface and improved AI features. The release allows early adopters to get their h\u2026 [+4591 chars]",
-          "url": "https://techcrunch.com/2025/07/24/apple-ios-26-public-beta-arrives/",
-          "image": "https://techcrunch.com/wp-content/uploads/2025/06/Apple-WWDC25-iOS-26-hero-250609_big.jpg.large_.jpg?w=980",
-          "publishedAt": "2025-07-24"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "Apple beta season is here",
-          "description": "Hi, friends! Welcome to Installer No. 91, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, how is summer more than a month over already, and also you can read all the old editions at the Installer homepage.) This week, I\u2026",
-          "content": "<ul><li></li><li></li></ul> Plus: a retro-styled PC, phone cases, DDR in 2025, and more. Plus: a retro-styled PC, phone cases, DDR in 2025, and more. by Jay PetersClose Jay Peters Posts from th\u2026 [+13640 chars]",
-          "url": "https://www.theverge.com/installer-newsletter/714227/apple-ios-26-beta-retro95-pc-phone-cases-ddr-installer",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/installer_cba3c2.png?quality=90&strip=all&crop=0%2C10.788682187813%2C100%2C78.422635624373&w=1200",
-          "publishedAt": "2025-07-25"
-        },
-        {
-          "source": "The Verge",
-          "primary_category": "Technology",
-          "title": "Breaking Bad creator\u2019s new sci-fi show hits Apple in November",
-          "description": "As promised, Apple has finally revealed Pluribus, a new show from Breaking Bad creator Vince Gilligan that\u2019s coming to Apple TV Plus. In addition to a very brief teaser involving some gross donut behavior, the streamer also confirmed that the show will premie\u2026",
-          "content": "<ul><li></li><li></li><li></li></ul> Apples science fiction lineup continues to grow with the addition of Vince Gilligans Pluribus. Apples science fiction lineup continues to grow with the addition\u2026 [+2488 chars]",
-          "url": "https://www.theverge.com/news/714080/pluribus-trailer-date-apple-tv-plus",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Pluribus_Photo_010101.jpg?quality=90&strip=all&crop=10.108854166667%2C0%2C79.782291666667%2C100&w=1200",
-          "publishedAt": "2025-07-25"
-        },
-        {
-          "source": "TechCrunch",
-          "primary_category": "Technology",
-          "title": "Apple broadens App Store\u2019s age rating system",
-          "description": "Apple has expanded its age rating system to include 13+, 16+, and 18+ ratings, in addition to the existing ratings for younger users.",
-          "content": "Apple is expanding its age rating system for apps. The company on Thursday said it has updated its age rating system to add 13+, 16+, and 18+ ratings to the existing slate of 4+ and 9+ ratings, and r\u2026 [+3430 chars]",
-          "url": "https://techcrunch.com/2025/07/25/apple-broadens-app-stores-age-rating-system/",
-          "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?resize=1200,675",
-          "publishedAt": "2025-07-25"
         }
       ]
     }
   },
   "group article counts": {
-    "Technology": {
-      "Tesla": 19,
-      "Apple": 19
+    "General": {
+      "Tesla": 9
     }
   }
 }

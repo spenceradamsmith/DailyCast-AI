@@ -19,8 +19,8 @@ speech_file_path = Path(__file__).parent / "speech.mp3"
 
 # Mapping categories to source names
 categories = {
-    "General": ["breitbart-news", "fox-news", "usa-today", "cnn", "associated-press"],
-    "Politics": ["breitbart-news", "fox-news", "the-hill", "cnn", "msnbc"],
+    "General": [],
+    "Politics": [],
     "Business": ["financial-post", "business-insider", "fortune", "bloomberg", "the-wall-street-journal"],
     "Technology": ["techcrunch", "wired", "the-verge", "engadget", "ars-technica"],
     "Science": ["national-geographic", "new-scientist", "next-big-future"],
@@ -28,31 +28,20 @@ categories = {
     "Entertainment": ["buzzfeed", "mtv-news", "entertainment-weekly", "ign", "polygon"],
     "Sports": ["espn", "fox-sports", "the-sport-bible", "bleacher-report", "talksport"],
 }
-removals_by_category = {
-    "General": {
-        "Left":   {"breitbart-news", "fox-news", "usa-today"},
-        "Center-Left": {"breitbart-news", "fox-news", "associated-press"},
-        "Center": {"breitbart-news", "associated-press"},
-        "Center-Right": {"breitbart-news", "cnn", "associated-press"},
-        "Right":  {"usa-today", "cnn", "associated-press"},
-    },
-    "Politics": {
-        "Left":   {"breitbart-news", "fox-news", "the-hill"},
-        "Center-Left": {"breitbart-news", "fox-news", "msnbc"},
-        "Center": {"breitbart-news", "msnbc"},
-        "Center-Right": {"breitbart-news", "cnn", "msnbc"},
-        "Right":  {"the-hill", "cnn", "msnbc"},
-    }
-}
 
 # Map NewsAPI source IDs to real names
 source_display_names = {
     "breitbart-news": "Breitbart News",
+    "the-amercian-conservative": "The American Conservative",
     "fox-news": "Fox News",
-    "usa-today": "USA Today",
-    "cnn": "CNN",
-    "associated-press": "Associated Press",
+    "the-jerusalem-post": "The Jerusalem Post",
     "the-hill": "The Hill",
+    "associated-press": "Associated Press",
+    "usa-today": "USA Today",
+    "cbs-news": "CBS News",
+    "nbc-news": "NBC News",
+    "abc-news": "ABC News",
+    "cnn": "CNN",
     "msnbc": "MSNBC",
     "financial-post": "Financial Post",
     "business-insider": "Business Insider",
@@ -80,10 +69,34 @@ source_display_names = {
     "talksport": "talkSPORT",
 }
 
+source_map_input = {
+    "Breitbart": "breitbart-news",
+    "American Conservative": "the-amercian-conservative",
+    "Fox News": "fox-news",
+    "The Jerusalem Post": "the-jerusalem-post",
+    "The Hill": "the-hill",
+    "Associated Press": "associated-press",
+    "USA Today": "usa-today",
+    "CBS": "cbs-news",
+    "NBC": "nbc-news",
+    "ABC": "abc-news",
+    "CNN": "cnn",
+    "MSNBC": "msnbc",
+}
+
 # Choose options
-chosen_categories = ["Technology", "Sports"]
-chosen_keywords = ["Tesla", "Apple", "Knicks"]
-chosen_politics = "Center"
+chosen_categories = ["General", "Sports"]
+chosen_keywords = ["Tesla", "Knicks"]
+chosen_general_sources = ["Breitbart", "Fox News", "CNN", "Associated Press"]
+chosen_political_sources = ["Breitbart", "Fox News", "CNN", "Associated Press"]
+categories["General"] = [
+    source_map_input.get(src, src.lower().replace(' ', '-'))
+    for src in chosen_general_sources
+]
+categories["Politics"] = [
+    source_map_input.get(src, src.lower().replace(' ', '-'))
+    for src in chosen_political_sources
+]
 chosen_voice = 1
 voice_map = {
     1: "ballad",
@@ -97,15 +110,13 @@ speed_map = {
     "Slow": 0.75,
     "Normal": 1,
     "Fast": 1.25,
-    "Faster": 1.5,
-    "Very Fast": 1.75,
+    "Very Fast": 1.5,
 }
 wpm_map = {
     "Slow": 134,
     "Normal": 178,
     "Fast": 223,
-    "Faster": 267,
-    "Very Fast": 356,
+    "Very Fast": 267,
 }
 chosen_time_range = "14 days"
 range_map = {
@@ -135,9 +146,6 @@ display_sources = [
 ]
 
 source_removals = set()
-for category in chosen_categories:
-    if category in removals_by_category:
-        source_removals |= removals_by_category[category][chosen_politics]
 chosen_sources = [s for s in chosen_sources if s not in source_removals]
 
 source_to_category = {}
@@ -228,7 +236,6 @@ output = {
     "settings/input": {
         "categories": chosen_categories,
         "keywords": chosen_keywords,
-        "politics": chosen_politics,
         "sources": display_sources,
         "start_date": start_date,
         "end_date": end_date,
