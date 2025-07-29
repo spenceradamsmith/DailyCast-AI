@@ -6,6 +6,7 @@ from datetime import datetime, timedelta, timezone
 from collections import defaultdict
 from difflib import SequenceMatcher
 from pathlib import Path
+import tempfile
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from openai import OpenAI
@@ -21,6 +22,8 @@ async def root_health():
 NEWSAPI_KEY = os.environ["NEWSAPI_KEY"]
 OPENAI_KEY   = os.environ["OPENAI_KEY"]
 client = OpenAI(api_key=OPENAI_KEY)
+
+tmp = Path(tempfile.gettempdir())
 
 # Define input model
 class PodcastInput(BaseModel):
@@ -275,7 +278,7 @@ async def generate_podcast(podcast_input: PodcastInput):
     }
 
     # Save JSON output
-    output_path = Path("podsmith_output.json")
+    output_path = tmp / "podsmith_output.json"
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
@@ -304,7 +307,7 @@ async def generate_podcast(podcast_input: PodcastInput):
     script = response.output_text
 
     # Save script
-    script_path = Path("podcast_script.txt")
+    script_path = tmp / "podcast_script.txt"
     with open(script_path, "w", encoding="utf-8") as f:
         f.write(script)
 
@@ -315,7 +318,7 @@ async def generate_podcast(podcast_input: PodcastInput):
         input=script
     )
     summary = summary_response.output_text
-    summary_path = Path("podcast_summary.txt")
+    summary_path = tmp / "podcast_summary.txt"
     with open(summary_path, "w", encoding="utf-8") as f:
         f.write(summary)
 
@@ -326,12 +329,12 @@ async def generate_podcast(podcast_input: PodcastInput):
         input=script
     )
     episode_title = title_response.output_text.strip()
-    title_path = Path("podcast_title.txt")
+    title_path = tmp / "podcast_title.txt"
     with open(title_path, "w", encoding="utf-8") as f:
         f.write(episode_title)
 
     # Generate audio
-    audio_path = Path("podcast_audio.mp3")
+    audio_path = tmp / "podcast_audio.mp3"
     with client.audio.speech.with_streaming_response.create(
         model="gpt-4o-mini-tts",
         voice=voice_map[chosen_voice],
@@ -352,16 +355,16 @@ async def generate_podcast(podcast_input: PodcastInput):
 @app.get("/download/{file_type}")
 async def download_file(file_type: str):
     file_map = {
-        "script": "podcast_script.txt",
-        "summary": "podcast_summary.txt",
-        "title": "podcast_title.txt",
-        "audio": "podcast_audio.mp3",
-        "json": "podsmith_output.json"
+        "script": tmp / "podcast_script.txt",
+        "summary": tmp / "podcast_summary.txt",
+        "title": tmp / "podcast_title.txt",
+        "audio": tmp / "podcast_audio.mp3",
+        "json": tmp / "podsmith_output.json"
     }
     file_path = file_map.get(file_type)
-    if not file_path or not Path(file_path).exists():
-        raise HTTPException(status_code=404, detail="File not found")
-    return FileResponse(file_path)
+    if not file_path.exists():
+        raise HTTPException(status_code = 404, detail = "File not found")
+    return FileResponse(str(file_path))
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port = 8000)
