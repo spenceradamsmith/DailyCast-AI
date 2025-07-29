@@ -2,7 +2,6 @@ import os
 import requests
 import re
 import json
-from dotenv import load_dotenv
 from datetime import datetime, timedelta, timezone
 from collections import defaultdict
 from difflib import SequenceMatcher
@@ -19,9 +18,8 @@ async def root_health():
     return {"status": "ok"}
 
 # Load environment variables
-load_dotenv()
-NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
-OPENAI_KEY = os.getenv("OPENAI_KEY")
+NEWSAPI_KEY = os.environ["NEWSAPI_KEY"]
+OPENAI_KEY   = os.environ["OPENAI_KEY"]
 client = OpenAI(api_key=OPENAI_KEY)
 
 # Define input model
