@@ -1,4 +1,4 @@
 Retrieving logs...
-Logs were saved to /Users/spencersmith/Desktop/PodSmithGit/.elasticbeanstalk/logs/250729_020127
-Logs were saved to /Users/spencersmith/Desktop/PodSmithGit/.elasticbeanstalk/logs/250729_020127
+Logs were saved to /Users/spencersmith/Desktop/PodSmithGit/.elasticbeanstalk/logs/250729_020708
+Logs were saved to /Users/spencersmith/Desktop/PodSmithGit/.elasticbeanstalk/logs/250729_020708
 Updated symlink at /Users/spencersmith/Desktop/PodSmithGit/.elasticbeanstalk/logs/latest
