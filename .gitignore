@@ -1,1 +1,27 @@
+# Local env & venv
 .env
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS cruft
+.DS_Store
+
+# Editor folders
+.vscode/
+.idea/
+
+# Elastic Beanstalk configs (if you don’t want to version these)
+.elasticbeanstalk/
+
+# Build artifacts / logs / outputs
+podsmith_output.json
+podcast_script.txt
+podcast_summary.txt
+podcast_title.txt
+spee.mp3
+*.log
+
+# Secrets or local test DBs
+*.sqlite3

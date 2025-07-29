@@ -14,7 +14,7 @@ NEWSAPI_KEY = os.getenv("NEWSAPI_KEY")
 client = OpenAI(
     api_key = os.getenv("OPENAI_KEY")
 )
-speech_file_path = Path(__file__).parent / "speech.mp3"
+speech_file_path = Path(__file__).parent / "podcast_audio.mp3"
 
 # Mapping categories to source names
 categories = {
