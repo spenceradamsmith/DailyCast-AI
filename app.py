@@ -14,6 +14,9 @@ from fastapi.responses import FileResponse, JSONResponse
 import uvicorn
 
 app = FastAPI()
+@app.get("/", include_in_schema = False)
+async def root_health():
+    return JSONResponse({"status": "ok"})
 
 # Load environment variables
 load_dotenv()
@@ -142,10 +145,6 @@ def to_date(s):
         return datetime.strptime(s, "%Y-%m-%d")
     except Exception:
         return datetime.min
-    
-@app.get("/health", include_in_schema=False)
-async def health_check():
-   return {"status": "ok"}
 
 @app.post("/generate_podcast")
 async def generate_podcast(podcast_input: PodcastInput):
