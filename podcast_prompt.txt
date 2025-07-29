@@ -35,28 +35,18 @@ Output only the raw script text.
       "Bleacher Report",
       "talkSPORT"
     ],
-    "start_date": "2025-07-26",
-    "end_date": "2025-07-28",
-    "range_days": 2,
+    "start_date": "2025-07-27",
+    "end_date": "2025-07-29",
+    "timeframe_days": 2,
     "podcast_length_min": 5,
     "speech_speed": "Normal",
     "voice": "ballad",
-    "results_reported": 2,
-    "generated_at": "2025-07-28T22:56:36.934865+00:00"
+    "results_reported": 1,
+    "generated_at": "2025-07-29T00:13:34.174763+00:00"
   },
   "articles/output": {
     "General": {
       "Tesla": [
-        {
-          "source": "Fox News",
-          "primary_category": "General",
-          "title": "Grok AI is now part of new Tesla vehicles",
-          "description": "Tesla vehicles manufactured since mid-2021 with AMD Ryzen processors can now access Grok 4, xAI's witty conversational assistant designed to make drives more engaging.",
-          "content": "Chatting with Grok while cruising in your Tesla is now a reality. The conversational artificial intelligence is being included in newer models, according to Elon Musk. Having Grok around will hop\u2026 [+4021 chars]",
-          "url": "https://www.foxnews.com/tech/grok-ai-now-part-new-tesla-vehicles",
-          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/3-grok-ai-is-now-part-of-new-tesla-vehicles.jpg",
-          "publishedAt": "2025-07-26"
-        },
         {
           "source": "CNN",
           "primary_category": "General",
@@ -72,7 +62,7 @@ Output only the raw script text.
   },
   "group article counts": {
     "General": {
-      "Tesla": 2
+      "Tesla": 1
     }
   }
 }
