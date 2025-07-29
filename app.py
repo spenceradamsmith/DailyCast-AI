@@ -30,7 +30,7 @@ class PodcastInput(BaseModel):
     chosen_length: int = 5
     chosen_timeframe: int = 2
     chosen_speed: str = "Normal"
-    chosen_voice: int = "male1"
+    chosen_voice: str = "male1"
 
 # Source mappings and configurations
 categories = {
