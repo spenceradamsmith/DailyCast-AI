@@ -91,7 +91,7 @@ chosen_political_sources = ["Breitbart", "Fox News", "CNN", "Associated Press"]
 chosen_length = 5
 chosen_timeframe = 2
 chosen_speed = "Normal"
-chosen_voice = 1
+chosen_voice = "male1"
 categories["General"] = [
     source_map_input.get(src, src.lower().replace(' ', '-'))
     for src in chosen_general_sources
@@ -101,10 +101,10 @@ categories["Politics"] = [
     for src in chosen_political_sources
 ]
 voice_map = {
-    1: "ballad",
-    2: "echo",
-    3: "fable",
-    4: "shimmer"
+    "male1": "ballad",
+    "male2": "echo",
+    "female1": "fable",
+    "female2": "shimmer"
 }
 speed_map = {
     "Slow": 0.75,

@@ -1,5 +1,5 @@
-fastapi==0.100.0
-uvicorn[standard]==0.23.2
-python-dotenv==1.0.0
-requests==2.31.0
-openai==0.31.0
+fastapi>=0.115.0
+uvicorn>=0.30.6
+python-dotenv>=1.0.1
+requests>=2.32.3
+openai>=1.44.1
