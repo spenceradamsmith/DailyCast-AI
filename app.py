@@ -20,7 +20,7 @@ async def root_health():
 
 # Load environment variables
 NEWSAPI_KEY = os.environ["NEWSAPI_KEY"]
-OPENAI_KEY   = os.environ["OPENAI_KEY"]
+OPENAI_KEY = os.environ["OPENAI_KEY"]
 client = OpenAI(api_key=OPENAI_KEY)
 
 tmp = Path(tempfile.gettempdir())
@@ -119,13 +119,13 @@ def fetch_articles(chosen_sources, chosen_keywords, start_date, end_date):
         "sortBy": "popularity",
         "language": "en",
     }
-    response = requests.get("https://newsapi.org/v2/everything", params=params, timeout=30)
+    response = requests.get("https://newsapi.org/v2/everything", params = params, timeout = 30)
     return response.json()
 
 def normalize_title(t: str):
     return " ".join((t or "").lower().split())
 
-def fuzzy_dedup(articles, threshold=0.9):
+def fuzzy_dedup(articles, threshold = 0.9):
     kept = []
     for art in articles:
         t = normalize_title(art["title"])
@@ -172,11 +172,11 @@ async def generate_podcast(podcast_input: PodcastInput):
     low_bound_words = int(chosen_total_words * 0.99)
     high_bound_words = int(chosen_total_words * 1.01)
 
-    # Set up timeframe
+    # Set up timeframe (adjusted to past)
     today = datetime.now(timezone.utc)
-    start_dt = today - timedelta(days=chosen_timeframe)
+    start_dt = today - timedelta(days=chosen_timeframe + 7)
     start_date = start_dt.strftime('%Y-%m-%d')
-    end_date = today.strftime('%Y-%m-%d')
+    end_date = (today - timedelta(days=7)).strftime('%Y-%m-%d')
 
     # Get chosen sources
     chosen_sources = []
@@ -190,10 +190,13 @@ async def generate_podcast(podcast_input: PodcastInput):
     for category, sources in categories.items():
         for s in sources:
             source_to_category[s] = category
+            display_name = source_display_names.get(s, s)
+            source_to_category[display_name] = category
 
     # Fetch and process articles
     raw_payload = fetch_articles(chosen_sources, chosen_keywords, start_date, end_date)
     raw_articles = raw_payload.get("articles", [])
+    print("Raw articles count:", len(raw_articles))
 
     reformatted = []
     for a in raw_articles:
@@ -201,6 +204,7 @@ async def generate_podcast(podcast_input: PodcastInput):
         src_name = src.get("name")
         src_id = src.get("id")
         primary_category = source_to_category.get(src_id, source_to_category.get(src_name, "Unknown"))
+        print(f"Article: {a.get('title', 'No title')}, Source ID: {src_id}, Source Name: {src_name}, Category: {primary_category}")
         published_raw = a.get("publishedAt") or ""
         published_date = published_raw.split("T")[0] if "T" in published_raw else published_raw
 
@@ -217,8 +221,9 @@ async def generate_podcast(podcast_input: PodcastInput):
 
     # Deduplicate articles
     seen = set()
-    exact_dedup = [art for art in reformatted if not (normalize_title(art["title"]) in seen or seen.add(normalize_title(art["title"]))) ]
+    exact_dedup = [art for art in reformatted if not (normalize_title(art["title"]) in seen or seen.add(normalize_title(art["title"])))]
     final_articles = fuzzy_dedup(exact_dedup, threshold=0.9)
+    print("Final articles count:", len(final_articles))
 
     # Group and sort articles
     keyword_patterns = {kw: re.compile(r'\b' + re.escape(kw) + r'\b', re.IGNORECASE) for kw in chosen_keywords}
@@ -237,6 +242,8 @@ async def generate_podcast(podcast_input: PodcastInput):
         elif not matched_any:
             grouped[cat]["__UNMATCHED__"].append(art)
 
+    print("Grouped articles:", dict(grouped))
+
     for kwdict in grouped.values():
         for arts in kwdict.values():
             arts.sort(key=lambda a: to_date(a.get("publishedAt", "")), reverse=False)
@@ -254,6 +261,7 @@ async def generate_podcast(podcast_input: PodcastInput):
         if cat in grouped:
             kwdict = grouped[cat]
             ordered_grouped[cat] = {kw: kwdict[kw] for kw in sorted(kwdict.keys(), key=keyword_order_key)}
+    print("Ordered grouped articles:", ordered_grouped)
 
     # Create output JSON
     output = {
@@ -277,10 +285,12 @@ async def generate_podcast(podcast_input: PodcastInput):
         }
     }
 
+    print("Output before saving:", output)
     # Save JSON output
     output_path = tmp / "podsmith_output.json"
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
+    print("Output after saving:", output)
 
     # Generate podcast script
     system_prompt = f"""
@@ -344,6 +354,7 @@ async def generate_podcast(podcast_input: PodcastInput):
     ) as audio_response:
         audio_response.stream_to_file(audio_path)
 
+    print("Output before return:", output)
     return {
         "script": script,
         "summary": summary,

@@ -41,8 +41,8 @@ Output only the raw script text.
     "podcast_length_min": 5,
     "speech_speed": "Normal",
     "voice": "ballad",
-    "results_reported": 1,
-    "generated_at": "2025-07-29T00:13:34.174763+00:00"
+    "results_reported": 3,
+    "generated_at": "2025-07-29T16:32:04.872283+00:00"
   },
   "articles/output": {
     "General": {
@@ -56,13 +56,33 @@ Output only the raw script text.
           "url": "https://www.cnn.com/2025/07/27/business/musk-tesla-diner-protest",
           "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25206783635180.jpg?c=16x9&q=w_800,c_fill",
           "publishedAt": "2025-07-27"
+        },
+        {
+          "source": "Breitbart News",
+          "primary_category": "General",
+          "title": "'Tesla Takedown' Protesters Target Elon Musk's Hollywood Diner",
+          "description": "Protesters furious with Elon Musk and Tesla have found a new place to share their displeasure with the billionaire who was once idolized by the left: Musk's recently opened 24-hour Tesla Diner in Hollywood.The post \u2018Tesla Takedown\u2019 Protesters Target Elon Mus\u2026",
+          "content": "Protesters furious with Elon Musk and Tesla have found a new place to share their displeasure with the billionaire who was once idolized by the left: Musk\u2019s recently opened 24-hour Tesla Diner in Hol\u2026 [+2582 chars]",
+          "url": "https://www.breitbart.com/tech/2025/07/28/tesla-takedown-protesters-target-elon-musks-los-angeles-diner/",
+          "image": "https://media.breitbart.com/media/2025/07/Tesla-diner-at-night-640x335.jpg",
+          "publishedAt": "2025-07-28"
+        },
+        {
+          "source": "CNN",
+          "primary_category": "General",
+          "title": "Elon Musk says Tesla and Samsung have signed a $16.5 billion chip deal | CNN Business",
+          "description": "Tesla CEO Elon Musk said the U.S. automaker had signed a $16.5 billion deal to source chips from Samsung Electronics, a move expected to bolster the South Korean tech giant\u2019s loss-making contract manufacturing business.",
+          "content": "Tesla CEO Elon Musk said the U.S. automaker had signed a $16.5 billion deal to source chips from Samsung Electronics, a move expected to bolster the South Korean tech giants loss-making contract manu\u2026 [+3642 chars]",
+          "url": "https://www.cnn.com/2025/07/28/business/tesla-samsung-chip-deal",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2184585949-20250728110847600.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2025-07-28"
         }
       ]
     }
   },
   "group article counts": {
     "General": {
-      "Tesla": 1
+      "Tesla": 3
     }
   }
 }

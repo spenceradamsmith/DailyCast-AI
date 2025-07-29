@@ -20,8 +20,8 @@ payload = {
 
 resp = requests.post(
     f"{BASE_URL}/generate_podcast",
-    json=payload,
-    timeout=60
+    json = payload,
+    timeout = 60
 )
 
 # Print status and raw body
