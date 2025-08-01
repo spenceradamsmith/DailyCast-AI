@@ -1,4 +1,4 @@
-# PodSmith
+# DailyCast AI
 
 All rights reserved.
 
